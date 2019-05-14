@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<!--This layout is optimised to include Jupyter notebooks in your site. -->
+<html>
+<!--custom header -->
+{% include head.html %}
+
+<!-- scroller for TOC-->
+<body data-spy="scroll" data-target="#toc">
+
+<!-- sidebar-->
+  {%include sidebar.html%}
+
+<!--main content needs to be in a wrap for
+when the sidebar is displayed-->
+  <div class='wrap'>
+
+  <!-- navbar -->
+  {% include nav.html %}
+  </div>
+  <div class='wrap'>
+    <div class="container">
+      <div class="row">
+
+      <!-- info on the notebook version -->
+        <div class="nb_top col-sm-8">
+          <!-- Removed the title from the top -->
+          <!-- <h2> {{page.title}} </h2> -->
+          <br>
+          {% if page.author %}
+          Commit author:  {{page.author}}
+          <br />
+          {% else %}
+          Author:  {{site.author.name}}
+          <br>
+          {% endif %}
+          Last updated:  {{page.update_date}}
+          <br>
+          Code version: <strong> {{page.code_version}} </strong>
+          <br>
+          <div class="badge">
+            {% if page.validation_pass == 'yes' %}
+            <img src="https://img.shields.io/badge/notebook-validated-brightgreen.svg" alt="pass" class="badge_img">
+            {% elsif page.validation_pass == 'no' %}
+            <img src="https://img.shields.io/badge/notebook-validation failed-red.svg" alt="nopass">
+            {% else %}
+            <img src="https://img.shields.io/badge/notebook%20validation-unknown-yellow.svg" alt="unknown">
+            {% endif %}
+          </div>
+          <hr>
+        </div>
+
+      <!--- Main content--->
+      <div class="col-sm-8">
+        <main>
+          {{content}}
+        </main>
+      </div>
+
+      <!-- TOC sidebar, which will move to the top on a small screen -->
+      <div class="col-sm-4 toc_well">
+        <nav id="toc" data-spy="affix" data-toggle="toc"></nav>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Side bar -->
+<label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+<!-- Floating action buttons -->
+<div class='container'>
+  <div class='row'>
+    <div class="col-sm-8">
+    {%include action_buttons.html%}
+    <br>
+  </div>
+  </div>
+</div>
+
+</body>
+
+<!-- JS to load faster -->
+{%include foot.html %}
+
+
+</html>

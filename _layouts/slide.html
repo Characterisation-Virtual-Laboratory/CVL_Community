@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<!--This layout is used for creating a Reveal.js slide deck. -->
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="{{"/css/reveal.min.css" | absolute_url}}">
+		<link rel="stylesheet" href="{{"/css/theme/default.css" | absolute_url | replace: 'default',page.theme}}" id="theme"> <!-- This is where THEME -->
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="{{"/reveal.js/lib/css/zenburn.css" | absolute_url }}">
+
+		<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+		<script>
+			if( window.location.search.match( /print-pdf/gi ) ) {
+				var link = document.createElement( 'link' );
+				link.rel = 'stylesheet';
+				link.type = 'text/css';
+				link.href = '{{"/reveal.js/css/print/pdf.css" | absolute_url}}';
+				document.getElementsByTagName( 'head' )[0].appendChild( link );
+			}
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+
+		<!-- Pygments Github CSS -->
+		<link rel="stylesheet" href="{{ "/reveal.js/css/syntax.css" | absolute_url }}">
+
+
+	</head>
+
+	<body>
+		<div class="reveal">
+			<div class="slides">
+{{ content }}
+			</div>
+		</div>
+
+		<script src="{{"/reveal.js/lib/js/head.min.js " | absolute_url }}"> </script>
+		<script src="{{"/reveal.js/js/reveal.min.js " | absoltue_url }}"></script>
+
+		<script>
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: '{{ page.trans }}', // default/cube/page/concave/zoom/linear/fade/none
+				// Parallax scrolling
+				// parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
+				// parallaxBackgroundSize: '2100px 900px',
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: '{{"/reveal.js/lib/js/classList.js" | absolute_url }}', condition: function() { return !document.body.classList; } },
+					{ src: '{{"/reveal.js/plugin/markdown/marked.js" | absolute_url }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '{{"/reveal.js/plugin/markdown/markdown.js" | absolute_url }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '{{"/reveal.js/plugin/highlight/highlight.js" | absolute_url }}', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: '{{"/reveal.js/plugin/zoom-js/zoom.js" | absolute_url }}', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: '{{"/reveal.js/plugin/notes/notes.js" | absolute_url }}', async: true, condition: function() { return !!document.body.classList; } },
+        	{ src: '{{"/reveal.js/plugin/math/math.js" | absolute_url }}', async: true }
+				]
+			});
+		</script>
+	</body>
+
+
+</html>

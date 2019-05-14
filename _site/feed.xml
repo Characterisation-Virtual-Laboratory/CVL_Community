@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CVL Community</title>
+    <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
+    <link>http://localhost:4000/CVL_Community/</link>
+    <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 14 May 2019 16:08:27 +1000</pubDate>
+    <lastBuildDate>Tue, 14 May 2019 16:08:27 +1000</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Sign up to CVL at QRISCloud</title>
+        <description>&lt;p&gt;The University of Queensland’s Research Computing Centre (RCC)
+is building the Characterisation Virtual Laboratory (CVL)
+desktop to enable UQ researchers to keep data nearby and
+leverage a local system for imaging workloads.&lt;/p&gt;
+
+&lt;h1 id=&quot;getting-started-with-cvl-at-qriscloud&quot;&gt;Getting started with CVL at QRISCloud&lt;/h1&gt;
+
+&lt;p&gt;The process to get an account to use the CVL at QRISCloud
+requires a few steps, starting with gaining access to
+computing resources. Keep in mind the CVL at QRISCloud desktop
+is currently in &lt;strong&gt;testing mode&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Register for a &lt;a href=&quot;https://www.qriscloud.org.au/&quot;&gt;QRIScloud Account&lt;/a&gt; using your institution Australia Access Federation (AAF) credentials.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.qriscloud.org.au/index.php/services&quot;&gt;Register to use the Awoonga cluster&lt;/a&gt; to get access to the CVL at Awoonga.&lt;/li&gt;
+  &lt;li&gt;Join the CVL project. Please include a meaningful description in the &lt;a href=&quot;https://services.qriscloud.org.au/access/336df5742362455f923d7ea9efb39133/member&quot;&gt;form&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Go to &lt;a href=&quot;https://cvl.qriscloud.org.au&quot;&gt;strudel web&lt;/a&gt; and select &lt;em&gt;uqcvl-auth&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;If asked, please login with your institutional credentials through AAF.&lt;/li&gt;
+      &lt;li&gt;Click on &lt;em&gt;Awoonga-SpecialQ&lt;/em&gt;, then &lt;em&gt;Launch&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;A desktop will start with state checked, click &lt;em&gt;Show Desktop&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For general inquires about the CVL at QRISCloud, please
+contact &lt;a href=&quot;mailto:e.scriven@uq.edu.au&quot;&gt;CVL at QRISCloud helpdesk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;read-more-about-the-cvl-at-qriscloud&quot;&gt;Read more about the CVL at QRISCloud&lt;/h2&gt;
+&lt;p&gt;A new deployment of the CVL in Queensland provided by
+QRISCloud is currently being tested and will become available
+in the next months. You can read more about this deployment &lt;a target=&quot;_blank&quot; href=&quot;https://rcc.uq.edu.au/article/2019/02/rcc-works-virtual-lab-imaging-research&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Last updated on May 14, 2019.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 May 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/CVL-QRISCloud-get_account/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/CVL-QRISCloud-get_account/</guid>
+        
+        <category>external</category>
+        
+        <category>sign-in</category>
+        
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>Sign up to CVL at MASSIVE</title>
+        <description>&lt;p&gt;Characterisation Virtual Laboratory (CVL) desktop service is
+provided as a national resource by MASSIVE (&lt;a href=&quot;https://www.massive.org.au/&quot;&gt;Multi-Modal Australian Sciences Imaging and Visualisation Environment&lt;/a&gt;). MASSIVE
+provides researchers with the computing resources and tools to
+apply high-throughput parallel processing and deep learning
+techniques to solve research questions, and allows researchers
+to more effectively extract knowledge from scientific data.&lt;/p&gt;
+
+&lt;h1 id=&quot;getting-started-with-cvl-at-massive&quot;&gt;Getting started with CVL at MASSIVE&lt;/h1&gt;
+
+&lt;p&gt;The process to get an account to use the CVL at MASSIVE
+requires a few steps, starting with gaining access to
+computing resources. Keep in mind the CVL at MASSIVE desktop
+is currently the national resource and any Australian
+researcher can apply for an account.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hpc.erc.monash.edu.au/aafbootstrap&quot;&gt;Log in to HPCID&lt;/a&gt; using your institution Australia Access Federation (AAF) credentials.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hpc.erc.monash.edu.au/karaage/&quot;&gt;Password reset&lt;/a&gt;, click [Change Linux Password].&lt;/li&gt;
+  &lt;li&gt;Create or join an existing project
+    &lt;ul&gt;
+      &lt;li&gt;If you are a &lt;em&gt;principal investigator or a project manager&lt;/em&gt; please &lt;em&gt;send a project request to MASSIVE&lt;/em&gt; by filling the following &lt;a href=&quot;https://forms.gle/GUktMZPKUHLsMGNT8&quot;&gt;form&lt;/a&gt;. You will get a response in about 3 working days.&lt;/li&gt;
+      &lt;li&gt;If you are a &lt;em&gt;student or research assistant&lt;/em&gt; you need your supervisor or manager to get a project first and then give you the &lt;em&gt;project code to join&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Go to &lt;a href=&quot;https://desktop.cvl.org.au/strudel-web/#/system-selector&quot;&gt;strudel web&lt;/a&gt; (or strudel desktop) and select &lt;em&gt;M3 and CVL @ MASSIVE&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;If asked, please login with your institutional credentials through AAF.&lt;/li&gt;
+      &lt;li&gt;Click on &lt;em&gt;M3 standard Desktop&lt;/em&gt;, then &lt;em&gt;Launch&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;A desktop will start with state checked, click &lt;em&gt;Show Desktop&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For general inquires about the CVL at MASSIVE, please contact &lt;a href=&quot;mailto:help@massive.org.au&quot;&gt;MASSIVE helpdesk&lt;/a&gt;.
+If you need more information and/or screenshots please visit the CVL documentation &lt;a href=&quot;https://www.cvl.org.au/cvl-desktop/cvl-accounts&quot;&gt;CVL accounts&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-massive&quot;&gt;What is MASSIVE?&lt;/h2&gt;
+&lt;p&gt;(&lt;a href=&quot;https://www.massive.org.au/&quot;&gt;Multi-Modal Australian Sciences Imaging and Visualisation Environment&lt;/a&gt;)’s impact to
+science is broad, and includes basic discoveries in the
+biological, medical, computational, engineering and
+environmental sciences.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2ky5Ju_nVKk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Last updated on May 14, 2019.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 May 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/CVL-MASSIVE-get-account/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/CVL-MASSIVE-get-account/</guid>
+        
+        <category>external</category>
+        
+        <category>sign-in</category>
+        
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>Champions Program 2019</title>
+        <description>&lt;p&gt;The CVL Champions program is a community of researchers, university lecturers,
+and health professionals who will be part of a skills development program.&lt;/p&gt;
+
+&lt;h1 id=&quot;champions-program-2019&quot;&gt;Champions Program 2019&lt;/h1&gt;
+
+&lt;p&gt;The CVL Champions program is a community of researchers, university lecturers,
+and health professionals who will be part of a skills development program. The
+program’s aim is to enhance the use of the Characterisation infrastructure
+to connect research with instrument and reproducible research workflows.&lt;/p&gt;
+
+&lt;h2 id=&quot;application&quot;&gt;Application&lt;/h2&gt;
+&lt;p&gt;We are looking for a representative cohort of people who are keen to learn about data best practices and give training in return in their domain expertise. Women applicants are specially encouraged to apply. The group of selected champions will meet in person for two days in October, &lt;em&gt;with all costs paid&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;application-process&quot;&gt;Application process&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Open applications from 18th of June, 2019.&lt;/li&gt;
+  &lt;li&gt;Zoom information session 17th of July, 2019.&lt;/li&gt;
+  &lt;li&gt;Applications close on 31st of July, 2019.&lt;/li&gt;
+  &lt;li&gt;Selected applicants will be contacted on 9th of August, 2019.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;requirements&quot;&gt;Requirements&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Commit to attending and participating in the three programmed events, 2 online and 1 in person (see program below).&lt;/li&gt;
+  &lt;li&gt;Commit to continuation of the training effort for at least until end of 2020.&lt;/li&gt;
+  &lt;li&gt;Give at least 2 trainings a year, one of which has to be part of the CVL trainings.&lt;/li&gt;
+  &lt;li&gt;Help promote the Characterisation Virtual Laboratory and best data management practices.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;description-of-the-champions-program-2019&quot;&gt;Description of the Champions Program 2019&lt;/h2&gt;
+
+&lt;h3 id=&quot;why-being-a-characterisation-champion&quot;&gt;Why being a Characterisation champion?&lt;/h3&gt;
+
+&lt;p&gt;The Characterisation champions are a community exemplar who will work together remotely and in person during two months (September/October 2019). We expect this selected group will self-coordinate, with the support of the Characterisation Training Coordinator. Coordination is needed to keep all members updated about training activities, maintenance of training materials, and encouragement of best data practices for the broader community.&lt;/p&gt;
+
+&lt;h3 id=&quot;champions-in-person-meeting-agenda&quot;&gt;Champions in person meeting agenda&lt;/h3&gt;
+&lt;p&gt;Champions will have 2 online meetings prior the in-person event to set SMART goals.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Zoom meetings and discussion, September 9th and 23rd, 2019.
+The group of selected champions will meet in person, &lt;em&gt;with all costs paid&lt;/em&gt;,
+ for an introductory training program of 2 days.&lt;/li&gt;
+  &lt;li&gt;In person workshop October 1st and 2nd, 2019. Location TBA&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The program for the in-person meeting will be:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;General introduction covering the data life cycle, the FAIR principles and a definition of data stewardship and data stewards.&lt;/li&gt;
+  &lt;li&gt;Stories of CVL users.&lt;/li&gt;
+  &lt;li&gt;All participants will get on board to use the CVL if they haven’t yet.&lt;/li&gt;
+  &lt;li&gt;Get started preparing open access materials for the Characterisation community.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 04 May 2019 16:06:12 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/champions/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/champions/</guid>
+        
+        
+        <category>FAIR</category>
+        
+        <category>champions</category>
+        
+      </item>
+    
+      <item>
+        <title>Data Management</title>
+        <description>&lt;p&gt;Recommended data management readings.&lt;/p&gt;
+
+&lt;h1 id=&quot;research-data-management&quot;&gt;Research Data Management&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vidensportal.deic.dk/sites/default/files/uploads/FAIR/poster%20A0%20150ppi.jpg&quot;&gt;A brief illustration&lt;/a&gt; of the Path to a successful research project, how to get on the right track with FAIR data management.&lt;/li&gt;
+  &lt;li&gt;Recommended reading 10 HASS Data things &lt;a href=&quot;https://tinker.edu.au/wp-content/uploads/2018/11/10-HASS-Data-Things.pdf&quot;&gt;Thing 3: Data Management planning&lt;/a&gt;
+on page 9. It includes activities and useful material about &lt;em&gt;How do you make a Data Management Plan?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;10 HASS Data things &lt;a href=&quot;https://tinker.edu.au/wp-content/uploads/2018/11/10-HASS-Data-Things.pdf&quot;&gt;Thing 3: Data Management planning&lt;/a&gt; by Sara King, Nov 2018. Accessed on 20th March, 2019.&lt;/li&gt;
+  &lt;li&gt;Ten simple rules for machine-actionable data management plans (&lt;a href=&quot;https://zenodo.org/record/1434938#.XJl_uaQRVhE&quot;&gt;preprint&lt;/a&gt;) by Tomasz Miksa, Stephanie Simms, Daniel Mietchen and Sarah Jones. Published on 13th Feb, 2018. Accessed on 20th March, 2019  DOI:10.5281/zenodo.1434938&lt;/li&gt;
+  &lt;li&gt;Path to a successful research project &lt;a href=&quot;https://vidensportal.deic.dk/sites/default/files/uploads/FAIR/poster%20A0%20150ppi.jpg&quot;&gt;illustration&lt;/a&gt;. DeiC / Deff / DTU / CBS / AAU / KU Rigsarkivet / Det Kgl Bibliotek. 2018&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 22 Mar 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/Data-Management/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/Data-Management/</guid>
+        
+        <category>external</category>
+        
+        
+        <category>FAIR</category>
+        
+      </item>
+    
+      <item>
+        <title>Publicly accessible software tutorials</title>
+        <description>&lt;p&gt;A list of publicly accessible tutorials with a short description.
+We will appreciate if you can curate and/or add to this list.&lt;/p&gt;
+
+&lt;h1 id=&quot;tutorials-from-external-resources&quot;&gt;Tutorials from external resources&lt;/h1&gt;
+
+&lt;h2 id=&quot;list-of-all-tutorials-ordered-by-alphabet-name&quot;&gt;List of all tutorials ordered by Alphabet name&lt;/h2&gt;
+
+&lt;h3 id=&quot;the-image-data-resource&quot;&gt;The Image Data Resource&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Image Data Resource (IDR) publishes “reference image” datasets supporting conventional peer-reviewed publications and integrates them with other imaging datasets for cross-dataset querying of metadata (e.g. genes, phenotypes, small molecules) and re-analysis. &lt;a href=&quot;https://idr.openmicroscopy.org/about/submission.html&quot;&gt;Submission of datasets to IDR&lt;/a&gt; and an &lt;a href=&quot;https://github.com/IDR/idr-metadata&quot;&gt;IDR metadata example&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;freesurfer&quot;&gt;FreeSurfer&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If you want to learn &lt;a href=&quot;https://surfer.nmr.mgh.harvard.edu/fswiki/Tutorials&quot;&gt;FreeSurfer&lt;/a&gt; the documentation is ready to be explored.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;fiji&quot;&gt;FIJI&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://downloads.openmicroscopy.org/presentations/2018/GBI-Sydney/Sydney_Workshop_19092018.pdf&quot;&gt;OMERO + FIJI&lt;/a&gt; From GBI Sydney, Sep 2018. FIJI analysis starts on page 10. Author: Petr Walczysko part of Hands-on data management with OMERO.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://imagej.net/Category:Tutorials&quot;&gt;ImageJ tutorials&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/imagej/tutorials/tree/master/notebooks&quot;&gt;ImageJ tutorials using Jupyter notebooks&lt;/a&gt; This project contains example code for working with ImageJ and SciJava. &lt;a href=&quot;https://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;CC0 1.0 Universal license&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/github/imagej/tutorials/blob/master/notebooks/ImageJ-Tutorials-and-Demo.ipynb&quot;&gt;Using ImageJ&lt;/a&gt; &lt;a href=&quot;https://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;CC0 1.0 Universal license&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tischi/imagej-courses&quot;&gt;Practical exercises to learn image analysis using ImageJ/Fiji with a strong focus on biological fluorescence microscopy data&lt;/a&gt; Author: Christian “Tischi” Tischer, 2018 and 2019. Suggested to look at folder &lt;em&gt;handouts&lt;/em&gt; and &lt;em&gt;practicals&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ini.uzh.ch/~acardona/fiji-tutorial/&quot;&gt;Fiji scripting tutorial using python (jython)&lt;/a&gt; by Albert Cardona&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sydney.edu.au/medicine/bosch/facilities/advanced-microscopy/user-support/ImageJ_FL_Image_Analysis.pdf&quot;&gt;ImageJ and FIJI&lt;/a&gt; by Peter Bankhead&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://imagej.net/Getting_started_with_TrackMate&quot;&gt;Getting started with the plugin TrackMate&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://imagej.net/How_to_make_a_new_tutorial&quot;&gt;A very fast way to make tutorials in FIJI and upload them to the FIJI Wiki&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1vLYPyzsawvM807nqZuznb-gjemupmeZA/view&quot;&gt;A brief introduction to machine learning for bio-imaging&lt;/a&gt; &lt;a href=&quot;http://bit.do/ML-Imaging-WS&quot;&gt;http://bit.do/ML-Imaging-WS&lt;/a&gt; Nick Hamilton, Sep 2018 and March 2019. &lt;a href=&quot;https://imagej.net/Trainable_Weka_Segmentation&quot;&gt;Using FIJI with Trainable Weka&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;mrtrix&quot;&gt;MRtrix&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mrtrix.readthedocs.io/en/latest/&quot;&gt;MRtrix documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;omero&quot;&gt;OMERO&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1NOsgeQE5j3gH45npgg-wdQMvB9mDbiiQL37nlDU5Wpo/edit&quot;&gt;OMERO&lt;/a&gt; it redirects to &lt;a href=&quot;https://code.research.uts.edu.au/MIF/OMERO-instructions/wikis/home&quot;&gt;https://code.research.uts.edu.au/MIF/OMERO-instructions/wikis/home&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Updated on May 7th, 2019&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/other-tutorials/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/other-tutorials/</guid>
+        
+        <category>external</category>
+        
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+  </channel>
+</rss>
