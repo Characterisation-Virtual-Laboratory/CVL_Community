@@ -4,7 +4,7 @@ title:  "Sign up to CVL at MASSIVE"
 author: Paula
 categories: [ tutorial ]
 tags: [ external, sign-in ]
-image: assets/images/2.jpg
+image: assets/images/login-3938429_1280.png
 feature: true
 ---
 Characterisation Virtual Laboratory (CVL) desktop service is

@@ -4,7 +4,7 @@ title:  "Sign up to CVL at QRISCloud"
 author: Paula
 categories: [ tutorial ]
 tags: [ external, sign-in ]
-image: assets/images/2.jpg
+image: assets/images/login-3938429_1280.png
 feature: true
 ---
 The University of Queensland’s Research Computing Centre (RCC)
