@@ -16,7 +16,7 @@ The CVL Champions Program's aim is to create a community that stimulates network
 
 The CVL Champions is part of the Characterisation Data enhanced Virtual Laboratory (CDeVL) project, funded by the Australian Research Data Commons (ARDC).
 
-### Why be a CVL champion?
+## Why be a CVL champion?
 
 * Becoming a CVL champion provides access to networking, advanced skills development, and demonstrates service to the profession.
 * The program provides the Champions with all the ready-to-use materials and knowledge required so that they can confidently re-deliver similar workshops from the Program in their own institutions.
@@ -59,7 +59,7 @@ Champions will prepare SMART goals around the future uptake of FAIR data princip
 4. After the in person event, CVL Champions will have time to plan training activities for the coming months. CVL Champions are encouraged to self-coordinate, with the support of the Characterisation Training Coordinator.
 5. CVL Champions are in charge to keep all members updated about training activities, maintenance of training materials, and encouragement of best data practices for the broader community.
 
-### Got questions?
+# Got questions?
 
 Please contact the [Characterisation Training Coordinator](mailto:p.martinez@uq.edu.au).
 
