@@ -22,6 +22,15 @@ We will appreciate if you can curate and/or add to this list.
 
 * The Image Data Resource (IDR) publishes “reference image” datasets supporting conventional peer-reviewed publications and integrates them with other imaging datasets for cross-dataset querying of metadata (e.g. genes, phenotypes, small molecules) and re-analysis. [Submission of datasets to IDR](https://idr.openmicroscopy.org/about/submission.html) and an [IDR metadata example](https://github.com/IDR/idr-metadata).
 
+### computational Bioimaging
+
+From images (both light and electron microscopy) to data. This course will
+cover the process of dealing with microscopy data, converting between formats,
+analysing images in a clear and reproducible fashion and preparing images for
+publication. Includes FIJI, Python and OMERO. By Matthew Hartley 2015, from John
+Innes Centre, JIC. [Online tutorial](http://training.scicomp.jic.ac.uk/docs/bioimaging_course_book/index.html).
+Labeled for beginners in microscopy analysis.
+
 ### FreeSurfer
 
 * If you want to learn [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/Tutorials) the documentation is ready to be explored.
@@ -39,6 +48,15 @@ We will appreciate if you can curate and/or add to this list.
 * [A very fast way to make tutorials in FIJI and upload them to the FIJI Wiki](https://imagej.net/How_to_make_a_new_tutorial)
 * [A brief introduction to machine learning for bio-imaging](https://drive.google.com/file/d/1vLYPyzsawvM807nqZuznb-gjemupmeZA/view) [http://bit.do/ML-Imaging-WS](http://bit.do/ML-Imaging-WS) Nick Hamilton, Sep 2018 and March 2019. [Using FIJI with Trainable Weka](https://imagej.net/Trainable_Weka_Segmentation)
 
+### Git
+
+Git for Scientists by Miles McBain 2019. A 3.5 hour
+ introduction to basic shell and git/GitHub. Read and
+  follow along the [tutorial here](https://milesmcbain.github.io/git_4_sci/index.html).
+This work is licensed under a
+[Creative Commons Attribution-Share Alike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+
 ### MRtrix
 
 * [MRtrix documentation](https://mrtrix.readthedocs.io/en/latest/)
@@ -48,4 +66,4 @@ We will appreciate if you can curate and/or add to this list.
 * [OMERO](https://docs.google.com/document/d/1NOsgeQE5j3gH45npgg-wdQMvB9mDbiiQL37nlDU5Wpo/edit) it redirects to [https://code.research.uts.edu.au/MIF/OMERO-instructions/wikis/home](https://code.research.uts.edu.au/MIF/OMERO-instructions/wikis/home)
 
 
-Updated on May 7th, 2019
+Updated on May 15th, 2019
