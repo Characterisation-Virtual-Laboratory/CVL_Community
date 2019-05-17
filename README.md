@@ -7,7 +7,7 @@
 
 This repository collects tutorials, slides, and exercises developed and
 maintained by the Characterisation Virtual Laboratory community.
-https://paumart.github.io/CVL_Community/
+https://Characterisation-Virtual-Laboratory.github.io/CVL_Community/
 
 ## Welcome
 
@@ -19,8 +19,7 @@ for image and microscopy analysis.
 ## Get involved
 
 If you think you can help please check out the
-[contributors' guidelines](CONTRIBUTING.md)
-and our [roadmap](roadmap.md).
+[contributors' guidelines](CONTRIBUTING.md).
 
 Please note that it's very important to us that we
  maintain a positive and supportive environment for everyone
