@@ -31,16 +31,16 @@ interactions both on and offline.
 
 The content of the material is developed in Markdown and built as static website using ([Jekyll](http://jekyllrb.com/)).
 
-Do you want to help with this project? Contact us.
+Do you want to help with this project? [Contact us](p.martinez@uq.edu.au).
 
 ## Licensing
 
-The contents of this work is licensed under the [Creative Commons Attribution Share Alike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise stated.
+The contents of this work is licensed under the [Creative Commons International License (CC BY 4.0)](LICENSE.md) unless otherwise stated.
 
 # Acknowledgment and Funding
 
 *Thank you!*
 
-We would like to thank all contributors, especially those mentioned in the [Contributors list](CONTRIBUTORS.yaml), CVL partners and ARDC Funding.
+We would like to thank all contributors, especially those mentioned in the [Contributors list](CONTRIBUTORS.yaml), CVL partners and the Australian Research Data Commons (ARDC).
 
-We are reusing a style template **Mediumish for Jekyll**, 2019, designed and developed by [Sal](https://www.wowthemes.net) which is licensed under a MIT license.
+We are reusing a style template *Mediumish for Jekyll*, 2019, designed and developed by [Sal](https://www.wowthemes.net) which is licensed under a MIT license.
