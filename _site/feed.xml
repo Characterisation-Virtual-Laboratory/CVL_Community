@@ -5,8 +5,8 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 May 2019 12:49:01 +1000</pubDate>
-    <lastBuildDate>Fri, 17 May 2019 12:49:01 +1000</lastBuildDate>
+    <pubDate>Fri, 17 May 2019 15:41:58 +1000</pubDate>
+    <lastBuildDate>Fri, 17 May 2019 15:41:58 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -181,12 +181,110 @@ environmental sciences.&lt;/p&gt;
       </item>
     
       <item>
+        <title>Australian Characterisation Facilities</title>
+        <description>&lt;p&gt;Characterisation refers to the general process of probing and measuring the structures and properties of materials at the micro, nano and atomic scales.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-australian-characterisation-facilities&quot;&gt;The Australian Characterisation Facilities&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Characterisation refers to the general process of probing and measuring the structures and properties of materials at the micro, nano and atomic scales. It is essential across natural, agricultural, physical, life and biomedical sciences and engineering. Characterisation facilities, provide researchers in Australian universities, research centres, and industries with critical infrastructure, including both instrumentation and expertise, to enable quality research outcomes in an efficient and cost-effective manner.
+These facilities are a key capability that underpin flagship Australian research collaborations including ARC Centres of Excellence which are both significant users and partners in the development of future characterisation techniques and applications. The Australian Characterisation community and our partners bring together thousands of researchers who are driving the future of Australian imaging and innovation”.
+Read more about the Collaborative Australian Characterisation Informatics Strategy &lt;a href=&quot;https://www.cvl.org.au/__data/assets/pdf_file/0003/1367085/A-Collaborative-Australian-Characterisation-Informatics-Strategy.pdf&quot;&gt;here&lt;/a&gt;.*&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Characterisation Virtual Laboratory (CVL) is operated by MASSIVE in partnership with Monash University, Microscopy Australia, ANSTO, NIF, University of Sydney, University of Queensland, University of Western Australia, and University of Wollongong.&lt;/p&gt;
+
+&lt;h2 id=&quot;national-image-facility---nif&quot;&gt;&lt;a href=&quot;https://anif.org.au/&quot;&gt;National Image Facility - NIF&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Neuroscientists, imaging researchers and clinicians, platform engineers, and computational scientists. NIF nodes are &lt;a href=&quot;https://anif.org.au/nif-nodes/&quot;&gt;10 Universities plus ANSTO&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;New South Wales&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;University of Sydney / &lt;a href=&quot;https://sydney.edu.au/brain-mind/&quot;&gt;Brain &amp;amp; Mind Research Institute&lt;/a&gt; + ANSTO&lt;/li&gt;
+  &lt;li&gt;University of New South Wales / &lt;a href=&quot;https://www.analytical.unsw.edu.au/facilities/bril&quot;&gt;The Biological Resource Imaging Laboratory (BRIL)&lt;/a&gt; / &lt;a href=&quot;https://www.neura.edu.au/&quot;&gt;Imaging at Neuroscience Research Australia (NeuRA)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Western Sydney University&lt;/li&gt;
+  &lt;li&gt;The University of Queensland / &lt;a href=&quot;https://cai.centre.uq.edu.au/&quot;&gt;Centre for Advanced Imaging&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;South Australia&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Large Animal Research &amp;amp; Imaging Facility&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Victoria&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Florey Institute of Neuroscience &amp;amp; Mental Health&lt;/li&gt;
+  &lt;li&gt;Monash University&lt;/li&gt;
+  &lt;li&gt;Swinburne University of Technology&lt;/li&gt;
+  &lt;li&gt;University of Melbourne / &lt;a href=&quot;https://neuroscience.unimelb.edu.au/research/neuroscience-research-at-the-university-of-melbourne/mbciu&quot;&gt;The Melbourne Brain Centre Imaging Unit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Western Australia&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;University of Western Australia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ansto&quot;&gt;&lt;a href=&quot;https://www.ansto.gov.au/&quot;&gt;ANSTO&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Opal Multipurpose Reactor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Australian Centre for Neutron Scattering (ACNS)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;The Australian Synchrotron&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Centre for Accelerator Sciences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;National Deuteration Facility&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;National Research Cyclotron (partly NIF)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;microscopy-australia&quot;&gt;Microscopy Australia&lt;/h2&gt;
+&lt;p&gt;(used to be &lt;a href=&quot;http://ammrf.org.au/&quot;&gt;Australian Microscopy &amp;amp; Microanalysis Research Facility (ammrf)&lt;/a&gt;) &lt;a href=&quot;https://twitter.com/GoInnerSpace&quot;&gt;@GoInnerSpace&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;University of Sydney /&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;University of Queensland / &lt;a href=&quot;&quot;&gt;Centre for Microscopy and Microanalysis (CMM)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;University of Western Australia / &lt;a href=&quot;https://www.cmca.uwa.edu.au/facilities&quot;&gt;Centre for Microscopy, Characterisation and Analysis (CMCA)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Australian National University / &lt;a href=&quot;&quot;&gt;Centre for Advanced Microscopy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;University of New South Wales / &lt;a href=&quot;&quot;&gt;Electron Microscopy Unit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;SARF&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;University of Adelaide &lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;University of South Australia &lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Flinders University&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;others-facilities&quot;&gt;Others facilities&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.griffith.edu.au/queensland-micro-nanotechnology-centre/facilities/characterisation-facility&quot;&gt;Queensland Micro- and Nanotechnology Centre&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.csiro.au/en/Research/MRF/Areas/Advanced-characterisation-facility&quot;&gt;CSIRO Advanced Characterisation Facility&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anff-q.org.au/services/characterisation/&quot;&gt;Australian National Fabrication Facility (ANFF) / Characterisation Service&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ngl.org.au/our-facilities&quot;&gt;National Geosequestration Laboratory (NGL)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Last updated 17 May 2019.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 04 May 2019 16:06:12 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/AustralianCharacterisationFacilities/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/AustralianCharacterisationFacilities/</guid>
+        
+        
+        <category>partners</category>
+        
+      </item>
+    
+      <item>
         <title>CVL Champions Program 2019</title>
-        <description>&lt;p&gt;The Characterisation Virtual Laboratory (CVL) Champions are a community of researchers, university lecturers, and bioimaging professionals taking part in a skills development program. The program is developed to enhance the national characterisation computing infrastructure and apply FAIR data principles to research workflows, by upskilling scientists and bioimaging professionals for continuation of these goals.&lt;/p&gt;
+        <description>&lt;p&gt;The Characterisation Virtual Laboratory (CVL) Champions are a community of researchers, university lecturers, and bioimaging professionals taking part in a skills development program. The program is to enhance the national characterisation computing infrastructure and apply FAIR FAIR (Findable, Accessible, Interoperable, Reusable) data principles to research workflows, by upskilling scientists and bioimaging professionals for continuation of these goals.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Characterisation Virtual Laboratory is a free cloud-based virtual desktop to perform analysis of complex image and microscopy data. It is essentially a virtual computer with all the software you need pre-installed, all embedded in a web browser accessible using AAF (Australian Access Federation), and connected to a HPC (high performance computing) infrastructure. &lt;a href=&quot;../about&quot;&gt;Read more about the CVL&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;**TL;DR** / Summary :
+1. Get all costs paid to participate in a train the trainer event.
+2. Form a community of engagement and maintenance of training resources.
+3. Commit to deliver workshops next year, at least one of these should be using the CVL.
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;cvl-champions-program-2019&quot;&gt;CVL Champions Program 2019&lt;/h1&gt;
 
-&lt;p&gt;The CVL Champions Program’s aim is to create a community that stimulates network engagement across Australian characterisation facilities to raise the awareness of FAIR data principles and access to the national characterisation computing infrastructure.&lt;/p&gt;
+&lt;p&gt;The CVL Champions Program’s aim is to create a community that stimulates network engagement across &lt;a href=&quot;../AustralianCharacterisationFacilities&quot;&gt;Australian characterisation facilities&lt;/a&gt; to raise the awareness of &lt;a href=&quot;https://www.ands.org.au/working-with-data/fairdata&quot;&gt;FAIR data&lt;/a&gt; principles and access to the national characterisation computing infrastructure.&lt;/p&gt;
 
 &lt;p&gt;The CVL Champions is part of the Characterisation Data enhanced Virtual Laboratory (CDeVL) project, funded by the Australian Research Data Commons (ARDC).&lt;/p&gt;
 
@@ -202,17 +300,17 @@ environmental sciences.&lt;/p&gt;
 
 &lt;h1 id=&quot;application&quot;&gt;Application&lt;/h1&gt;
 
-&lt;p&gt;We are looking for a representative cohort of enthusiastic people, who are keen to learn and be the leaders of the national Characterisation training network. Champions are the engine across the Australian Characterisation community to uplift data skills and specialists skills across characterisation experts and users. &lt;em&gt;Women applicants are specially encouraged to apply&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;We are looking for a representative cohort of enthusiastic people, who are keen to learn and be the leaders of the national Characterisation training network. Champions are the engine across the Australian Characterisation community to uplift data skills and specialist skills across characterisation experts and users. &lt;em&gt;Women applicants are specially encouraged to apply&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;The group of selected champions will meet in person for two days of networking and training in October 1st and 2nd, location TBA.&lt;/p&gt;
+&lt;p&gt;The group of selected champions will meet in person for two days of networking and training on 1-2 October 2019, location TBA.&lt;/p&gt;
 
 &lt;h2 id=&quot;application-timeline&quot;&gt;Application timeline&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Applications open on 18th of June, 2019.&lt;/li&gt;
-  &lt;li&gt;Videoconference information session on 17th of July, 2019.&lt;/li&gt;
-  &lt;li&gt;Applications close on 31st of July, 2019.&lt;/li&gt;
-  &lt;li&gt;Selected applicants will be contacted on 9th of August, 2019.&lt;/li&gt;
+  &lt;li&gt;Applications open on 18 June 2019.&lt;/li&gt;
+  &lt;li&gt;Videoconference information session on 17 July 2019.&lt;/li&gt;
+  &lt;li&gt;Applications close on 31 July 2019.&lt;/li&gt;
+  &lt;li&gt;Selected applicants will be contacted on 9 August 2019.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
@@ -221,34 +319,36 @@ environmental sciences.&lt;/p&gt;
   &lt;li&gt;Commit to attending and participating in the three programmed events, 2 online and 1 in person (see program below).&lt;/li&gt;
   &lt;li&gt;Commit to continuation of the training effort for at least until the end of 2020.&lt;/li&gt;
   &lt;li&gt;Provide at least 2 trainings sessions a year, one of which has to be part of the CVL trainings.&lt;/li&gt;
-  &lt;li&gt;Promote the Characterisation Virtual Laboratory and best data management practices. * All participants will get access the CVL infrastructure.&lt;/li&gt;
+  &lt;li&gt;Promote the Characterisation Virtual Laboratory and best data management practices. * All participants will get access to the CVL infrastructure.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;cvl-champions-agenda&quot;&gt;CVL Champions agenda&lt;/h1&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Remote meeting 1 (teleconference), September 9th, 2019.
+  &lt;li&gt;Remote meeting 1 (teleconference), 9 September 2019.
 To get to know the Champions we will allocate this time for each participant to present who they are, what they do, and their community.&lt;/li&gt;
-  &lt;li&gt;Remote meeting 2 (teleconference), September 23rd, 2019.
+  &lt;li&gt;Remote meeting 2 (teleconference), 23 September 2019.
 Champions will prepare SMART goals around the future uptake of FAIR data principles in their work activities.&lt;/li&gt;
-  &lt;li&gt;In person meeting (Location TBA), October 1st and 2nd, 2019.
+  &lt;li&gt;In-person meeting (location TBA), 1-2 October 2019.
     &lt;ul&gt;
       &lt;li&gt;General introduction covering the data life cycle, the FAIR principles and a definition of data stewardship.&lt;/li&gt;
-      &lt;li&gt;Evidence based teaching practices.&lt;/li&gt;
+      &lt;li&gt;Evidence-based teaching practices.&lt;/li&gt;
       &lt;li&gt;Introduction to the CVL Desktop.&lt;/li&gt;
       &lt;li&gt;Stories and case studies of CVL users.&lt;/li&gt;
       &lt;li&gt;Get started preparing open access materials for the Characterisation community.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;After the in person event, CVL Champions will have time to plan training activities for the coming months. CVL Champions are encouraged to self-coordinate, with the support of the Characterisation Training Coordinator.&lt;/li&gt;
-  &lt;li&gt;CVL Champions are in charge to keep all members updated about training activities, maintenance of training materials, and encouragement of best data practices for the broader community.&lt;/li&gt;
+  &lt;li&gt;CVL Champions are in charge of keeping all members updated about training activities, maintenance of training materials, and encouragement of best data practices for the broader community.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h1 id=&quot;got-questions&quot;&gt;Got questions?&lt;/h1&gt;
 
 &lt;p&gt;Please contact the &lt;a href=&quot;mailto:p.martinez@uq.edu.au&quot;&gt;Characterisation Training Coordinator&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Last updated on May 15th, 2019&lt;/p&gt;
+&lt;p&gt;Special thanks for comments received before the publication of this post to,  Noni Creasey, Ben Sinclair, Saba Salehi, and Shannon Lindsay.&lt;/p&gt;
+
+&lt;p&gt;Last updated on 17 May 2019.&lt;/p&gt;
 </description>
         <pubDate>Sat, 04 May 2019 16:06:12 +1000</pubDate>
         <link>http://localhost:4000/CVL_Community/champions/</link>

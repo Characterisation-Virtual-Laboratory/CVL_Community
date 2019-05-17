@@ -20,17 +20,35 @@ authors:
     gravatar:
     email: p.martinez@uq.edu.au
     web:
-    twitter: https://twitter.com/orchid00
-    description: "Characterisation Training Coordinator."
-  new:
-    name: new
-    display_name: new
-    avatar: 'assets/images/avatar.png'
+    twitter: "https://twitter.com/orchid00"
+    description: "Characterisation Training Coordinator"
+  Shannon:
+    name: Shannon Lindsay
+    display_name: Shannon Lindsay
+    avatar:
     gravatar:
-    email:
+    email: s.lindsay@uq.edu.au
     web:
     twitter:
-    description: "This is the author box. Write a short description of the author here. ."
+    description: "Communications Consultant - Queensland Cyber Infrastructure Foundation Ltd (QCIF), QFAB Bioinformatics (QFAB) and the Research Computing Centre (RCC)."
+  Noni:
+    name: Noni Creasey
+    display_name: Noni Creasey
+    avatar:
+    gravatar:
+    email: r.creasey@uq.edu.au
+    web:
+    twitter:
+    description: "Engagement Officer - National Imaging Facility."
+  Saba:
+    name: Saba Salehi
+    display_name: Saba Salehi
+    avatar:
+    gravatar:
+    email: s.salehi@uq.edu.au
+    web:
+    twitter:
+    description: "Chief Operating Officer - National Imaging Facility."
 
 # Plugins
 plugins:

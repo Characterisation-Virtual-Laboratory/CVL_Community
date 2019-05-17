@@ -13,6 +13,10 @@
 <lastmod>2019-05-04T16:06:12+10:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/CVL_Community/AustralianCharacterisationFacilities/</loc>
+<lastmod>2019-05-04T16:06:12+10:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/CVL_Community/CVL-MASSIVE-get-account/</loc>
 <lastmod>2019-05-12T00:00:00+10:00</lastmod>
 </url>
@@ -44,6 +48,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/CVL_Community/category/champions/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/CVL_Community/category/partners/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/CVL_Community/assets/images/</loc>

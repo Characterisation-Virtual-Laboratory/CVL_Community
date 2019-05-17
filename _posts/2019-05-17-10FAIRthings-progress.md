@@ -5,7 +5,6 @@ author: Paula
 categories: [ FAIR]
 tags: [ external ]
 image: assets/images/FAIR_h.png
-featured: true
 toc: true
 ---
 The Mozilla(moz://a) sprint idea is a month-long open opportunity for projects and communities to collaborate, hack, and learn together anytime during the month of May.
