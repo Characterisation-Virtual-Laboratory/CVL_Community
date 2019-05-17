@@ -1,0 +1,58 @@
+# List of contributors
+#
+# valid tags: name, display_name, gravatar, email, web, linkedin, twitter, orcid, github
+#
+
+---
+Ben:
+  name: Ben Sinclair
+  display_name: Ben Sinclair
+  avatar:
+  gravatar:
+  email: ben.sinclair@monash.edu
+  web:
+  twitter:
+  description: The Alfred
+
+Noni:
+  name: Noni Creasey
+  display_name: Noni Creasey
+  avatar:
+  gravatar:
+  email: r.creasey@uq.edu.au
+  web:
+  twitter:
+  description: "Engagement Officer - National Imaging Facility."
+
+Paula:
+  name: Paula Andrea Martinez
+  display_name: Paula Andrea Martinez
+  gravatar:
+  email: p.martinez@uq.edu.au
+  web:
+  twitter: "https://twitter.com/orchid00"
+  description: "Characterisation Training Coordinator"
+  github:
+    - orchid00
+    - paumart
+  orcid: https://orcid.org/0000-0002-8990-1985
+
+Saba:
+  name: Saba Salehi
+  display_name: Saba Salehi
+  avatar:
+  gravatar:
+  email: s.salehi@uq.edu.au
+  web:
+  twitter:
+  description: "Chief Operating Officer - National Imaging Facility."
+
+Shannon:
+  name: Shannon Lindsay
+  display_name: Shannon Lindsay
+  avatar:
+  gravatar:
+  email: s.lindsay@uq.edu.au
+  web:
+  twitter:
+  description: "Communications Consultant - Queensland Cyber Infrastructure Foundation Ltd (QCIF), QFAB Bioinformatics (QFAB) and the Research Computing Centre (RCC)."
