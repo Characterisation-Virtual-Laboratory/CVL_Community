@@ -5,9 +5,71 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 May 2019 18:27:08 +1000</pubDate>
-    <lastBuildDate>Fri, 17 May 2019 18:27:08 +1000</lastBuildDate>
+    <pubDate>Tue, 21 May 2019 10:24:53 +1000</pubDate>
+    <lastBuildDate>Tue, 21 May 2019 10:24:53 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>CRYOZ19 workshop</title>
+        <description>&lt;h1 id=&quot;day-1-starter-hands-on-cryo-em&quot;&gt;Day 1 Starter hands-on cryo-EM&lt;/h1&gt;
+
+&lt;p&gt;Monday 3 June 2019&lt;/p&gt;
+
+&lt;p&gt;Intro Lectures Sample preparation &amp;amp; cryo-TEM&lt;/p&gt;
+
+&lt;p&gt;Hands-on sessions 3 groups&lt;/p&gt;
+
+&lt;p&gt;Rotating sessions&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Negative Staining &amp;amp; TEM: Jeol 1400&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cryo-grids &amp;amp; cryo-TEM: Tecnai 12&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;High throughput imaging: Titan &amp;amp; Talos&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;day-2-data-processing&quot;&gt;Day 2 Data Processing&lt;/h1&gt;
+
+&lt;p&gt;Tuesday 4 June 2019&lt;/p&gt;
+
+&lt;p&gt;Hands-on using Relion &amp;amp; other software*&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;hosted on CVL &amp;amp; MASSIVE&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;day-3-data-processing&quot;&gt;Day 3 Data Processing&lt;/h1&gt;
+
+&lt;p&gt;Wednesday 5 June 2019&lt;/p&gt;
+
+&lt;p&gt;Hands-on using Relion &amp;amp; other software*&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;hosted on CVL &amp;amp; MASSIVE&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;lectures-advanced-image-processing&quot;&gt;Lectures advanced image processing&lt;/h2&gt;
+&lt;p&gt;Afternoon lectures advanced image processing, these are also part of the CRYOZ19 program&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Masking&lt;/li&gt;
+  &lt;li&gt;Helical processing&lt;/li&gt;
+  &lt;li&gt;Cryo EM map fitting&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 21 May 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/IntroCryoEM/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/IntroCryoEM/</guid>
+        
+        <category>external</category>
+        
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>Global sprint </title>
@@ -43,7 +105,7 @@ Register your interest on this etherpad &lt;strong&gt;&lt;a href=&quot;https://p
 
 &lt;p&gt;We have booked a local hub. Room 501, level 5, building 2 (Duhig Tower),
 University of Queensland, Campbell Rd, St Lucia, 4067 QLD.
-We will start at 9:00 am AEST on the 30th of May, and work on standard office hours (9-5), both days.&lt;/p&gt;
+We will start at 9:00 am AEST on the 30th of May, and work between 9:00 - 16:00, both days.&lt;/p&gt;
 
 &lt;h2 id=&quot;join-remotely&quot;&gt;Join remotely&lt;/h2&gt;
 
