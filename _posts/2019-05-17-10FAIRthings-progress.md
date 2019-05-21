@@ -38,7 +38,7 @@ Here is our **[work in progress document](https://docs.google.com/document/d/1tt
 
 We have booked a local hub. Room 501, level 5, building 2 (Duhig Tower),
 University of Queensland, Campbell Rd, St Lucia, 4067 QLD.
-We will start at 9:00 am AEST on the 30th of May, and work on standard office hours (9-5), both days.
+We will start at 9:00 am AEST on the 30th of May, and work between 9:00 - 16:00, both days.
 
 ## Join remotely
 
