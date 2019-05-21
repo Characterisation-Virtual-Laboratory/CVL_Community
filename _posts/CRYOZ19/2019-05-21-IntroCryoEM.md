@@ -3,7 +3,7 @@ layout: post
 title:  "CRYOZ19 workshop"
 author: Paula
 categories: [ tutorial ]
-tags: [ external ]
+tags: [ external, CRYOZ19 ]
 image: assets/images/9.jpg
 description: ""
 hidden: true
