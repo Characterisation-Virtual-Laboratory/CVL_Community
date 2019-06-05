@@ -5,9 +5,88 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 May 2019 10:24:53 +1000</pubDate>
-    <lastBuildDate>Tue, 21 May 2019 10:24:53 +1000</lastBuildDate>
+    <pubDate>Wed, 05 Jun 2019 15:42:52 +1000</pubDate>
+    <lastBuildDate>Wed, 05 Jun 2019 15:42:52 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Data management and FAIR</title>
+        <description>&lt;h1 id=&quot;cmm-introduction-to-data-management-fair-and-uqrdm&quot;&gt;CMM introduction to Data Management FAIR and UQRDM&lt;/h1&gt;
+
+&lt;p&gt;Last updated 5 June 2019&lt;/p&gt;
+
+&lt;p&gt;Thanks for attending this session hosted by the Characterisation Virtual Laboratory (CVL). Please complete the following feedback form before leaving &lt;a href=&quot;https://survey.zohopublic.com/zs/ueCsAo&quot;&gt;https://survey.zohopublic.com/zs/ueCsAo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Everything we do today is available online. It is your responsibility to select what is more important for you.
+Suggested resources will be listed at the end of each presentation.&lt;/p&gt;
+
+&lt;p&gt;This is a live notepad the link is here: https://demo.codimd.org/s/SJqgnL4C4
+After the workshop, you can view and save this notepad with the important links and information as a &lt;a href=&quot;https://gitprint.com/Characterisation-Virtual-Laboratory/CVL_Community/blob/master/_posts/2019-06-05-UQRDM-FAIR.md&quot;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
+
+&lt;p&gt;Nationally funded software infrastructure collaboration
+to make scientific tools for image analysis and processing, available freely and cloud-ready. The &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/about&quot;&gt;CVL is also a community&lt;/a&gt; of experts who support training and best practices.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-centre-for-microscopy-and-microanalysis-cmm&quot;&gt;The Centre for Microscopy and Microanalysis (CMM)&lt;/h2&gt;
+
+&lt;p&gt;Is an interdisciplinary research, teaching and service centre based at The University of Queensland (UQ).
+CMM Actively supports and initiates microscopy &amp;amp; microanalysis.&lt;/p&gt;
+
+&lt;h2 id=&quot;uq-research-data-manager-rdm&quot;&gt;UQ Research Data Manager (RDM)&lt;/h2&gt;
+
+&lt;p&gt;The RDM provides the UQ research community with a collaborative, safe and secure large-scale storage facility to practice good stewardship of research data.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-are-we-going-to-learn&quot;&gt;What are we going to learn?&lt;/h2&gt;
+
+&lt;p&gt;At the end of this session you will be able to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create one or more UQRDM records
+    &lt;ul&gt;
+      &lt;li&gt;One of your UQRDM records will be connected to HPC collections&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Reuse a set of guidelines to use HPC collections&lt;/li&gt;
+  &lt;li&gt;Be motivated to use data management best practices&lt;/li&gt;
+  &lt;li&gt;Go back to Data management recommendations&lt;/li&gt;
+  &lt;li&gt;Describe what the concept of FAIR means&lt;/li&gt;
+  &lt;li&gt;Observe how the CVL desktop works&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;instructors&quot;&gt;Instructors&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Full name / email (optional)&lt;/li&gt;
+  &lt;li&gt;Paula Andrea Martinez / p.martinez at uq.edu.au&lt;/li&gt;
+  &lt;li&gt;Roger Wepf&lt;/li&gt;
+  &lt;li&gt;Fei Yu&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;material&quot;&gt;Material&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://demo.codimd.org/p/SJlh1PQAV#/&quot;&gt;The Characterisation Virtual Laboratory&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://demo.codimd.org/p/Bygd78qXRV#/&quot;&gt;UQ RDM and HPC collections&lt;/a&gt; information relevant to only for UQ staff/Students&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://demo.codimd.org/p/BJF9kXGRN#/&quot;&gt;Data Management and FAIR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;after-the-workshop&quot;&gt;After the workshop&lt;/h2&gt;
+
+&lt;p&gt;Please fill in the anonymous feedback form before leaving: &lt;a href=&quot;https://survey.zohopublic.com/zs/ueCsAo&quot;&gt;https://survey.zohopublic.com/zs/ueCsAo&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Jun 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/UQRDM-FAIR/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/UQRDM-FAIR/</guid>
+        
+        <category>external</category>
+        
+        
+        <category>FAIR</category>
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>CRYOZ19 workshop</title>
@@ -66,8 +145,37 @@
         
         <category>external</category>
         
+        <category>CRYOZ19</category>
+        
         
         <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>Introfreesurfer</title>
+        <description>&lt;p&gt;get you acquainted with the concepts needed to perform its various modes of analysis and processing of MRI data. The tutorials are designed to be followed along in a terminal window, where commands can be copy/pasted into the terminal window instead of typed.&lt;/p&gt;
+
+&lt;p&gt;So we certainly do not expect participants to come in with extensive prior programming experience. That said, we do assume that all participants have a minimal level of programming competency–without which a participant will probably find it much more difficult to benefit from the course. To help you, we have a few resources worthy of your time in preparation for this workshop. Please go through them as you need, before the workshop.&lt;/p&gt;
+
+&lt;p&gt;FreeSurfer Jargon
+Clearing up jargon is a useful way to build up confidence.
+https://surfer.nmr.mgh.harvard.edu/pub/docs/fsjargon_clean.pptx&lt;/p&gt;
+
+&lt;p&gt;Introduction to shell for FreeSurfer users
+http://surfer.nmr.mgh.harvard.edu/pub/docs/Unix_MF.pptx&lt;/p&gt;
+
+&lt;p&gt;Bash scripting cheat stylesheet by &lt;a href=&quot;https://ricostacruz.com/&quot;&gt;@rstacruz &lt;/a&gt;
+From simple to complex, syntax you can put together to write bash scripts.
+https://devhints.io/bash&lt;/p&gt;
+
+&lt;p&gt;For more FreeSurfer tutorials we recommend you to have a look at the FreeSurfer wiki tutorials page
+http://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 May 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/IntroFreeSurfer/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/IntroFreeSurfer/</guid>
+        
         
       </item>
     
@@ -264,6 +372,10 @@ Read more about the Collaborative Australian Characterisation Informatics Strate
   &lt;li&gt;University of Sydney / &lt;a href=&quot;https://sydney.edu.au/brain-mind/&quot;&gt;Brain &amp;amp; Mind Research Institute&lt;/a&gt; + ANSTO&lt;/li&gt;
   &lt;li&gt;University of New South Wales / &lt;a href=&quot;https://www.analytical.unsw.edu.au/facilities/bril&quot;&gt;The Biological Resource Imaging Laboratory (BRIL)&lt;/a&gt; / &lt;a href=&quot;https://www.neura.edu.au/&quot;&gt;Imaging at Neuroscience Research Australia (NeuRA)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Western Sydney University&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Queensland&lt;/p&gt;
+&lt;ul&gt;
   &lt;li&gt;The University of Queensland / &lt;a href=&quot;https://cai.centre.uq.edu.au/&quot;&gt;Centre for Advanced Imaging&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -274,7 +386,7 @@ Read more about the Collaborative Australian Characterisation Informatics Strate
 
 &lt;p&gt;Victoria&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Florey Institute of Neuroscience &amp;amp; Mental Health&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.florey.edu.au/&quot;&gt;Florey Institute of Neuroscience &amp;amp; Mental Health&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Monash University&lt;/li&gt;
   &lt;li&gt;Swinburne University of Technology&lt;/li&gt;
   &lt;li&gt;University of Melbourne / &lt;a href=&quot;https://neuroscience.unimelb.edu.au/research/neuroscience-research-at-the-university-of-melbourne/mbciu&quot;&gt;The Melbourne Brain Centre Imaging Unit&lt;/a&gt;&lt;/li&gt;
@@ -285,7 +397,7 @@ Read more about the Collaborative Australian Characterisation Informatics Strate
   &lt;li&gt;University of Western Australia&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;ansto&quot;&gt;&lt;a href=&quot;https://www.ansto.gov.au/&quot;&gt;ANSTO&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;australian-nuclear-science-and-technology-organisation-ansto&quot;&gt;Australian Nuclear Science and Technology Organisation &lt;a href=&quot;https://www.ansto.gov.au/&quot;&gt;ANSTO&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;Opal Multipurpose Reactor&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;Australian Centre for Neutron Scattering (ACNS)&lt;/a&gt;&lt;/li&gt;
@@ -295,11 +407,12 @@ Read more about the Collaborative Australian Characterisation Informatics Strate
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;National Research Cyclotron (partly NIF)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;microscopy-australia&quot;&gt;Microscopy Australia&lt;/h2&gt;
-&lt;p&gt;(used to be &lt;a href=&quot;http://ammrf.org.au/&quot;&gt;Australian Microscopy &amp;amp; Microanalysis Research Facility (ammrf)&lt;/a&gt;) &lt;a href=&quot;https://twitter.com/GoInnerSpace&quot;&gt;@GoInnerSpace&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;microscopy-australia&quot;&gt;&lt;a href=&quot;http://micro.org.au/&quot;&gt;Microscopy Australia&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;It used to be &lt;a href=&quot;http://ammrf.org.au/&quot;&gt;Australian Microscopy &amp;amp; Microanalysis Research Facility (ammrf)&lt;/a&gt;) &lt;a href=&quot;https://twitter.com/GoInnerSpace&quot;&gt;@GoInnerSpace&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;University of Sydney /&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;University of Queensland / &lt;a href=&quot;&quot;&gt;Centre for Microscopy and Microanalysis (CMM)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;University of Queensland / &lt;a href=&quot;https://cmm.centre.uq.edu.au/&quot;&gt;Centre for Microscopy and Microanalysis (CMM)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;University of Western Australia / &lt;a href=&quot;https://www.cmca.uwa.edu.au/facilities&quot;&gt;Centre for Microscopy, Characterisation and Analysis (CMCA)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Australian National University / &lt;a href=&quot;&quot;&gt;Centre for Advanced Microscopy&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;University of New South Wales / &lt;a href=&quot;&quot;&gt;Electron Microscopy Unit&lt;/a&gt;&lt;/li&gt;
@@ -317,7 +430,7 @@ Read more about the Collaborative Australian Characterisation Informatics Strate
   &lt;li&gt;&lt;a href=&quot;http://ngl.org.au/our-facilities&quot;&gt;National Geosequestration Laboratory (NGL)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Last updated 17 May 2019.&lt;/p&gt;
+&lt;p&gt;Last updated 5 June 2019.&lt;/p&gt;
 </description>
         <pubDate>Sat, 04 May 2019 16:06:12 +1000</pubDate>
         <link>http://localhost:4000/CVL_Community/AustralianCharacterisationFacilities/</link>
@@ -326,7 +439,7 @@ Read more about the Collaborative Australian Characterisation Informatics Strate
         <category>external</category>
         
         
-        <category>partners</category>
+        <category>champions</category>
         
       </item>
     
@@ -364,7 +477,8 @@ Read more about the Collaborative Australian Characterisation Informatics Strate
 
 &lt;h1 id=&quot;application&quot;&gt;Application&lt;/h1&gt;
 
-&lt;p&gt;We are looking for a representative cohort of enthusiastic people, who are keen to learn and be the leaders of the national Characterisation training network. Champions are the engine across the Australian Characterisation community to uplift data skills and specialist skills across characterisation experts and users. &lt;em&gt;Women applicants are specially encouraged to apply&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;We are looking for a representative cohort of enthusiastic people, who are keen to learn and be the leaders of the national Characterisation training network. Applicants at all career stages are welcome to apply. Champions are the engine across the Australian Characterisation community to uplift data skills and specialist skills across characterisation users.
+We also strongly encourage members of groups that are underrepresented in science to apply. Diversity is one of our explicit evaluation criteria, and we work hard to try and make this community a comfortable and welcoming environment for all.&lt;/p&gt;
 
 &lt;p&gt;The group of selected champions will meet in person for two days of networking and training on 1-2 October 2019, location TBA.&lt;/p&gt;
 
