@@ -5,8 +5,8 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Jun 2019 15:42:52 +1000</pubDate>
-    <lastBuildDate>Wed, 05 Jun 2019 15:42:52 +1000</lastBuildDate>
+    <pubDate>Wed, 05 Jun 2019 15:52:27 +1000</pubDate>
+    <lastBuildDate>Wed, 05 Jun 2019 15:52:27 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -21,7 +21,7 @@
 Suggested resources will be listed at the end of each presentation.&lt;/p&gt;
 
 &lt;p&gt;This is a live notepad the link is here: https://demo.codimd.org/s/SJqgnL4C4
-After the workshop, you can view and save this notepad with the important links and information as a &lt;a href=&quot;https://gitprint.com/Characterisation-Virtual-Laboratory/CVL_Community/blob/master/_posts/2019-06-05-UQRDM-FAIR.md&quot;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
+After the workshop, you can view and save this notepad with the important links and information as a &lt;a href=&quot;https://github.com/Characterisation-Virtual-Laboratory/CVL_Community/blob/master/_posts/CMM19/2019-06-05-UQRDM-FAIR.md&quot;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
 
