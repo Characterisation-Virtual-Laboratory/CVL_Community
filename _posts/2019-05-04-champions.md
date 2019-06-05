@@ -33,7 +33,8 @@ The CVL Champions is part of the Characterisation Data enhanced Virtual Laborato
 
 # Application
 
-We are looking for a representative cohort of enthusiastic people, who are keen to learn and be the leaders of the national Characterisation training network. Champions are the engine across the Australian Characterisation community to uplift data skills and specialist skills across characterisation experts and users. *Women applicants are specially encouraged to apply*.
+We are looking for a representative cohort of enthusiastic people, who are keen to learn and be the leaders of the national Characterisation training network. Applicants at all career stages are welcome to apply. Champions are the engine across the Australian Characterisation community to uplift data skills and specialist skills across characterisation users.
+We also strongly encourage members of groups that are underrepresented in science to apply. Diversity is one of our explicit evaluation criteria, and we work hard to try and make this community a comfortable and welcoming environment for all.
 
 The group of selected champions will meet in person for two days of networking and training on 1-2 October 2019, location TBA.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Australian Characterisation Facilities"
 author: Paula
-categories: [ partners]
+categories: [ champions ]
 tags: [ external ]
 image:
 date: 2019-05-04 16:06:12 +1000
@@ -26,13 +26,15 @@ New South Wales
 * University of Sydney / [Brain & Mind Research Institute](https://sydney.edu.au/brain-mind/) + ANSTO
 * University of New South Wales / [The Biological Resource Imaging Laboratory (BRIL)](https://www.analytical.unsw.edu.au/facilities/bril) / [Imaging at Neuroscience Research Australia (NeuRA)](https://www.neura.edu.au/)
 * Western Sydney University
+
+Queensland
 * The University of Queensland / [Centre for Advanced Imaging](https://cai.centre.uq.edu.au/)
 
 South Australia
 * Large Animal Research & Imaging Facility
 
 Victoria
-* Florey Institute of Neuroscience & Mental Health
+* [Florey Institute of Neuroscience & Mental Health](https://www.florey.edu.au/)
 * Monash University
 * Swinburne University of Technology
 * University of Melbourne / [The Melbourne Brain Centre Imaging Unit](https://neuroscience.unimelb.edu.au/research/neuroscience-research-at-the-university-of-melbourne/mbciu)
@@ -40,7 +42,7 @@ Victoria
 Western Australia
 * University of Western Australia
 
-## [ANSTO](https://www.ansto.gov.au/)
+## Australian Nuclear Science and Technology Organisation [ANSTO](https://www.ansto.gov.au/)
 * [Opal Multipurpose Reactor]()
 * [Australian Centre for Neutron Scattering (ACNS)]()
 * [The Australian Synchrotron]()
@@ -48,10 +50,11 @@ Western Australia
 * [National Deuteration Facility]()
 * [National Research Cyclotron (partly NIF)]()
 
-## Microscopy Australia
-(used to be [Australian Microscopy & Microanalysis Research Facility (ammrf)](http://ammrf.org.au/)) [@GoInnerSpace](https://twitter.com/GoInnerSpace)
+## [Microscopy Australia](http://micro.org.au/)
+
+It used to be [Australian Microscopy & Microanalysis Research Facility (ammrf)](http://ammrf.org.au/)) [@GoInnerSpace](https://twitter.com/GoInnerSpace)
 * University of Sydney /[]()
-* University of Queensland / [Centre for Microscopy and Microanalysis (CMM)]()
+* University of Queensland / [Centre for Microscopy and Microanalysis (CMM)](https://cmm.centre.uq.edu.au/)
 * University of Western Australia / [Centre for Microscopy, Characterisation and Analysis (CMCA)](https://www.cmca.uwa.edu.au/facilities)
 * Australian National University / [Centre for Advanced Microscopy]()
 * University of New South Wales / [Electron Microscopy Unit]()
@@ -68,4 +71,4 @@ Western Australia
 * [National Geosequestration Laboratory (NGL)](http://ngl.org.au/our-facilities)
 
 
-Last updated 17 May 2019.
+Last updated 5 June 2019.
