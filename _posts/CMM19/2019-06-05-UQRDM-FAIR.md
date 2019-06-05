@@ -11,18 +11,18 @@ toc: true
 
 Last updated 5 June 2019
 
-Thanks for attending this session hosted by the Characterisation Virtual Laboratory (CVL). Please complete the following feedback form before leaving [https://survey.zohopublic.com/zs/ueCsAo](https://survey.zohopublic.com/zs/ueCsAo){target="_blank"}
+Thanks for attending this session hosted by the Characterisation Virtual Laboratory (CVL). Please complete the following feedback form before leaving [https://survey.zohopublic.com/zs/ueCsAo](https://survey.zohopublic.com/zs/ueCsAo)
 
 Everything we do today is available online. It is your responsibility to select what is more important for you.
 Suggested resources will be listed at the end of each presentation.
 
 This is a live notepad the link is here: https://demo.codimd.org/s/SJqgnL4C4
-After the workshop, you can view and save this notepad with the important links and information as a [PDF](https://gitprint.com/Characterisation-Virtual-Laboratory/CVL_Community/blob/master/_posts/2019-06-05-UQRDM-FAIR.md){target="_blank"}.
+After the workshop, you can view and save this notepad with the important links and information as a [PDF](https://gitprint.com/Characterisation-Virtual-Laboratory/CVL_Community/blob/master/_posts/2019-06-05-UQRDM-FAIR.md).
 
 ## Characterisation Virtual Laboratory (CVL)
 
 Nationally funded software infrastructure collaboration
-to make scientific tools for image analysis and processing, available freely and cloud-ready. The [CVL is also a community](https://characterisation-virtual-laboratory.github.io/CVL_Community/about){target="_blank"} of experts who support training and best practices.
+to make scientific tools for image analysis and processing, available freely and cloud-ready. The [CVL is also a community](https://characterisation-virtual-laboratory.github.io/CVL_Community/about) of experts who support training and best practices.
 
 ## The Centre for Microscopy and Microanalysis (CMM)
 
@@ -54,10 +54,10 @@ At the end of this session you will be able to:
 
 ## Material
 
-* [The Characterisation Virtual Laboratory](https://demo.codimd.org/p/SJlh1PQAV#/){target="_blank"}
-* [UQ RDM and HPC collections](https://demo.codimd.org/p/Bygd78qXRV#/){target="_blank"} information relevant to only for UQ staff/Students
-* [Data Management and FAIR](https://demo.codimd.org/p/BJF9kXGRN#/){target="_blank"}
+* [The Characterisation Virtual Laboratory](https://demo.codimd.org/p/SJlh1PQAV#/)
+* [UQ RDM and HPC collections](https://demo.codimd.org/p/Bygd78qXRV#/) information relevant to only for UQ staff/Students
+* [Data Management and FAIR](https://demo.codimd.org/p/BJF9kXGRN#/)
 
 ## After the workshop
 
-Please fill in the anonymous feedback form before leaving: [https://survey.zohopublic.com/zs/ueCsAo](https://survey.zohopublic.com/zs/ueCsAo){target="_blank"}
+Please fill in the anonymous feedback form before leaving: [https://survey.zohopublic.com/zs/ueCsAo](https://survey.zohopublic.com/zs/ueCsAo)
