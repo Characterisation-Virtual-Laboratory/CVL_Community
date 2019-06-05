@@ -17,7 +17,7 @@ Everything we do today is available online. It is your responsibility to select 
 Suggested resources will be listed at the end of each presentation.
 
 This is a live notepad the link is here: https://demo.codimd.org/s/SJqgnL4C4
-After the workshop, you can view and save this notepad with the important links and information as a [PDF](https://github.com/Characterisation-Virtual-Laboratory/CVL_Community/blob/master/_posts/CMM19/2019-06-05-UQRDM-FAIR.md).
+After the workshop, you can view and save this notepad with the important links and information as a [PDF](https://gitprint.com/Characterisation-Virtual-Laboratory/CVL_Community/blob/master/_posts/CMM19/2019-06-05-UQRDM-FAIR.md).
 
 ## Characterisation Virtual Laboratory (CVL)
 
