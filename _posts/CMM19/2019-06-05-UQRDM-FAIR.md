@@ -4,7 +4,7 @@ title:  "Data management and FAIR"
 author: Paula
 categories: [ FAIR, tutorial ]
 tags: [ external ]
-image: assets/images/FAIR_h.png
+image: assets/images/02_open_research_data_material.png
 toc: true
 ---
 # CMM introduction to Data Management FAIR and UQRDM
