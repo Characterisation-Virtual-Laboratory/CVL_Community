@@ -5,8 +5,8 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Jun 2019 15:57:37 +1000</pubDate>
-    <lastBuildDate>Wed, 05 Jun 2019 15:57:37 +1000</lastBuildDate>
+    <pubDate>Thu, 06 Jun 2019 10:27:29 +1000</pubDate>
+    <lastBuildDate>Thu, 06 Jun 2019 10:27:29 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -251,12 +251,16 @@ leverage a local system for imaging workloads.&lt;/p&gt;
 &lt;p&gt;The process to get an account to use the CVL at QRISCloud
 requires a few steps, starting with gaining access to
 computing resources. Keep in mind the CVL at QRISCloud desktop
-is currently in &lt;strong&gt;testing mode&lt;/strong&gt;.&lt;/p&gt;
+is currently in &lt;strong&gt;testing mode&lt;/strong&gt;. We are testing two different options to get
+access. Your feedback is welcome.&lt;/p&gt;
 
+&lt;h2 id=&quot;option-1---step-by-step&quot;&gt;Option 1 - Step by step&lt;/h2&gt;
+
+&lt;p&gt;The first two steps are required if you do not have an Awoonga account already.&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;Register for a &lt;a href=&quot;https://www.qriscloud.org.au/&quot;&gt;QRIScloud Account&lt;/a&gt; using your institution Australia Access Federation (AAF) credentials.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.qriscloud.org.au/index.php/services&quot;&gt;Register to use the Awoonga cluster&lt;/a&gt; to get access to the CVL at Awoonga.&lt;/li&gt;
-  &lt;li&gt;Join the CVL project. Please include a meaningful description in the &lt;a href=&quot;https://services.qriscloud.org.au/access/336df5742362455f923d7ea9efb39133/member&quot;&gt;form&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Join the CVL project. Please include a meaningful description in the &lt;a href=&quot;https://services.qriscloud.org.au/access/336df5742362455f923d7ea9efb39133/member&quot;&gt;form&lt;/a&gt;. - It takes about one day (probably less) to set your account with the right access.&lt;/li&gt;
   &lt;li&gt;Go to &lt;a href=&quot;https://cvl.qriscloud.org.au&quot;&gt;strudel web&lt;/a&gt; and select &lt;em&gt;uqcvl-auth&lt;/em&gt;.
     &lt;ul&gt;
       &lt;li&gt;If asked, please login with your institutional credentials through AAF.&lt;/li&gt;
@@ -266,6 +270,25 @@ is currently in &lt;strong&gt;testing mode&lt;/strong&gt;.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;h2 id=&quot;option-2---test-auto-provision&quot;&gt;Option 2 - Test auto-provision&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Auto provision is similar to the steps above&lt;/strong&gt; we are testing a logic process
+that should take you automatically to the next step.&lt;/p&gt;
+
+&lt;p&gt;The QRIScloud CVL auto-provisioning page is:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://services.qriscloud.org.au/services/cvl&quot;&gt;https://services.qriscloud.org.au/services/cvl&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There are three possibilities:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;QCIF members will see a “Enable QRIScloud CVL” button (which makes them a member of the CVL-Users group and/or gives them access to Awoonga, depending on which/both they do not yet have).&lt;/li&gt;
+  &lt;li&gt;Non-members will see text telling them to try another location or submit a ticket to QRIScloud Support.&lt;/li&gt;
+  &lt;li&gt;If they already have QRIScloud CVL (i.e. access to Awoonga and is a member of CVL-Users), they will be redirected to the CVL Workbench.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;contact-details&quot;&gt;Contact details&lt;/h2&gt;
+
 &lt;p&gt;For general inquires about the CVL at QRISCloud, please
 contact &lt;a href=&quot;mailto:e.scriven@uq.edu.au&quot;&gt;CVL at QRISCloud helpdesk&lt;/a&gt;.&lt;/p&gt;
 
@@ -274,7 +297,7 @@ contact &lt;a href=&quot;mailto:e.scriven@uq.edu.au&quot;&gt;CVL at QRISCloud he
 QRISCloud is currently being tested and will become available
 in the next months. You can read more about this deployment &lt;a target=&quot;_blank&quot; href=&quot;https://rcc.uq.edu.au/article/2019/02/rcc-works-virtual-lab-imaging-research&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Last updated on May 14, 2019.&lt;/p&gt;
+&lt;p&gt;Last updated on June 6, 2019.&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 May 2019 00:00:00 +1000</pubDate>
         <link>http://localhost:4000/CVL_Community/CVL-QRISCloud-get_account/</link>
