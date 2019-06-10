@@ -25,7 +25,7 @@ Neuroscientists, imaging researchers and clinicians, platform engineers, and com
 New South Wales
 * University of Sydney / [Brain & Mind Research Institute](https://sydney.edu.au/brain-mind/) + ANSTO
 * University of New South Wales / [The Biological Resource Imaging Laboratory (BRIL)](https://www.analytical.unsw.edu.au/facilities/bril) / [Imaging at Neuroscience Research Australia (NeuRA)](https://www.neura.edu.au/)
-* Western Sydney University
+* Western Sydney University / [Biomedical Magnetic Resonance Facility (BMRF) ](https://www.westernsydney.edu.au/nanoscale/nanoscale_organisation_and_dynamics/bmrf)
 
 Queensland
 * The University of Queensland / [Centre for Advanced Imaging](https://cai.centre.uq.edu.au/)
@@ -71,4 +71,4 @@ It used to be [Australian Microscopy & Microanalysis Research Facility (ammrf)](
 * [National Geosequestration Laboratory (NGL)](http://ngl.org.au/our-facilities)
 
 
-Last updated 5 June 2019.
+Last updated 10 June 2019.
