@@ -23,6 +23,25 @@ The CVL Champions Program's aim is to create a community that stimulates network
 
 The CVL Champions is part of the Characterisation Data enhanced Virtual Laboratory (CDeVL) project, funded by the Australian Research Data Commons (ARDC).
 
+## Invitation
+
+The CVL Community (Neuroscience, Microscopy, Structural Biology, Atom Probe,
+Neutron Techniques) is providing a unique opportunity for both external and
+internal staff / HRD students to develop their training skills in a free 2 day
+workshop (all costs paid).The workshop was designed to provide guidance,
+methods and tips for developing and delivering quality, impactful training;
+whilst also encouraging attendees to become reflective practitioners, able to
+seek and act upon feedback and try new modes of training. To join you need to
+have enthusiasm for delivering knowledge to others. The training we provide is
+highly interactive in nature. Throughout the workshop participants are
+encouraged to bring their thoughts and voice into all discussions; sharing
+experiences and swapping ideas. We will also facilitate the a network between
+the participants, regardless of their areas of expertise, enabling the
+development of a support network for future practice development.
+
+If you think this workshop might be of interest to someone else, please
+forward this opportunity. Registration open on 18 June 2019 and close 31 July 2019.
+
 ## Why be a CVL champion?
 
 * Becoming a CVL champion provides access to networking, advanced skills development, and demonstrates service to the profession.
@@ -40,8 +59,8 @@ The group of selected champions will meet in person for two days of networking a
 
 ## Application timeline
 
-* Applications open on 18 June 2019.
-* Videoconference information session on 17 July 2019.
+* Applications open on 18 June 2019 (coming soon!).
+* Videoconference information session on 17 July 2019. [Register here](https://www.eventbrite.com.au/e/cvl-champions-information-session-via-zoom-tickets-62036833840).
 * Applications close on 31 July 2019.
 * Selected applicants will be contacted on 9 August 2019.
 
@@ -73,4 +92,4 @@ Please contact the [Characterisation Training Coordinator](mailto:p.martinez@uq.
 
 Special thanks for comments received before the publication of this post to,  Noni Creasey, Ben Sinclair, Saba Salehi, and Shannon Lindsay.
 
-Last updated on 17 May 2019.
+Last updated on 12 June 2019.
