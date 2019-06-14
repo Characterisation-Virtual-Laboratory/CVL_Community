@@ -5,8 +5,8 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Jun 2019 19:33:51 +1000</pubDate>
-    <lastBuildDate>Wed, 12 Jun 2019 19:33:51 +1000</lastBuildDate>
+    <pubDate>Fri, 14 Jun 2019 10:37:36 +1000</pubDate>
+    <lastBuildDate>Fri, 14 Jun 2019 10:37:36 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -468,9 +468,16 @@ Read more about the Collaborative Australian Characterisation Informatics Strate
     
       <item>
         <title>CVL Champions Program 2019</title>
-        <description>&lt;p&gt;The Characterisation Virtual Laboratory (CVL) Champions are a community of researchers, university lecturers, and bioimaging professionals taking part in a skills development program. The program is to enhance the national characterisation computing infrastructure and apply FAIR FAIR (Findable, Accessible, Interoperable, Reusable) data principles to research workflows, by upskilling scientists and bioimaging professionals for continuation of these goals.&lt;/p&gt;
+        <description>&lt;p&gt;The Characterisation Virtual Laboratory (CVL) Community (Neuroscience,
+Microscopy, Structural Biology, Atom Probe, Neutron Techniques) is providing a
+unique opportunity to upskilling scientists and bioimaging professionals.
+The CVL Champions are a community of researchers, university lecturers, and
+bioimaging professionals taking part in a skills development program. The
+program is designed to provide guidance, methods and tips for developing and
+delivering quality, impactful training. With the new CVL Champions we aim
+to enhance the national characterisation training network and encourage the application of FAIR (Findable, Accessible, Interoperable, Reusable) data principles to research workflows.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;The Characterisation Virtual Laboratory is a free cloud-based virtual desktop to perform analysis of complex image and microscopy data. It is essentially a virtual computer with all the software you need pre-installed, all embedded in a web browser accessible using AAF (Australian Access Federation), and connected to a HPC (high performance computing) infrastructure. &lt;a href=&quot;../about&quot;&gt;Read more about the CVL&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The Characterisation Virtual Laboratory is a free cloud-based virtual desktop to perform analysis of complex image and microscopy data. It is essentially a virtual computer with all the software you need pre-installed, all embedded in a web browser accessible using AAF (Australian Access Federation), and connected to a HPC (high performance computing) infrastructure to boost your analysis workflows. &lt;a href=&quot;../about&quot;&gt;Read more about the CVL&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
 2
@@ -484,25 +491,22 @@ Read more about the Collaborative Australian Characterisation Informatics Strate
 
 &lt;h1 id=&quot;cvl-champions-program-2019&quot;&gt;CVL Champions Program 2019&lt;/h1&gt;
 
-&lt;p&gt;The CVL Champions Program’s aim is to create a community that stimulates network engagement across &lt;a href=&quot;../AustralianCharacterisationFacilities&quot;&gt;Australian characterisation facilities&lt;/a&gt; to raise the awareness of &lt;a href=&quot;https://www.ands.org.au/working-with-data/fairdata&quot;&gt;FAIR data&lt;/a&gt; principles and access to the national characterisation computing infrastructure.&lt;/p&gt;
-
-&lt;p&gt;The CVL Champions is part of the Characterisation Data enhanced Virtual Laboratory (CDeVL) project, funded by the Australian Research Data Commons (ARDC).&lt;/p&gt;
+&lt;p&gt;The CVL Champions Program’s aim is to create a community that stimulates network engagement across &lt;a href=&quot;../AustralianCharacterisationFacilities&quot;&gt;Australian characterisation facilities&lt;/a&gt; to raise the awareness of &lt;a href=&quot;https://www.ands.org.au/working-with-data/fairdata&quot;&gt;FAIR data&lt;/a&gt; principles and access to the national characterisation computing infrastructure. The CVL Champions is part of the Characterisation Data enhanced Virtual Laboratory (CDeVL) project, funded by the Australian Research Data Commons (ARDC).&lt;/p&gt;
 
 &lt;h2 id=&quot;invitation&quot;&gt;Invitation&lt;/h2&gt;
 
 &lt;p&gt;The CVL Community (Neuroscience, Microscopy, Structural Biology, Atom Probe,
 Neutron Techniques) is providing a unique opportunity for both external and
-internal staff / HRD students to develop their training skills in a free 2 day
-workshop (all costs paid).The workshop was designed to provide guidance,
-methods and tips for developing and delivering quality, impactful training;
-whilst also encouraging attendees to become reflective practitioners, able to
-seek and act upon feedback and try new modes of training. To join you need to
-have enthusiasm for delivering knowledge to others. The training we provide is
-highly interactive in nature. Throughout the workshop participants are
-encouraged to bring their thoughts and voice into all discussions; sharing
-experiences and swapping ideas. We will also facilitate the a network between
-the participants, regardless of their areas of expertise, enabling the
-development of a support network for future practice development.&lt;/p&gt;
+internal staff / HRD students to develop their training skills in a 2 day
+workshop 1- 2 October (all costs paid). The workshop is designed to provide
+guidance, methods and tips for developing and delivering quality, impactful
+training; whilst also encouraging attendees to become reflective practitioners,
+able to seek and act upon feedback and try new modes of training. To join you
+need to have enthusiasm for delivering knowledge to others. The training we
+provide is highly interactive in nature. Throughout the workshop participants
+are encouraged to bring their thoughts and voice into all discussions; sharing
+experiences and swapping ideas. We will also facilitate networking between
+the participants, regardless of their areas of expertise.&lt;/p&gt;
 
 &lt;p&gt;If you think this workshop might be of interest to someone else, please
 forward this opportunity. Registration open on 18 June 2019 and close 31 July 2019.&lt;/p&gt;
@@ -536,6 +540,7 @@ We also strongly encourage members of groups that are underrepresented in scienc
 &lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;This application is open to participants based in Australia.&lt;/li&gt;
   &lt;li&gt;Commit to attending and participating in the three programmed events, 2 online and 1 in person (see program below).&lt;/li&gt;
   &lt;li&gt;Commit to continuation of the training effort for at least until the end of 2020.&lt;/li&gt;
   &lt;li&gt;Provide at least 2 trainings sessions a year, one of which has to be part of the CVL trainings.&lt;/li&gt;
@@ -568,7 +573,7 @@ Champions will prepare SMART goals around the future uptake of FAIR data princip
 
 &lt;p&gt;Special thanks for comments received before the publication of this post to,  Noni Creasey, Ben Sinclair, Saba Salehi, and Shannon Lindsay.&lt;/p&gt;
 
-&lt;p&gt;Last updated on 12 June 2019.&lt;/p&gt;
+&lt;p&gt;Last updated on 14 June 2019.&lt;/p&gt;
 </description>
         <pubDate>Sat, 04 May 2019 16:06:12 +1000</pubDate>
         <link>http://localhost:4000/CVL_Community/champions/</link>
