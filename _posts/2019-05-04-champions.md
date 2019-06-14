@@ -8,9 +8,16 @@ date: 2019-05-04 16:06:12 +1000
 featured: true
 toc: true
 ---
-The Characterisation Virtual Laboratory (CVL) Champions are a community of researchers, university lecturers, and bioimaging professionals taking part in a skills development program. The program is to enhance the national characterisation computing infrastructure and apply FAIR FAIR (Findable, Accessible, Interoperable, Reusable) data principles to research workflows, by upskilling scientists and bioimaging professionals for continuation of these goals.
+The Characterisation Virtual Laboratory (CVL) Community (Neuroscience,
+Microscopy, Structural Biology, Atom Probe, Neutron Techniques) is providing a
+unique opportunity to upskilling scientists and bioimaging professionals.
+The CVL Champions are a community of researchers, university lecturers, and
+bioimaging professionals taking part in a skills development program. The
+program is designed to provide guidance, methods and tips for developing and
+delivering quality, impactful training. With the new CVL Champions we aim
+to enhance the national characterisation training network and encourage the application of FAIR (Findable, Accessible, Interoperable, Reusable) data principles to research workflows.
 
-*The Characterisation Virtual Laboratory is a free cloud-based virtual desktop to perform analysis of complex image and microscopy data. It is essentially a virtual computer with all the software you need pre-installed, all embedded in a web browser accessible using AAF (Australian Access Federation), and connected to a HPC (high performance computing) infrastructure. [Read more about the CVL](../about).*
+*The Characterisation Virtual Laboratory is a free cloud-based virtual desktop to perform analysis of complex image and microscopy data. It is essentially a virtual computer with all the software you need pre-installed, all embedded in a web browser accessible using AAF (Australian Access Federation), and connected to a HPC (high performance computing) infrastructure to boost your analysis workflows. [Read more about the CVL](../about).*
 
     **TL;DR** / Summary :
     1. Get all costs paid to participate in a train the trainer event.
@@ -19,25 +26,22 @@ The Characterisation Virtual Laboratory (CVL) Champions are a community of resea
 
 # CVL Champions Program 2019
 
-The CVL Champions Program's aim is to create a community that stimulates network engagement across [Australian characterisation facilities](../AustralianCharacterisationFacilities) to raise the awareness of [FAIR data](https://www.ands.org.au/working-with-data/fairdata) principles and access to the national characterisation computing infrastructure.
-
-The CVL Champions is part of the Characterisation Data enhanced Virtual Laboratory (CDeVL) project, funded by the Australian Research Data Commons (ARDC).
+The CVL Champions Program's aim is to create a community that stimulates network engagement across [Australian characterisation facilities](../AustralianCharacterisationFacilities) to raise the awareness of [FAIR data](https://www.ands.org.au/working-with-data/fairdata) principles and access to the national characterisation computing infrastructure. The CVL Champions is part of the Characterisation Data enhanced Virtual Laboratory (CDeVL) project, funded by the Australian Research Data Commons (ARDC).
 
 ## Invitation
 
 The CVL Community (Neuroscience, Microscopy, Structural Biology, Atom Probe,
 Neutron Techniques) is providing a unique opportunity for both external and
-internal staff / HRD students to develop their training skills in a free 2 day
-workshop (all costs paid).The workshop was designed to provide guidance,
-methods and tips for developing and delivering quality, impactful training;
-whilst also encouraging attendees to become reflective practitioners, able to
-seek and act upon feedback and try new modes of training. To join you need to
-have enthusiasm for delivering knowledge to others. The training we provide is
-highly interactive in nature. Throughout the workshop participants are
-encouraged to bring their thoughts and voice into all discussions; sharing
-experiences and swapping ideas. We will also facilitate the a network between
-the participants, regardless of their areas of expertise, enabling the
-development of a support network for future practice development.
+internal staff / HRD students to develop their training skills in a 2 day
+workshop 1- 2 October (all costs paid). The workshop is designed to provide
+guidance, methods and tips for developing and delivering quality, impactful
+training; whilst also encouraging attendees to become reflective practitioners,
+able to seek and act upon feedback and try new modes of training. To join you
+need to have enthusiasm for delivering knowledge to others. The training we
+provide is highly interactive in nature. Throughout the workshop participants
+are encouraged to bring their thoughts and voice into all discussions; sharing
+experiences and swapping ideas. We will also facilitate networking between
+the participants, regardless of their areas of expertise.
 
 If you think this workshop might be of interest to someone else, please
 forward this opportunity. Registration open on 18 June 2019 and close 31 July 2019.
@@ -66,6 +70,7 @@ The group of selected champions will meet in person for two days of networking a
 
 ## Requirements
 
+* This application is open to participants based in Australia.
 * Commit to attending and participating in the three programmed events, 2 online and 1 in person (see program below).
 * Commit to continuation of the training effort for at least until the end of 2020.
 * Provide at least 2 trainings sessions a year, one of which has to be part of the CVL trainings.
@@ -92,4 +97,4 @@ Please contact the [Characterisation Training Coordinator](mailto:p.martinez@uq.
 
 Special thanks for comments received before the publication of this post to,  Noni Creasey, Ben Sinclair, Saba Salehi, and Shannon Lindsay.
 
-Last updated on 12 June 2019.
+Last updated on 14 June 2019.
