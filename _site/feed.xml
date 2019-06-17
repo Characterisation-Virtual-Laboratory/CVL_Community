@@ -5,8 +5,8 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Jun 2019 10:37:36 +1000</pubDate>
-    <lastBuildDate>Fri, 14 Jun 2019 10:37:36 +1000</lastBuildDate>
+    <pubDate>Mon, 17 Jun 2019 19:21:34 +1000</pubDate>
+    <lastBuildDate>Mon, 17 Jun 2019 19:21:34 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -149,33 +149,6 @@ CMM Actively supports and initiates microscopy &amp;amp; microanalysis.&lt;/p&gt
         
         
         <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Introfreesurfer</title>
-        <description>&lt;p&gt;get you acquainted with the concepts needed to perform its various modes of analysis and processing of MRI data. The tutorials are designed to be followed along in a terminal window, where commands can be copy/pasted into the terminal window instead of typed.&lt;/p&gt;
-
-&lt;p&gt;So we certainly do not expect participants to come in with extensive prior programming experience. That said, we do assume that all participants have a minimal level of programming competency–without which a participant will probably find it much more difficult to benefit from the course. To help you, we have a few resources worthy of your time in preparation for this workshop. Please go through them as you need, before the workshop.&lt;/p&gt;
-
-&lt;p&gt;FreeSurfer Jargon
-Clearing up jargon is a useful way to build up confidence.
-https://surfer.nmr.mgh.harvard.edu/pub/docs/fsjargon_clean.pptx&lt;/p&gt;
-
-&lt;p&gt;Introduction to shell for FreeSurfer users
-http://surfer.nmr.mgh.harvard.edu/pub/docs/Unix_MF.pptx&lt;/p&gt;
-
-&lt;p&gt;Bash scripting cheat stylesheet by &lt;a href=&quot;https://ricostacruz.com/&quot;&gt;@rstacruz &lt;/a&gt;
-From simple to complex, syntax you can put together to write bash scripts.
-https://devhints.io/bash&lt;/p&gt;
-
-&lt;p&gt;For more FreeSurfer tutorials we recommend you to have a look at the FreeSurfer wiki tutorials page
-http://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial&lt;/p&gt;
-</description>
-        <pubDate>Mon, 20 May 2019 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/CVL_Community/IntroFreeSurfer/</link>
-        <guid isPermaLink="true">http://localhost:4000/CVL_Community/IntroFreeSurfer/</guid>
-        
         
       </item>
     
