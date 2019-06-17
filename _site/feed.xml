@@ -5,8 +5,8 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Jun 2019 19:21:34 +1000</pubDate>
-    <lastBuildDate>Mon, 17 Jun 2019 19:21:34 +1000</lastBuildDate>
+    <pubDate>Mon, 17 Jun 2019 19:27:50 +1000</pubDate>
+    <lastBuildDate>Mon, 17 Jun 2019 19:27:50 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
