@@ -44,7 +44,7 @@ experiences and swapping ideas. We will also facilitate networking between
 the participants, regardless of their areas of expertise.
 
 If you think this workshop might be of interest to someone else, please
-forward this opportunity. Registration open on 18 June 2019 and close 31 July 2019.
+forward this opportunity. Applications close 31 July 2019. [Apply here!](https://survey.zohopublic.com/zs/PKCNyN).
 
 ## Why be a CVL champion?
 
@@ -63,7 +63,7 @@ The group of selected champions will meet in person for two days of networking a
 
 ## Application timeline
 
-* Applications open on 18 June 2019 (coming soon!).
+* Applications open on 18 June 2019. [Apply here!](https://survey.zohopublic.com/zs/PKCNyN).
 * Videoconference information session on 17 July 2019. [Register here](https://www.eventbrite.com.au/e/cvl-champions-information-session-via-zoom-tickets-62036833840).
 * Applications close on 31 July 2019.
 * Selected applicants will be contacted on 9 August 2019.
@@ -97,4 +97,4 @@ Please contact the [Characterisation Training Coordinator](mailto:p.martinez@uq.
 
 Special thanks for comments received before the publication of this post to,  Noni Creasey, Ben Sinclair, Saba Salehi, and Shannon Lindsay.
 
-Last updated on 14 June 2019.
+Last updated on 18 June 2019.
