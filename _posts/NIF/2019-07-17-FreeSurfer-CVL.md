@@ -18,9 +18,7 @@ various modes of analysis and processing of MRI data. The tutorial is designed
 to be followed along in a terminal window, where commands can be copy/paste
 into the terminal window.
 
-Materials created by Tom Shaw
-
-https://hackmd.io/_OJnONm2Qj-__veluKyqFw?view
+**[Materials created by Tom Shaw](https://hackmd.io/_OJnONm2Qj-__veluKyqFw?view)**
 
 ## Characterisation Virtual Laboratory (CVL)
 

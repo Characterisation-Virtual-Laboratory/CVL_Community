@@ -5,9 +5,42 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Jun 2019 09:35:45 +1000</pubDate>
-    <lastBuildDate>Wed, 26 Jun 2019 09:35:45 +1000</lastBuildDate>
+    <pubDate>Thu, 18 Jul 2019 14:00:57 +1000</pubDate>
+    <lastBuildDate>Thu, 18 Jul 2019 14:00:57 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Introduction to FreeSurfer</title>
+        <description>&lt;p&gt;Last updated 17 July 2019&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction-to-freesurfer-using-the-cvl&quot;&gt;Introduction to FreeSurfer using the CVL&lt;/h1&gt;
+
+&lt;p&gt;We are using the CVL to get you acquainted with the concepts needed to perform
+various modes of analysis and processing of MRI data. The tutorial is designed
+to be followed along in a terminal window, where commands can be copy/paste
+into the terminal window.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://hackmd.io/_OJnONm2Qj-__veluKyqFw?view&quot;&gt;Materials created by Tom Shaw&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
+
+&lt;p&gt;The CVL is a nationally funded software infrastructure collaboration
+to make scientific tools for image analysis and processing, available freely
+and cloud-ready. The &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/about&quot;&gt;CVL is also a community&lt;/a&gt; of experts who support training
+and best data management practices.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Jul 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/FreeSurfer-CVL/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/FreeSurfer-CVL/</guid>
+        
+        <category>external</category>
+        
+        
+        <category>FAIR</category>
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>Intro to FAIR for NIF</title>
@@ -691,84 +724,6 @@ on page 9. It includes activities and useful material about &lt;em&gt;How do you
         <link>http://localhost:4000/CVL_Community/Data-Management/</link>
         <guid isPermaLink="true">http://localhost:4000/CVL_Community/Data-Management/</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>Publicly accessible software tutorials</title>
-        <description>&lt;p&gt;A list of publicly accessible tutorials with a short description.
-We will appreciate if you can curate and/or add to this list.&lt;/p&gt;
-
-&lt;h1 id=&quot;tutorials-from-external-resources&quot;&gt;Tutorials from external resources&lt;/h1&gt;
-
-&lt;h2 id=&quot;list-of-all-tutorials-ordered-by-alphabet-name&quot;&gt;List of all tutorials ordered by Alphabet name&lt;/h2&gt;
-
-&lt;h3 id=&quot;the-image-data-resource&quot;&gt;The Image Data Resource&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The Image Data Resource (IDR) publishes “reference image” datasets supporting conventional peer-reviewed publications and integrates them with other imaging datasets for cross-dataset querying of metadata (e.g. genes, phenotypes, small molecules) and re-analysis. &lt;a href=&quot;https://idr.openmicroscopy.org/about/submission.html&quot;&gt;Submission of datasets to IDR&lt;/a&gt; and an &lt;a href=&quot;https://github.com/IDR/idr-metadata&quot;&gt;IDR metadata example&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;computational-bioimaging&quot;&gt;computational Bioimaging&lt;/h3&gt;
-
-&lt;p&gt;From images (both light and electron microscopy) to data. This course will
-cover the process of dealing with microscopy data, converting between formats,
-analysing images in a clear and reproducible fashion and preparing images for
-publication. Includes FIJI, Python and OMERO. By Matthew Hartley 2015, from John
-Innes Centre, JIC. &lt;a href=&quot;http://training.scicomp.jic.ac.uk/docs/bioimaging_course_book/index.html&quot;&gt;Online tutorial&lt;/a&gt;.
-Labeled for beginners in microscopy analysis.&lt;/p&gt;
-
-&lt;h3 id=&quot;freesurfer&quot;&gt;FreeSurfer&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;If you want to learn &lt;a href=&quot;https://surfer.nmr.mgh.harvard.edu/fswiki/Tutorials&quot;&gt;FreeSurfer&lt;/a&gt; the documentation is ready to be explored.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;fiji&quot;&gt;FIJI&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://downloads.openmicroscopy.org/presentations/2018/GBI-Sydney/Sydney_Workshop_19092018.pdf&quot;&gt;OMERO + FIJI&lt;/a&gt; From GBI Sydney, Sep 2018. FIJI analysis starts on page 10. Author: Petr Walczysko part of Hands-on data management with OMERO.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://imagej.net/Category:Tutorials&quot;&gt;ImageJ tutorials&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/imagej/tutorials/tree/master/notebooks&quot;&gt;ImageJ tutorials using Jupyter notebooks&lt;/a&gt; This project contains example code for working with ImageJ and SciJava. &lt;a href=&quot;https://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;CC0 1.0 Universal license&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/github/imagej/tutorials/blob/master/notebooks/ImageJ-Tutorials-and-Demo.ipynb&quot;&gt;Using ImageJ&lt;/a&gt; &lt;a href=&quot;https://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;CC0 1.0 Universal license&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/tischi/imagej-courses&quot;&gt;Practical exercises to learn image analysis using ImageJ/Fiji with a strong focus on biological fluorescence microscopy data&lt;/a&gt; Author: Christian “Tischi” Tischer, 2018 and 2019. Suggested to look at folder &lt;em&gt;handouts&lt;/em&gt; and &lt;em&gt;practicals&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.ini.uzh.ch/~acardona/fiji-tutorial/&quot;&gt;Fiji scripting tutorial using python (jython)&lt;/a&gt; by Albert Cardona&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sydney.edu.au/medicine/bosch/facilities/advanced-microscopy/user-support/ImageJ_FL_Image_Analysis.pdf&quot;&gt;ImageJ and FIJI&lt;/a&gt; by Peter Bankhead&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://imagej.net/Getting_started_with_TrackMate&quot;&gt;Getting started with the plugin TrackMate&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://imagej.net/How_to_make_a_new_tutorial&quot;&gt;A very fast way to make tutorials in FIJI and upload them to the FIJI Wiki&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1vLYPyzsawvM807nqZuznb-gjemupmeZA/view&quot;&gt;A brief introduction to machine learning for bio-imaging&lt;/a&gt; &lt;a href=&quot;http://bit.do/ML-Imaging-WS&quot;&gt;http://bit.do/ML-Imaging-WS&lt;/a&gt; Nick Hamilton, Sep 2018 and March 2019. &lt;a href=&quot;https://imagej.net/Trainable_Weka_Segmentation&quot;&gt;Using FIJI with Trainable Weka&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;git&quot;&gt;Git&lt;/h3&gt;
-
-&lt;p&gt;Git for Scientists by Miles McBain 2019. A 3.5 hour
- introduction to basic shell and git/GitHub. Read and
-  follow along the &lt;a href=&quot;https://milesmcbain.github.io/git_4_sci/index.html&quot;&gt;tutorial here&lt;/a&gt;.
-This work is licensed under a
-&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;Creative Commons Attribution-Share Alike 4.0 International License&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;mrtrix&quot;&gt;MRtrix&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mrtrix.readthedocs.io/en/latest/&quot;&gt;MRtrix documentation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;omero&quot;&gt;OMERO&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1NOsgeQE5j3gH45npgg-wdQMvB9mDbiiQL37nlDU5Wpo/edit&quot;&gt;OMERO&lt;/a&gt; it redirects to &lt;a href=&quot;https://code.research.uts.edu.au/MIF/OMERO-instructions/wikis/home&quot;&gt;https://code.research.uts.edu.au/MIF/OMERO-instructions/wikis/home&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Updated on May 15th, 2019&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Jan 2019 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/CVL_Community/other-tutorials/</link>
-        <guid isPermaLink="true">http://localhost:4000/CVL_Community/other-tutorials/</guid>
-        
-        <category>external</category>
-        
-        
-        <category>tutorial</category>
         
       </item>
     
