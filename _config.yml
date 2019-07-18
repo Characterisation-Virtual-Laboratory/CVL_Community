@@ -9,8 +9,10 @@ baseurl: /CVL_Community
 disqus: "cvl-community"
 include: ["_pages"]
 permalink: /:title/
+## google_analytics: 'UA-142773580-1'
 ## mailchimp-list: ''
-## google_analytics: ''
+
+encoding: utf-8
 
 # Authors
 authors:

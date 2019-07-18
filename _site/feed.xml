@@ -5,9 +5,109 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Jun 2019 19:27:50 +1000</pubDate>
-    <lastBuildDate>Mon, 17 Jun 2019 19:27:50 +1000</lastBuildDate>
+    <pubDate>Wed, 26 Jun 2019 09:35:45 +1000</pubDate>
+    <lastBuildDate>Wed, 26 Jun 2019 09:35:45 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Intro to FAIR for NIF</title>
+        <description>&lt;p&gt;The NIF annual meeting is happening 18-21 June 2019. It starts with a FAIR
+training event, and on boarding participants to use the CVL desktop.&lt;/p&gt;
+
+&lt;p&gt;Last updated 17 June 2019&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction-to-fair-data&quot;&gt;Introduction to FAIR data&lt;/h1&gt;
+
+&lt;p&gt;The National Image Facility annual meeting is happening on 18-21 June 2019 in
+Brisbane. This meeting starts with a FAIR training event, and on boarding
+participants to use the CVL desktop.&lt;/p&gt;
+
+&lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
+
+&lt;p&gt;The CVL is a nationally funded software infrastructure collaboration
+to make scientific tools for image analysis and processing, available freely
+and cloud-ready. The &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/about&quot;&gt;CVL is also a community&lt;/a&gt; of experts who support training
+and best data management practices.&lt;/p&gt;
+
+&lt;h2 id=&quot;workshop-preparation&quot;&gt;Workshop preparation&lt;/h2&gt;
+
+&lt;p&gt;In preparation for the NIF workshop introduction to FAIR, please
+think about the following questions.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What’s the approach of handling sensitive data? Is there a procedure? Links
+are useful, or a simple description.&lt;/li&gt;
+  &lt;li&gt;Persistent identifiers, any special PIDs that are used by NIF? apart from
+DOIs or maybe RAiDs?&lt;/li&gt;
+  &lt;li&gt;Are there any special controlled vocabularies to describe metadata?&lt;/li&gt;
+  &lt;li&gt;Do you know of any recommendations from journals that you use about where to
+store data? any guidelines?&lt;/li&gt;
+  &lt;li&gt;If people would like to share data what type of file formats are suggested
+or broadly in use ?&lt;/li&gt;
+  &lt;li&gt;Any recommendations about license for work features?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Also, please take the time to read this Nature article &lt;a href=&quot;https://www.nature.com/articles/d41586-019-01720-7&quot;&gt;Make scientific data FAIR&lt;/a&gt; by Stall et al., 2019 &lt;a href=&quot;doi:10.1038/d41586-019-01720-7&quot;&gt;doi:10.1038/d41586-019-01720-7&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;workshop-agenda&quot;&gt;Workshop agenda&lt;/h2&gt;
+
+&lt;p&gt;Thanks for attending this session hosted by the Characterisation Virtual
+Laboratory (CVL). Please complete the following feedback form before leaving
+ &lt;a href=&quot;http://tiny.cc/CVL_feedback&quot;&gt;tiny.cc/CVL_feedback&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Everything we do today is available online. You can cherry-pick what is more
+important for you. Suggested resources will be listed at the end of each
+presentation.&lt;/p&gt;
+
+&lt;p&gt;Find the materials for this workshop here: &lt;a href=&quot;tiny.cc/CVL_Community&quot;&gt;tiny.cc/CVL_Community&lt;/a&gt; under Intro to FAIR for NIF.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Introductions&lt;/li&gt;
+  &lt;li&gt;FAIR principles and data management&lt;/li&gt;
+  &lt;li&gt;What is the CVL?&lt;/li&gt;
+  &lt;li&gt;CVL Federation for users&lt;/li&gt;
+  &lt;li&gt;CVL instrument integration&lt;/li&gt;
+  &lt;li&gt;Q&amp;amp;A&lt;/li&gt;
+  &lt;li&gt;Demo CVL at MASSIVE - If people have accounts already they can test
+their own data sets and ask questions.&lt;/li&gt;
+  &lt;li&gt;Split into teams, to set up accounts for the CVL&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;who-to-reach-for-questions&quot;&gt;Who to reach for questions?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Paula Andrea Martinez / Characterisation Training Coordinator - National Image Facility / p.martinez at uq.edu.au&lt;/li&gt;
+  &lt;li&gt;Lance Wilson / Characterisation Virtual Laboratory (CVL) Coordinator &amp;amp;
+Senior HPC Consultant - Monash University&lt;/li&gt;
+  &lt;li&gt;Aswin Narayanan / Informatics Fellow - Centre for Advanced Imaging - National Image Facility&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;material&quot;&gt;Material&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://demo.codimd.org/p/rkCna2l1S#/&quot;&gt;FAIR Principles and Data management&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://demo.codimd.org/p/SJlh1PQAV#/&quot;&gt;The Characterisation Virtual Laboratory&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CVL at MASSIVE documentation &lt;a href=&quot;http://docs.massive.org.au/&quot;&gt;http://docs.massive.org.au/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;after-the-workshop&quot;&gt;After the workshop&lt;/h2&gt;
+
+&lt;p&gt;Please fill in the anonymous feedback form before leaving:  &lt;a href=&quot;http://tiny.cc/CVL_feedback&quot;&gt;tiny.cc/CVL_feedback&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 18 Jun 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/FAIR-CVL/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/FAIR-CVL/</guid>
+        
+        <category>external</category>
+        
+        
+        <category>FAIR</category>
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>Data management and FAIR</title>
@@ -482,7 +582,7 @@ experiences and swapping ideas. We will also facilitate networking between
 the participants, regardless of their areas of expertise.&lt;/p&gt;
 
 &lt;p&gt;If you think this workshop might be of interest to someone else, please
-forward this opportunity. Registration open on 18 June 2019 and close 31 July 2019.&lt;/p&gt;
+forward this opportunity. Applications close 31 July 2019. &lt;a href=&quot;https://survey.zohopublic.com/zs/PKCNyN&quot;&gt;Apply here!&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;why-be-a-cvl-champion&quot;&gt;Why be a CVL champion?&lt;/h2&gt;
 
@@ -504,7 +604,7 @@ We also strongly encourage members of groups that are underrepresented in scienc
 &lt;h2 id=&quot;application-timeline&quot;&gt;Application timeline&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Applications open on 18 June 2019 (coming soon!).&lt;/li&gt;
+  &lt;li&gt;Applications open on 18 June 2019. &lt;a href=&quot;https://survey.zohopublic.com/zs/PKCNyN&quot;&gt;Apply here!&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;Videoconference information session on 17 July 2019. &lt;a href=&quot;https://www.eventbrite.com.au/e/cvl-champions-information-session-via-zoom-tickets-62036833840&quot;&gt;Register here&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;Applications close on 31 July 2019.&lt;/li&gt;
   &lt;li&gt;Selected applicants will be contacted on 9 August 2019.&lt;/li&gt;
@@ -546,7 +646,7 @@ Champions will prepare SMART goals around the future uptake of FAIR data princip
 
 &lt;p&gt;Special thanks for comments received before the publication of this post to,  Noni Creasey, Ben Sinclair, Saba Salehi, and Shannon Lindsay.&lt;/p&gt;
 
-&lt;p&gt;Last updated on 14 June 2019.&lt;/p&gt;
+&lt;p&gt;Last updated on 18 June 2019.&lt;/p&gt;
 </description>
         <pubDate>Sat, 04 May 2019 16:06:12 +1000</pubDate>
         <link>http://localhost:4000/CVL_Community/champions/</link>
