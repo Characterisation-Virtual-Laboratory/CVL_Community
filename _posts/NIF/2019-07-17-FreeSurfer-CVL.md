@@ -22,11 +22,12 @@ various modes of analysis and processing of MRI data. The tutorial is designed
 to be followed along in a terminal window, where commands can be copy/pasted
 into the terminal window.
 
-Materials provided by Thomas Shaw MNeuroSc(Adv) BPsySc(Hons) | PhD Candidate
+Materials kindly provided by Thomas Shaw MNeuroSc(Adv) BPsySc(Hons) | PhD Candidate
+
 Centre for Advanced Imaging, The University of Queensland
 
 * [FreeSurfer slides](https://drive.google.com/file/d/1c-kFrwxxzNaPcRz7mRr1WRD5cH6Fnq68/view)
-* [Hands on](https://hackmd.io/_OJnONm2Qj-__veluKyqFw?view)
+* [Hands on](https://hackmd.io/_OJnONm2Qj-__veluKyqFw?view) materials to login into the CVL and run recon-all as a job. Useful references are included at the end.
 
 ## Characterisation Virtual Laboratory (CVL)
 
