@@ -14,8 +14,8 @@
 <meta property="og:title" content="Introduction to FreeSurfer" />
 <meta name="author" content="Paula" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Last updated 17 July 2019 Introduction to FreeSurfer using the CVL We are using the CVL to get you acquainted with the concepts needed to perform various modes of analysis and processing of MRI data. The tutorial is designed to be followed along in a terminal window, where commands can be copy/paste into the terminal window. Materials created by Tom Shaw Characterisation Virtual Laboratory (CVL) The CVL is a nationally funded software infrastructure collaboration to make scientific tools for image analysis and processing, available freely and cloud-ready. The CVL is also a community of experts who support training and best data management practices." />
-<meta property="og:description" content="Last updated 17 July 2019 Introduction to FreeSurfer using the CVL We are using the CVL to get you acquainted with the concepts needed to perform various modes of analysis and processing of MRI data. The tutorial is designed to be followed along in a terminal window, where commands can be copy/paste into the terminal window. Materials created by Tom Shaw Characterisation Virtual Laboratory (CVL) The CVL is a nationally funded software infrastructure collaboration to make scientific tools for image analysis and processing, available freely and cloud-ready. The CVL is also a community of experts who support training and best data management practices." />
+<meta name="description" content="Last updated 22 July 2019 Cortical Reconstruction Process using FreeSurfer and the CVL. This workshop was requested by Sydney Imaging in collaboration with University of Sydney as a CVL partner. It took place at Charles Perkins Centre on Friday, 19 Jul 2019. Introduction to FreeSurfer using the CVL We use the CVL to get you acquainted with the concepts needed to perform various modes of analysis and processing of MRI data. The tutorial is designed to be followed along in a terminal window, where commands can be copy/pasted into the terminal window. Materials kindly provided by Thomas Shaw MNeuroSc(Adv) BPsySc(Hons) PhD Candidate Centre for Advanced Imaging, The University of Queensland FreeSurfer slides Hands on materials to login into the CVL and run recon-all as a job. Useful references are included at the end. Characterisation Virtual Laboratory (CVL) The CVL is a nationally funded software infrastructure collaboration to make scientific tools for image analysis and processing, available freely and cloud-ready. The CVL is also a community of experts who support training and best data management practices." />
+<meta property="og:description" content="Last updated 22 July 2019 Cortical Reconstruction Process using FreeSurfer and the CVL. This workshop was requested by Sydney Imaging in collaboration with University of Sydney as a CVL partner. It took place at Charles Perkins Centre on Friday, 19 Jul 2019. Introduction to FreeSurfer using the CVL We use the CVL to get you acquainted with the concepts needed to perform various modes of analysis and processing of MRI data. The tutorial is designed to be followed along in a terminal window, where commands can be copy/pasted into the terminal window. Materials kindly provided by Thomas Shaw MNeuroSc(Adv) BPsySc(Hons) PhD Candidate Centre for Advanced Imaging, The University of Queensland FreeSurfer slides Hands on materials to login into the CVL and run recon-all as a job. Useful references are included at the end. Characterisation Virtual Laboratory (CVL) The CVL is a nationally funded software infrastructure collaboration to make scientific tools for image analysis and processing, available freely and cloud-ready. The CVL is also a community of experts who support training and best data management practices." />
 <link rel="canonical" href="http://localhost:4000/CVL_Community/FreeSurfer-CVL/" />
 <meta property="og:url" content="http://localhost:4000/CVL_Community/FreeSurfer-CVL/" />
 <meta property="og:site_name" content="CVL Community" />
@@ -23,7 +23,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2019-07-17T00:00:00+10:00" />
 <script type="application/ld+json">
-{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/CVL_Community/assets/images/logo.png"},"name":"Paula"},"@type":"BlogPosting","headline":"Introduction to FreeSurfer","dateModified":"2019-07-17T00:00:00+10:00","url":"http://localhost:4000/CVL_Community/FreeSurfer-CVL/","datePublished":"2019-07-17T00:00:00+10:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/CVL_Community/FreeSurfer-CVL/"},"image":"http://localhost:4000/CVL_Community/assets/images/3.jpg","author":{"@type":"Person","name":"Paula"},"description":"Last updated 17 July 2019 Introduction to FreeSurfer using the CVL We are using the CVL to get you acquainted with the concepts needed to perform various modes of analysis and processing of MRI data. The tutorial is designed to be followed along in a terminal window, where commands can be copy/paste into the terminal window. Materials created by Tom Shaw Characterisation Virtual Laboratory (CVL) The CVL is a nationally funded software infrastructure collaboration to make scientific tools for image analysis and processing, available freely and cloud-ready. The CVL is also a community of experts who support training and best data management practices.","@context":"http://schema.org"}</script>
+{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/CVL_Community/assets/images/logo.png"},"name":"Paula"},"@type":"BlogPosting","headline":"Introduction to FreeSurfer","dateModified":"2019-07-17T00:00:00+10:00","url":"http://localhost:4000/CVL_Community/FreeSurfer-CVL/","datePublished":"2019-07-17T00:00:00+10:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/CVL_Community/FreeSurfer-CVL/"},"image":"http://localhost:4000/CVL_Community/assets/images/3.jpg","author":{"@type":"Person","name":"Paula"},"description":"Last updated 22 July 2019 Cortical Reconstruction Process using FreeSurfer and the CVL. This workshop was requested by Sydney Imaging in collaboration with University of Sydney as a CVL partner. It took place at Charles Perkins Centre on Friday, 19 Jul 2019. Introduction to FreeSurfer using the CVL We use the CVL to get you acquainted with the concepts needed to perform various modes of analysis and processing of MRI data. The tutorial is designed to be followed along in a terminal window, where commands can be copy/pasted into the terminal window. Materials kindly provided by Thomas Shaw MNeuroSc(Adv) BPsySc(Hons) PhD Candidate Centre for Advanced Imaging, The University of Queensland FreeSurfer slides Hands on materials to login into the CVL and run recon-all as a job. Useful references are included at the end. Characterisation Virtual Laboratory (CVL) The CVL is a nationally funded software infrastructure collaboration to make scientific tools for image analysis and processing, available freely and cloud-ready. The CVL is also a community of experts who support training and best data management practices.","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -248,16 +248,35 @@
                     </div>
                 
                 <!-- End Toc -->
-                <p>Last updated 17 July 2019</p>
+                <p>Last updated 22 July 2019</p>
+
+<p>Cortical Reconstruction Process using FreeSurfer and the CVL. This workshop was
+requested by Sydney Imaging in collaboration with University of Sydney as a
+CVL partner. It took place at Charles Perkins Centre on Friday, 19 Jul 2019.</p>
 
 <h1 id="introduction-to-freesurfer-using-the-cvl">Introduction to FreeSurfer using the CVL</h1>
 
-<p>We are using the CVL to get you acquainted with the concepts needed to perform
+<p>We use the CVL to get you acquainted with the concepts needed to perform
 various modes of analysis and processing of MRI data. The tutorial is designed
-to be followed along in a terminal window, where commands can be copy/paste
+to be followed along in a terminal window, where commands can be copy/pasted
 into the terminal window.</p>
 
-<p><strong><a href="https://hackmd.io/_OJnONm2Qj-__veluKyqFw?view" target="_blank" rel="external">Materials created by Tom Shaw</a></strong></p>
+<table>
+  <tbody>
+    <tr>
+      <td>Materials kindly provided by Thomas Shaw MNeuroSc(Adv) BPsySc(Hons)</td>
+      <td>PhD Candidate</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Centre for Advanced Imaging, The University of Queensland</p>
+
+<ul>
+  <li><a href="https://drive.google.com/file/d/1c-kFrwxxzNaPcRz7mRr1WRD5cH6Fnq68/view" target="_blank" rel="external">FreeSurfer slides</a></li>
+  <li>
+<a href="https://hackmd.io/_OJnONm2Qj-__veluKyqFw?view" target="_blank" rel="external">Hands on</a> materials to login into the CVL and run recon-all as a job. Useful references are included at the end.</li>
+</ul>
 
 <h2 id="characterisation-virtual-laboratory-cvl">Characterisation Virtual Laboratory (CVL)</h2>
 

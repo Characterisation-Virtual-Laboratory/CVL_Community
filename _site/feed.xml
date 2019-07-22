@@ -5,22 +5,40 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Jul 2019 14:03:57 +1000</pubDate>
-    <lastBuildDate>Thu, 18 Jul 2019 14:03:57 +1000</lastBuildDate>
+    <pubDate>Mon, 22 Jul 2019 12:51:44 +1000</pubDate>
+    <lastBuildDate>Mon, 22 Jul 2019 12:51:44 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Introduction to FreeSurfer</title>
-        <description>&lt;p&gt;Last updated 17 July 2019&lt;/p&gt;
+        <description>&lt;p&gt;Last updated 22 July 2019&lt;/p&gt;
+
+&lt;p&gt;Cortical Reconstruction Process using FreeSurfer and the CVL. This workshop was
+requested by Sydney Imaging in collaboration with University of Sydney as a
+CVL partner. It took place at Charles Perkins Centre on Friday, 19 Jul 2019.&lt;/p&gt;
 
 &lt;h1 id=&quot;introduction-to-freesurfer-using-the-cvl&quot;&gt;Introduction to FreeSurfer using the CVL&lt;/h1&gt;
 
-&lt;p&gt;We are using the CVL to get you acquainted with the concepts needed to perform
+&lt;p&gt;We use the CVL to get you acquainted with the concepts needed to perform
 various modes of analysis and processing of MRI data. The tutorial is designed
-to be followed along in a terminal window, where commands can be copy/paste
+to be followed along in a terminal window, where commands can be copy/pasted
 into the terminal window.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://hackmd.io/_OJnONm2Qj-__veluKyqFw?view&quot;&gt;Materials created by Tom Shaw&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Materials kindly provided by Thomas Shaw MNeuroSc(Adv) BPsySc(Hons)&lt;/td&gt;
+      &lt;td&gt;PhD Candidate&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Centre for Advanced Imaging, The University of Queensland&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1c-kFrwxxzNaPcRz7mRr1WRD5cH6Fnq68/view&quot;&gt;FreeSurfer slides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackmd.io/_OJnONm2Qj-__veluKyqFw?view&quot;&gt;Hands on&lt;/a&gt; materials to login into the CVL and run recon-all as a job. Useful references are included at the end.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
 
