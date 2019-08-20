@@ -5,9 +5,66 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Jul 2019 12:51:44 +1000</pubDate>
-    <lastBuildDate>Mon, 22 Jul 2019 12:51:44 +1000</lastBuildDate>
+    <pubDate>Tue, 20 Aug 2019 14:57:38 +1000</pubDate>
+    <lastBuildDate>Tue, 20 Aug 2019 14:57:38 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Automating neuroimaging analysis workflows with Nipype, Arcana and Banana</title>
+        <description>&lt;p&gt;Last updated 20 August 2019&lt;/p&gt;
+
+&lt;p&gt;Workshop - hands on
+Date: 15 November, 2019 (after the VBIC Annual Network Meeting)
+Duration: 1 day (9:30 - 5:00)
+Proposed Location: Melbourne
+Instructor: Thomas Close from Monash Biomedical Imaging&lt;/p&gt;
+
+&lt;p&gt;This is a proposal for a hands on workshop.
+Registrations are not yet open, if you would like more information about this, please &lt;a href=&quot;mailto:p.martinez@uq.edu.au&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;automating-neuroimaging-analysis-workflows-with-nipype-arcana-and-banana&quot;&gt;Automating neuroimaging analysis workflows with Nipype, Arcana and Banana&lt;/h1&gt;
+
+&lt;p&gt;Analysis of neuroimaging-research data involves the sequential application of algorithms implemented in a number of heterogeneous toolkits (e.g. FSL, SPM, MRTrix, ANTs, AFNI, DiPy). This makes constructing complete workflows challenging as it requires not only the relevant scientific knowledge but also familiarity with the syntax and options of each of the tools involved.&lt;/p&gt;
+
+&lt;p&gt;The workshop will show how to wrap neuroimaging tools within consistent interfaces and link them together into robust workflows using the Nipype Python package (http://nipype.readthedocs.io). Participants will then be shown how common components of these analysis workflows can be consolidated within object-oriented base classes using the Abstraction of Repository Centric ANAlysis (Arcana) (http://arcana.readthedocs.io) framework, and how this is used in the Brain imAgiNg Analysis iN Arcana (&lt;a href=&quot;https://github.com/MonashBI/banana&quot;&gt;Banana&lt;/a&gt;) package to capture the arcana (obscure knowledge) of neuroimaging analysis workflow design.&lt;/p&gt;
+
+&lt;p&gt;In the last part of the course, participants will learn how to extend and customise the classes in Banana to the specific needs of their own analysis, and apply these workflows to project data stored in BIDS datasets. Then finally, how workflows can be automated for data stored in XNAT repositories by encapsulating them within Docker containers and using XNAT’s “container service”.&lt;/p&gt;
+
+&lt;h2 id=&quot;pre-requisites&quot;&gt;Pre-requisites&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Proficiency in Python programming, or programming in general and familiarity with object-oriented concepts.&lt;/li&gt;
+  &lt;li&gt;A conceptual understanding of container technology (i.e. Docker/Singularity) would be beneficial.&lt;/li&gt;
+  &lt;li&gt;Some familiarity with the function of standard neuroimaging toolkits (e.g. FSL, SPM, MRTrix, ANTs, AFNI, DiPy) would be good but not strictly necessary.&lt;/li&gt;
+  &lt;li&gt;An account on MASSIVE/CVL.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;details&quot;&gt;Details&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Freely available datasets will be used for this workshop.&lt;/li&gt;
+  &lt;li&gt;Date: 15 November, 2019 (after the &lt;a href=&quot;https://mailchi.mp/971744c85b21/save-the-date-annual-vbic-network-meeting-14-november-2019&quot;&gt;VBIC Annual Network Meeting&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Duration: 1 day (9:30 - 5:00)&lt;/li&gt;
+  &lt;li&gt;Location: Melbourne&lt;/li&gt;
+  &lt;li&gt;Instructor: Thomas Close from MBI (Monash Biomedical Imaging)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
+
+&lt;p&gt;The CVL is a nationally funded software infrastructure collaboration
+to make scientific tools for image analysis and processing, available freely
+and cloud-ready. The &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/about&quot;&gt;CVL is also a community&lt;/a&gt; who support training
+and best data management practices.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Aug 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/workflows_proposal/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/workflows_proposal/</guid>
+        
+        
+        <category>FAIR</category>
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>Introduction to FreeSurfer</title>
@@ -707,41 +764,6 @@ Champions will prepare SMART goals around the future uptake of FAIR data princip
         <category>FAIR</category>
         
         <category>champions</category>
-        
-      </item>
-    
-      <item>
-        <title>Data Management</title>
-        <description>
-&lt;p&gt;Recommended data management readings.&lt;/p&gt;
-
-&lt;h1 id=&quot;research-data-management&quot;&gt;Research Data Management&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097&quot;&gt;Ten Simple Rules for Digital Data Storage&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vidensportal.deic.dk/sites/default/files/uploads/FAIR/poster%20A0%20150ppi.jpg&quot;&gt;A brief illustration&lt;/a&gt; of the Path to a successful research project, how to get on the right track with FAIR data management.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/0012-9623-90.2.205&quot;&gt;Some Simple Guidelines for Effective Data Management&lt;/a&gt; of files&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://daac.ornl.gov/datamanagement/&quot;&gt;NASA Earth Data - Data Management&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510&quot;&gt;Good enough practices in scientific computing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ojs.library.queensu.ca/index.php/IEE/article/view/4608&quot;&gt;Nine simple ways to make it easier to (re)use your data&lt;/a&gt; files&lt;/li&gt;
-  &lt;li&gt;Recommended reading 10 HASS Data things &lt;a href=&quot;https://tinker.edu.au/wp-content/uploads/2018/11/10-HASS-Data-Things.pdf&quot;&gt;Thing 3: Data Management planning&lt;/a&gt;
-on page 9. It includes activities and useful material about &lt;em&gt;How do you make a Data Management Plan?&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;10 HASS Data things &lt;a href=&quot;https://tinker.edu.au/wp-content/uploads/2018/11/10-HASS-Data-Things.pdf&quot;&gt;Thing 3: Data Management planning&lt;/a&gt; by Sara King, Nov 2018. Accessed on 20th March, 2019.&lt;/li&gt;
-  &lt;li&gt;Ten simple rules for machine-actionable data management plans (&lt;a href=&quot;https://zenodo.org/record/1434938#.XJl_uaQRVhE&quot;&gt;preprint&lt;/a&gt;) by Tomasz Miksa, Stephanie Simms, Daniel Mietchen and Sarah Jones. Published on 13th Feb, 2018. Accessed on 20th March, 2019  DOI:10.5281/zenodo.1434938&lt;/li&gt;
-  &lt;li&gt;Path to a successful research project &lt;a href=&quot;https://vidensportal.deic.dk/sites/default/files/uploads/FAIR/poster%20A0%20150ppi.jpg&quot;&gt;illustration&lt;/a&gt;. DeiC / Deff / DTU / CBS / AAU / KU Rigsarkivet / Det Kgl Bibliotek. 2018&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Updated 12 June 2019&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 Mar 2019 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/CVL_Community/Data-Management/</link>
-        <guid isPermaLink="true">http://localhost:4000/CVL_Community/Data-Management/</guid>
-        
         
       </item>
     
