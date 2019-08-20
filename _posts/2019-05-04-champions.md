@@ -5,7 +5,7 @@ author: Paula
 categories: [ FAIR, champions]
 image: assets/images/team.jpg
 date: 2019-05-04 16:06:12 +1000
-featured: true
+featured: false
 toc: true
 ---
 The Characterisation Virtual Laboratory (CVL) Community (Neuroscience,
