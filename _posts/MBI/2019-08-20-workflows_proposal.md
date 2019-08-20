@@ -14,19 +14,20 @@ Last updated 20 August 2019
 Workshop - hands on
 Date: 15 November, 2019 (after the VBIC Annual Network Meeting)
 Duration: 1 day (9:30 - 5:00)
-Proposed Location: Melbourne
+Proposed Location: Melbourne, TBA
 Instructor: Thomas Close from Monash Biomedical Imaging
 
-This is a proposal for a hands on workshop.
-Registrations are not yet open, if you would like more information about this, please [get in touch](mailto:p.martinez@uq.edu.au).
+This is a proposal for a hands on workshop. If you would like more information about this, please [get in touch](mailto:p.martinez@uq.edu.au).
 
 # Automating neuroimaging analysis workflows with Nipype, Arcana and Banana
 
 Analysis of neuroimaging-research data involves the sequential application of algorithms implemented in a number of heterogeneous toolkits (e.g. FSL, SPM, MRTrix, ANTs, AFNI, DiPy). This makes constructing complete workflows challenging as it requires not only the relevant scientific knowledge but also familiarity with the syntax and options of each of the tools involved.
 
-The workshop will show how to wrap neuroimaging tools within consistent interfaces and link them together into robust workflows using the Nipype Python package (http://nipype.readthedocs.io). Participants will then be shown how common components of these analysis workflows can be consolidated within object-oriented base classes using the Abstraction of Repository Centric ANAlysis (Arcana) (http://arcana.readthedocs.io) framework, and how this is used in the Brain imAgiNg Analysis iN Arcana ([Banana](https://github.com/MonashBI/banana)) package to capture the arcana (obscure knowledge) of neuroimaging analysis workflow design.
+The workshop will show how to wrap neuroimaging tools within consistent interfaces and link them together into robust workflows using the Nipype Python package ([http://nipype.readthedocs.io](http://nipype.readthedocs.io)). Participants will then be shown how common components of these analysis workflows can be consolidated within object-oriented base classes using the Abstraction of Repository Centric ANAlysis (Arcana) ([http://arcana.readthedocs.io](http://arcana.readthedocs.io)) framework, and how this is used in the Brain imAgiNg Analysis iN Arcana ([Banana](https://github.com/MonashBI/banana)) package to capture the arcana (obscure knowledge) of neuroimaging analysis workflow design.
 
 In the last part of the course, participants will learn how to extend and customise the classes in Banana to the specific needs of their own analysis, and apply these workflows to project data stored in BIDS datasets. Then finally, how workflows can be automated for data stored in XNAT repositories by encapsulating them within Docker containers and using XNAT’s “container service”.
+
+>> Registration [link](https://www.eventbrite.com.au/e/automating-neuroimaging-analysis-workflows-with-nipype-arcana-and-banana-registration-69832758661?aff=eoi1).
 
 ## Pre-requisites
 * Proficiency in Python programming, or programming in general and familiarity with object-oriented concepts.
@@ -41,6 +42,7 @@ In the last part of the course, participants will learn how to extend and custom
 * Duration: 1 day (9:30 - 5:00)
 * Location: Melbourne
 * Instructor: Thomas Close from MBI (Monash Biomedical Imaging)
+* Registration [link](https://www.eventbrite.com.au/e/automating-neuroimaging-analysis-workflows-with-nipype-arcana-and-banana-registration-69832758661?aff=eoi1).
 
 
 
