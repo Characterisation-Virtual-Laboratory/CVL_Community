@@ -40,6 +40,7 @@ Labeled for beginners in microscopy analysis.
 * [OMERO + FIJI](https://downloads.openmicroscopy.org/presentations/2018/GBI-Sydney/Sydney_Workshop_19092018.pdf) From GBI Sydney, Sep 2018. FIJI analysis starts on page 10. Author: Petr Walczysko part of Hands-on data management with OMERO.
 * [ImageJ tutorials](https://imagej.net/Category:Tutorials).
 * [ImageJ tutorials using Jupyter notebooks](https://github.com/imagej/tutorials/tree/master/notebooks) This project contains example code for working with ImageJ and SciJava. [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/).
+* [FIJI manual by Cameron Nowell](https://cloudstor.aarnet.edu.au/plus/s/NzLifYbQdDb43Fq)
 * [Using ImageJ](https://nbviewer.jupyter.org/github/imagej/tutorials/blob/master/notebooks/ImageJ-Tutorials-and-Demo.ipynb) [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/).
 * [Practical exercises to learn image analysis using ImageJ/Fiji with a strong focus on biological fluorescence microscopy data](https://github.com/tischi/imagej-courses) Author: Christian "Tischi" Tischer, 2018 and 2019. Suggested to look at folder *handouts* and *practicals*.
 * [Fiji scripting tutorial using python (jython)](http://www.ini.uzh.ch/~acardona/fiji-tutorial/) by Albert Cardona
