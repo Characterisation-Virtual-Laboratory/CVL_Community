@@ -5,13 +5,13 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Aug 2019 16:12:52 +1000</pubDate>
-    <lastBuildDate>Tue, 20 Aug 2019 16:12:52 +1000</lastBuildDate>
+    <pubDate>Tue, 27 Aug 2019 14:04:45 +1000</pubDate>
+    <lastBuildDate>Tue, 27 Aug 2019 14:04:45 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Automating neuroimaging analysis workflows with Nipype, Arcana and Banana</title>
-        <description>&lt;p&gt;Last updated 20 August 2019&lt;/p&gt;
+        <description>&lt;p&gt;Last updated 27 August 2019&lt;/p&gt;
 
 &lt;p&gt;Workshop - hands on
 Date: 15 November, 2019 (after the VBIC Annual Network Meeting)
@@ -19,7 +19,7 @@ Duration: 1 day (9:30 - 5:00)
 Proposed Location: Melbourne, TBA
 Instructor: Thomas Close from Monash Biomedical Imaging&lt;/p&gt;
 
-&lt;p&gt;This is a proposal for a hands on workshop. If you would like more information about this, please &lt;a href=&quot;mailto:p.martinez@uq.edu.au&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is an invitation for a hands on workshop. If you would like more information about this, please &lt;a href=&quot;mailto:p.martinez@uq.edu.au&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1 id=&quot;automating-neuroimaging-analysis-workflows-with-nipype-arcana-and-banana&quot;&gt;Automating neuroimaging analysis workflows with Nipype, Arcana and Banana&lt;/h1&gt;
 
