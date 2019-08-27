@@ -9,7 +9,7 @@ featured: true
 toc: true
 ---
 
-Last updated 20 August 2019
+Last updated 27 August 2019
 
 Workshop - hands on
 Date: 15 November, 2019 (after the VBIC Annual Network Meeting)
@@ -17,7 +17,7 @@ Duration: 1 day (9:30 - 5:00)
 Proposed Location: Melbourne, TBA
 Instructor: Thomas Close from Monash Biomedical Imaging
 
-This is a proposal for a hands on workshop. If you would like more information about this, please [get in touch](mailto:p.martinez@uq.edu.au).
+This is an invitation for a hands on workshop. If you would like more information about this, please [get in touch](mailto:p.martinez@uq.edu.au).
 
 # Automating neuroimaging analysis workflows with Nipype, Arcana and Banana
 
