@@ -5,21 +5,71 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Aug 2019 14:04:45 +1000</pubDate>
-    <lastBuildDate>Tue, 27 Aug 2019 14:04:45 +1000</lastBuildDate>
+    <pubDate>Wed, 28 Aug 2019 12:24:01 +1000</pubDate>
+    <lastBuildDate>Wed, 28 Aug 2019 12:24:01 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Automating neuroimaging analysis workflows with Nipype, Arcana and Banana</title>
-        <description>&lt;p&gt;Last updated 27 August 2019&lt;/p&gt;
+        <title>Travel scholarships</title>
+        <description>&lt;p&gt;Travel scholarships for researchers in Australia, working with complex image analysis (characterisation).&lt;/p&gt;
 
-&lt;p&gt;Workshop - hands on
+&lt;h1 id=&quot;travel-scholarships&quot;&gt;Travel scholarships&lt;/h1&gt;
+&lt;p&gt;To help you attend a workshop the CDEVL project
+ (Characterisation Data Enhanced Virtual Laboratory) is organising travel scholarships which will cover the cost of travel (airfare, train, bus,
+taxi, accommodation). These are provided up to
+ specified caps as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;up to A$500 for participants coming from a state other than where the workshop is being held.&lt;/li&gt;
+  &lt;li&gt;up to A$800 for participants coming from WA or NT.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;application&quot;&gt;Application&lt;/h2&gt;
+
+&lt;p&gt;Researchers in Australia, working with complex image analysis (characterisation) may apply for a travel scholarship (at least 3 weeks before the event) by answering the following questions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Name and date of the workshop&lt;/li&gt;
+  &lt;li&gt;Brief research domain, career level, institution&lt;/li&gt;
+  &lt;li&gt;What is your motivation for attending this workshop?&lt;/li&gt;
+  &lt;li&gt;Brief reasons why your institution cannot fund your attendance&lt;/li&gt;
+  &lt;li&gt;How your attendance will make a difference to your career?&lt;/li&gt;
+  &lt;li&gt;Commit to share your experience after the workshop,
+for example, a video or short story (a month after the workshop) or instruct or facilitate a workshop (in the following 6 months).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Please email your application to &lt;a href=&quot;mailto:p.martinez@uq.edu.au&quot;&gt;Paula Andrea Martinez&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;selection&quot;&gt;Selection&lt;/h2&gt;
+
+&lt;p&gt;The organisers will select the recipients of all scholarhsip applicants as they come and will close to review 3 weeks before the event.
+Selection is based on your current work or study location, your motivation for applying, the reasons for needing financial support and the impact this event will have on your career. Incomplete applications won’t be assessed.&lt;/p&gt;
+
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
+&lt;p&gt;Results will be announced approximately 3 weeks before the event start date, however for some events this may be delayed. Selection results do not impact your admission to the workshop. You will be contacted to organise your travel. We will pay for your travel costs in advance.&lt;/p&gt;
+
+&lt;p&gt;In the ocasion that you would like to organise your travel costs we can offer reimbursments with the cap above and you will be required to fill a reimbursement form and send original receipts from travel costs.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Aug 2019 12:06:12 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/scholarships/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/scholarships/</guid>
+        
+        
+        <category>champions</category>
+        
+      </item>
+    
+      <item>
+        <title>Automating neuroimaging analysis workflows with Nipype, Arcana and Banana</title>
+        <description>&lt;p&gt;Last updated 28 August 2019&lt;/p&gt;
+
+&lt;p&gt;Hands-on workshop
 Date: 15 November, 2019 (after the VBIC Annual Network Meeting)
 Duration: 1 day (9:30 - 5:00)
 Proposed Location: Melbourne, TBA
 Instructor: Thomas Close from Monash Biomedical Imaging&lt;/p&gt;
 
-&lt;p&gt;This is an invitation for a hands on workshop. If you would like more information about this, please &lt;a href=&quot;mailto:p.martinez@uq.edu.au&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is an invitation for a hands on workshop, &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/&quot;&gt;travel scholarships are available&lt;/a&gt;. If you would like more information about this, please &lt;a href=&quot;mailto:p.martinez@uq.edu.au&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1 id=&quot;automating-neuroimaging-analysis-workflows-with-nipype-arcana-and-banana&quot;&gt;Automating neuroimaging analysis workflows with Nipype, Arcana and Banana&lt;/h1&gt;
 
@@ -34,6 +84,8 @@ Instructor: Thomas Close from Monash Biomedical Imaging&lt;/p&gt;
     &lt;p&gt;Registration &lt;a href=&quot;https://www.eventbrite.com.au/e/automating-neuroimaging-analysis-workflows-with-nipype-arcana-and-banana-registration-69832758661?aff=eoi1&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
   &lt;/blockquote&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/&quot;&gt;Travel scholarships are available&lt;/a&gt;, follow the link for instructions on how to apply.&lt;/p&gt;
 
 &lt;h2 id=&quot;pre-requisites&quot;&gt;Pre-requisites&lt;/h2&gt;
 &lt;ul&gt;
@@ -52,6 +104,7 @@ Instructor: Thomas Close from Monash Biomedical Imaging&lt;/p&gt;
   &lt;li&gt;Location: Melbourne&lt;/li&gt;
   &lt;li&gt;Instructor: Thomas Close from MBI (Monash Biomedical Imaging)&lt;/li&gt;
   &lt;li&gt;Registration &lt;a href=&quot;https://www.eventbrite.com.au/e/automating-neuroimaging-analysis-workflows-with-nipype-arcana-and-banana-registration-69832758661?aff=eoi1&quot;&gt;link&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/&quot;&gt;Travel scholarships are available&lt;/a&gt; for those who would need to travel to Melbourne to attend.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
@@ -648,126 +701,6 @@ Read more about the Collaborative Australian Characterisation Informatics Strate
         
         <category>external</category>
         
-        
-        <category>champions</category>
-        
-      </item>
-    
-      <item>
-        <title>CVL Champions Program 2019</title>
-        <description>&lt;p&gt;The Characterisation Virtual Laboratory (CVL) Community (Neuroscience,
-Microscopy, Structural Biology, Atom Probe, Neutron Techniques) is providing a
-unique opportunity to upskilling scientists and bioimaging professionals.
-The CVL Champions are a community of researchers, university lecturers, and
-bioimaging professionals taking part in a skills development program. The
-program is designed to provide guidance, methods and tips for developing and
-delivering quality, impactful training. With the new CVL Champions we aim
-to enhance the national characterisation training network and encourage the application of FAIR (Findable, Accessible, Interoperable, Reusable) data principles to research workflows.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The Characterisation Virtual Laboratory is a free cloud-based virtual desktop to perform analysis of complex image and microscopy data. It is essentially a virtual computer with all the software you need pre-installed, all embedded in a web browser accessible using AAF (Australian Access Federation), and connected to a HPC (high performance computing) infrastructure to boost your analysis workflows. &lt;a href=&quot;../about&quot;&gt;Read more about the CVL&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;**TL;DR** / Summary :
-1. Get all costs paid to participate in a train the trainer event.
-2. Form a community of engagement and maintenance of training resources.
-3. Commit to deliver workshops next year, at least one of these should be using the CVL.
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h1 id=&quot;cvl-champions-program-2019&quot;&gt;CVL Champions Program 2019&lt;/h1&gt;
-
-&lt;p&gt;The CVL Champions Program’s aim is to create a community that stimulates network engagement across &lt;a href=&quot;../AustralianCharacterisationFacilities&quot;&gt;Australian characterisation facilities&lt;/a&gt; to raise the awareness of &lt;a href=&quot;https://www.ands.org.au/working-with-data/fairdata&quot;&gt;FAIR data&lt;/a&gt; principles and access to the national characterisation computing infrastructure. The CVL Champions is part of the Characterisation Data enhanced Virtual Laboratory (CDeVL) project, funded by the Australian Research Data Commons (ARDC).&lt;/p&gt;
-
-&lt;h2 id=&quot;invitation&quot;&gt;Invitation&lt;/h2&gt;
-
-&lt;p&gt;The CVL Community (Neuroscience, Microscopy, Structural Biology, Atom Probe,
-Neutron Techniques) is providing a unique opportunity for both external and
-internal staff / HRD students to develop their training skills in a 2 day
-workshop 1- 2 October (all costs paid). The workshop is designed to provide
-guidance, methods and tips for developing and delivering quality, impactful
-training; whilst also encouraging attendees to become reflective practitioners,
-able to seek and act upon feedback and try new modes of training. To join you
-need to have enthusiasm for delivering knowledge to others. The training we
-provide is highly interactive in nature. Throughout the workshop participants
-are encouraged to bring their thoughts and voice into all discussions; sharing
-experiences and swapping ideas. We will also facilitate networking between
-the participants, regardless of their areas of expertise.&lt;/p&gt;
-
-&lt;p&gt;If you think this workshop might be of interest to someone else, please
-forward this opportunity. Applications close 31 July 2019. &lt;a href=&quot;https://survey.zohopublic.com/zs/PKCNyN&quot;&gt;Apply here!&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;why-be-a-cvl-champion&quot;&gt;Why be a CVL champion?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Becoming a CVL champion provides access to networking, advanced skills development, and demonstrates service to the profession.&lt;/li&gt;
-  &lt;li&gt;The program provides the Champions with all the ready-to-use materials and knowledge required so that they can confidently re-deliver similar workshops from the Program in their own institutions.&lt;/li&gt;
-  &lt;li&gt;The CVL champions are a community exemplar working together remotely and in person during two months (September/October 2019), so the time commitment is balanced.&lt;/li&gt;
-  &lt;li&gt;Community members who are already involved in training can, and are encouraged to take part in the Program to improve their current teaching methodology and to further extend their network.&lt;/li&gt;
-  &lt;li&gt;The program offers a two day in person meeting, &lt;em&gt;with all costs paid&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;application&quot;&gt;Application&lt;/h1&gt;
-
-&lt;p&gt;We are looking for a representative cohort of enthusiastic people, who are keen to learn and be the leaders of the national Characterisation training network. Applicants at all career stages are welcome to apply. Champions are the engine across the Australian Characterisation community to uplift data skills and specialist skills across characterisation users.
-We also strongly encourage members of groups that are underrepresented in science to apply. Diversity is one of our explicit evaluation criteria, and we work hard to try and make this community a comfortable and welcoming environment for all.&lt;/p&gt;
-
-&lt;p&gt;The group of selected champions will meet in person for two days of networking and training on 1-2 October 2019, location TBA.&lt;/p&gt;
-
-&lt;h2 id=&quot;application-timeline&quot;&gt;Application timeline&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Applications open on 18 June 2019. &lt;a href=&quot;https://survey.zohopublic.com/zs/PKCNyN&quot;&gt;Apply here!&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Videoconference information session on 17 July 2019. &lt;a href=&quot;https://www.eventbrite.com.au/e/cvl-champions-information-session-via-zoom-tickets-62036833840&quot;&gt;Register here&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Applications close on 31 July 2019.&lt;/li&gt;
-  &lt;li&gt;Selected applicants will be contacted on 9 August 2019.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;This application is open to participants based in Australia.&lt;/li&gt;
-  &lt;li&gt;Commit to attending and participating in the three programmed events, 2 online and 1 in person (see program below).&lt;/li&gt;
-  &lt;li&gt;Commit to continuation of the training effort for at least until the end of 2020.&lt;/li&gt;
-  &lt;li&gt;Provide at least 2 trainings sessions a year, one of which has to be part of the CVL trainings.&lt;/li&gt;
-  &lt;li&gt;Promote the Characterisation Virtual Laboratory and best data management practices. * All participants will get access to the CVL infrastructure.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;cvl-champions-agenda&quot;&gt;CVL Champions agenda&lt;/h1&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Remote meeting 1 (teleconference), 9 September 2019.
-To get to know the Champions we will allocate this time for each participant to present who they are, what they do, and their community.&lt;/li&gt;
-  &lt;li&gt;Remote meeting 2 (teleconference), 23 September 2019.
-Champions will prepare SMART goals around the future uptake of FAIR data principles in their work activities.&lt;/li&gt;
-  &lt;li&gt;In-person meeting (location TBA), 1-2 October 2019.
-    &lt;ul&gt;
-      &lt;li&gt;General introduction covering the data life cycle, the FAIR principles and a definition of data stewardship.&lt;/li&gt;
-      &lt;li&gt;Evidence-based teaching practices.&lt;/li&gt;
-      &lt;li&gt;Introduction to the CVL Desktop.&lt;/li&gt;
-      &lt;li&gt;Stories and case studies of CVL users.&lt;/li&gt;
-      &lt;li&gt;Get started preparing open access materials for the Characterisation community.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;After the in person event, CVL Champions will have time to plan training activities for the coming months. CVL Champions are encouraged to self-coordinate, with the support of the Characterisation Training Coordinator.&lt;/li&gt;
-  &lt;li&gt;CVL Champions are in charge of keeping all members updated about training activities, maintenance of training materials, and encouragement of best data practices for the broader community.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;got-questions&quot;&gt;Got questions?&lt;/h1&gt;
-
-&lt;p&gt;Please contact the &lt;a href=&quot;mailto:p.martinez@uq.edu.au&quot;&gt;Characterisation Training Coordinator&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Special thanks for comments received before the publication of this post to,  Noni Creasey, Ben Sinclair, Saba Salehi, and Shannon Lindsay.&lt;/p&gt;
-
-&lt;p&gt;Last updated on 18 June 2019.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 04 May 2019 16:06:12 +1000</pubDate>
-        <link>http://localhost:4000/CVL_Community/champions/</link>
-        <guid isPermaLink="true">http://localhost:4000/CVL_Community/champions/</guid>
-        
-        
-        <category>FAIR</category>
         
         <category>champions</category>
         
