@@ -11,17 +11,17 @@ toc: true
 Travel scholarships for researchers in Australia, working with complex image analysis (characterisation).
 
 # Travel scholarships
-Limited travel scholarships to attend a workshop are provided by the CDEVL project
- (Characterisation Data Enhanced Virtual Laboratory) in the form of travel grants, which will cover the cost of travel (airfare, train, bus,
+To help you attend a workshop the CDEVL project
+ (Characterisation Data Enhanced Virtual Laboratory) is organising travel scholarships which will cover the cost of travel (airfare, train, bus,
 taxi, accommodation). These are provided up to
  specified caps as follows:
 
-- up to A$500 for any participant coming from a state other than where the workshop is being held.
+- up to A$500 for participants coming from a state other than where the workshop is being held.
 - up to A$800 for participants coming from WA or NT.
 
 ## Application
 
-You may apply for a travel scholarship (at least 3 weeks before the event) by answering the following questions:
+Researchers in Australia, working with complex image analysis (characterisation) may apply for a travel scholarship (at least 3 weeks before the event) by answering the following questions:
 
 1. Name and date of the workshop
 1. Brief research domain, career level, institution
