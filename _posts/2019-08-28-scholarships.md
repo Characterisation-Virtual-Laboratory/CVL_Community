@@ -31,14 +31,14 @@ Researchers in Australia, working with complex image analysis (characterisation)
 1. Commit to share your experience after the workshop,
 for example, a video or short story (a month after the workshop) or instruct or facilitate a workshop (in the following 6 months).
 
- Please email your application to [Paula Andrea Martinez](mailto:p.martinez@uq.edu.au).
+ [Please email your application](mailto:p.martinez@uq.edu.au) as soon as possible.
 
 ## Selection
 
 The organisers will select the recipients of all scholarhsip applicants as they come and will close to review 3 weeks before the event.
-Selection is based on your current work or study location, your motivation for applying, the reasons for needing financial support and the impact this event will have on your career. Incomplete applications won't be assessed.
+Selection is based on your current work or study, location, your motivation for applying, the reasons for needing financial support and the impact this event will have on your career. Incomplete applications won't be assessed.
 
 ## Results
-Results will be announced approximately 3 weeks before the event start date, however for some events this may be delayed. Selection results do not impact your admission to the workshop. You will be contacted to organise your travel. We will pay for your travel costs in advance.
+Results will be announced approximately 3 weeks before the event start date, however for some events this may be delayed. Selection results do not impact your admission to the workshop. You will be contacted to organise your travel, and we will pay for your travel costs in advance.
 
  In the ocasion that you would like to organise your travel costs we can offer reimbursments with the cap above and you will be required to fill a reimbursement form and send original receipts from travel costs.
