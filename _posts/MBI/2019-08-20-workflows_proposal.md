@@ -9,15 +9,15 @@ featured: true
 toc: true
 ---
 
-Last updated 27 August 2019
+Last updated 28 August 2019
 
-Workshop - hands on
+Hands-on workshop
 Date: 15 November, 2019 (after the VBIC Annual Network Meeting)
 Duration: 1 day (9:30 - 5:00)
 Proposed Location: Melbourne, TBA
 Instructor: Thomas Close from Monash Biomedical Imaging
 
-This is an invitation for a hands on workshop. If you would like more information about this, please [get in touch](mailto:p.martinez@uq.edu.au).
+This is an invitation for a hands on workshop, [travel scholarships are available](https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/). If you would like more information about this, please [get in touch](mailto:p.martinez@uq.edu.au).
 
 # Automating neuroimaging analysis workflows with Nipype, Arcana and Banana
 
@@ -28,6 +28,8 @@ The workshop will show how to wrap neuroimaging tools within consistent interfac
 In the last part of the course, participants will learn how to extend and customise the classes in Banana to the specific needs of their own analysis, and apply these workflows to project data stored in BIDS datasets. Then finally, how workflows can be automated for data stored in XNAT repositories by encapsulating them within Docker containers and using XNAT’s “container service”.
 
 >> Registration [link](https://www.eventbrite.com.au/e/automating-neuroimaging-analysis-workflows-with-nipype-arcana-and-banana-registration-69832758661?aff=eoi1).
+
+[Travel scholarships are available](https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/), follow the link for instructions on how to apply.
 
 ## Pre-requisites
 * Proficiency in Python programming, or programming in general and familiarity with object-oriented concepts.
@@ -43,6 +45,7 @@ In the last part of the course, participants will learn how to extend and custom
 * Location: Melbourne
 * Instructor: Thomas Close from MBI (Monash Biomedical Imaging)
 * Registration [link](https://www.eventbrite.com.au/e/automating-neuroimaging-analysis-workflows-with-nipype-arcana-and-banana-registration-69832758661?aff=eoi1).
+*  [Travel scholarships are available](https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/) for those who would need to travel to Melbourne to attend.
 
 
 
