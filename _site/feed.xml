@@ -5,9 +5,72 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Aug 2019 14:10:48 +1000</pubDate>
-    <lastBuildDate>Wed, 28 Aug 2019 14:10:48 +1000</lastBuildDate>
+    <pubDate>Thu, 05 Sep 2019 16:07:05 +1000</pubDate>
+    <lastBuildDate>Thu, 05 Sep 2019 16:07:05 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>FIJI intro workshop</title>
+        <description>&lt;h1 id=&quot;cmm-introduction-to-fiji&quot;&gt;CMM introduction to FIJI&lt;/h1&gt;
+
+&lt;p&gt;Last updated 5 September 2019&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com.au/e/using-fiji-for-image-analysis-registration-61459002531&quot;&gt;Registration page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.google.com/maps/place/Duhig+Tower/@-27.4965561,153.0143822,20z&quot;&gt;Location: Duhig Tower level 5&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks for registering for the FIJI intro workshop. This is part of the Characterisation Data Enhanced project with the aim of building national awareness of data management and analysis capability and capacity.&lt;/p&gt;
+
+&lt;p&gt;We aim to use this space to answer your especific questions about data analysis in microscopy using FIJI and offer you tools to do so. We will try as best as possible to cover the basics. If you are looking for more advaced ways to use FIJI as analysis tool, please refer to the &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/other-tutorials/&quot;&gt;CVL community website for a list of online tutorials&lt;/a&gt;, which includes a link to Cameron’s FIJI user manual.&lt;/p&gt;
+
+&lt;h2 id=&quot;using-fiji-during-the-workshop&quot;&gt;Using FIJI during the workshop&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Make sure to bring your laptop with FIJI installed or have accessed the CVL, once before.&lt;/li&gt;
+  &lt;li&gt;You can download sample data provided by Matthias, if you are using your own laptop.&lt;/li&gt;
+  &lt;li&gt;We would ask you to kindly work in pairs with anyone who is not able to bring a laptop or who did not request a CVL account before hand.&lt;/li&gt;
+  &lt;li&gt;If you are using the CVL at awoonga we highly recommend you to become familiar with the &lt;a href=&quot;https://www.qriscloud.org.au/support/qriscloud-documentation/92-awoonga-user-guide&quot;&gt;Awoonga user guide&lt;/a&gt; and ask questions if you need.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;instructor&quot;&gt;Instructor&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cameron Novell from Monash University&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloudstor.aarnet.edu.au/plus/s/NzLifYbQdDb43Fq&quot;&gt;FIJI manual by Cameron Nowell&lt;/a&gt; and &lt;a href=&quot;https://cloudstor.aarnet.edu.au/plus/s/3tutoG9lAYPFC4v&quot;&gt;images&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloudstor.aarnet.edu.au/plus/s/lOJPMlQE3FthYnj&quot;&gt;Sample data&lt;/a&gt; provided by Matthias Floetenmeyer (already available through the CVL @ awoonga) at ` /sw7/CVL/training/CMM_Sample_Training_data/`&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
+
+&lt;p&gt;Nationally funded software infrastructure collaboration
+to make scientific tools for image analysis and processing, available freely and cloud-ready. The &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/about&quot;&gt;CVL is also a community&lt;/a&gt; who support each other in training and best practices.&lt;/p&gt;
+
+&lt;h3 id=&quot;using-cvl-at-awoonga&quot;&gt;Using CVL at Awoonga&lt;/h3&gt;
+
+&lt;p&gt;Each Awoonga user is allocated a directory on the /30days file system. It is present on the Awoonga login nodes and the Awoonga compute nodes. The main purpose is to hold large data sets on a temporary basis while you are computing against them. It is designed to be a data staging area.
+Create a project directory in this folder for analysis, and read more about it &lt;a href=&quot;https://www.qriscloud.org.au/support/qriscloud-documentation/92-awoonga-user-guide&quot;&gt;Awoonga user guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;at-the-end-of-the-workshop&quot;&gt;At the end of the workshop&lt;/h2&gt;
+
+&lt;p&gt;Please &lt;a href=&quot;https://survey.zohopublic.com/zs/ueCsAo&quot;&gt;fill in the anonymous feedback form&lt;/a&gt; before leaving.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Sep 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/FIJIintro/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/FIJIintro/</guid>
+        
+        <category>external</category>
+        
+        
+        <category>FAIR</category>
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>Travel scholarships</title>
@@ -60,6 +123,96 @@ Selection is based on your current work or study, location, your motivation for 
       </item>
     
       <item>
+        <title>Python in Neuroscience</title>
+        <description>&lt;p&gt;Last updated 28 August 2019&lt;/p&gt;
+
+&lt;p&gt;Hands-on workshop
+Date: , 2019
+Duration: 1 day (9:30 - 5:00)
+Proposed Location: TBA
+Instructor:&lt;/p&gt;
+
+&lt;p&gt;This is an invitation for a hands on workshop, &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/&quot;&gt;travel scholarships are available&lt;/a&gt;. If you would like more information about this, please &lt;a href=&quot;mailto:p.martinez@uq.edu.au&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;description&quot;&gt;Description&lt;/h1&gt;
+
+&lt;p&gt;This course is meant to be an introduction to the Python programming language using data types familiar to neuroscience students or academics. Emphasis will be on introducing concepts of visualisation, data manipulation and analysis using Python packages Numpy, Pandas, Matplotlib and Nipype.
+Day 4 https://github.com/dasaderi/python_neurobootcamp/tree/master/day-4&lt;/p&gt;
+
+&lt;h2 id=&quot;goals&quot;&gt;Goals&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Encourage interoperability and collaboration between developers of Python programs&lt;/li&gt;
+  &lt;li&gt;Expose neuroscientists to the Python-based tools now available.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;Registration &lt;a href=&quot;https://www.eventbrite.com.au/o/20185254580&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/&quot;&gt;Travel scholarships are available&lt;/a&gt;, follow the link for instructions on how to apply.&lt;/p&gt;
+
+&lt;h2 id=&quot;pre-requisites&quot;&gt;Pre-requisites&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;A laptop with a web browser and either of the following options:
+    &lt;ul&gt;
+      &lt;li&gt;Anaconda and Nipype pre installed &lt;a href=&quot;http://miykael.github.io/nipype-beginner-s-guide/installation.html&quot;&gt;instructions&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;NeuroDebian pre installed &lt;a href=&quot;http://miykael.github.io/nipype-beginner-s-guide/installation.html&quot;&gt;instructions&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;An account on MASSIVE/CVL &lt;a href=&quot;&quot;&gt;instructions&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;details&quot;&gt;Details&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Freely available datasets will be used for this workshop.&lt;/li&gt;
+  &lt;li&gt;Date: , 2019&lt;/li&gt;
+  &lt;li&gt;Duration: 1 day (9:30 - 5:00)&lt;/li&gt;
+  &lt;li&gt;Location:&lt;/li&gt;
+  &lt;li&gt;Instructor:&lt;/li&gt;
+  &lt;li&gt;Registration &lt;a href=&quot;&quot;&gt;link&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-python-for-neuroscience&quot;&gt;Why Python for Neuroscience?&lt;/h2&gt;
+
+&lt;p&gt;We invite you to read the following resources&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4396193/&quot; target=&quot;_blank&quot;&gt;Python in neuroscience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://laderast.github.io/2018/01/17/what-we-learned-teaching-python-to-neuroscience-students/&quot; target=&quot;_blank&quot;&gt;Teaching Python to Neuroscience students&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.py4e.com/lessons/Objects&quot; target=&quot;_blank&quot;&gt;Object-Oriented Programming in Python&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://neurohackweek.github.io/docker-for-scientists/&quot; target=&quot;_blank&quot;&gt;Using containers in science&lt;/a&gt;
+https://www.frontiersin.org/articles/10.3389/fninf.2011.00013/full
+Nipype: a flexible, lightweight and extensible neuroimaging data processing framework in Python&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nipy.org/&quot;&gt;https://nipy.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;https://github.com/kylerbrown/python-for-neuroscience
+http://brainsuite.org/nipype-interactive-tutorial/
+https://www.frontiersin.org/articles/10.3389/fninf.2011.00013/full
+http://brainsuite.org/nipype-interactive-tutorial/&lt;/p&gt;
+
+&lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
+
+&lt;p&gt;The CVL is a nationally funded software infrastructure collaboration
+to make scientific tools for image analysis and processing, available freely
+and cloud-ready. The &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/about&quot;&gt;CVL is also a community&lt;/a&gt; who support training
+and best data management practices.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Aug 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/python/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/python/</guid>
+        
+        
+        <category>FAIR</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
         <title>Automating neuroimaging analysis workflows with Nipype, Arcana and Banana</title>
         <description>&lt;p&gt;Last updated 28 August 2019&lt;/p&gt;
 
@@ -69,13 +222,13 @@ Duration: 1 day (9:30 - 5:00)
 Proposed Location: Melbourne, TBA
 Instructor: Thomas Close from Monash Biomedical Imaging&lt;/p&gt;
 
-&lt;p&gt;This is an invitation for a hands on workshop, &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/&quot;&gt;travel scholarships are available&lt;/a&gt;. If you would like more information about this, please &lt;a href=&quot;mailto:p.martinez@uq.edu.au&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is an invitation for a hands on workshop, &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/&quot;&gt;travel scholarships are available (apply before Oct 4th)&lt;/a&gt;. If you would like more information about this, please &lt;a href=&quot;mailto:p.martinez@uq.edu.au&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1 id=&quot;automating-neuroimaging-analysis-workflows-with-nipype-arcana-and-banana&quot;&gt;Automating neuroimaging analysis workflows with Nipype, Arcana and Banana&lt;/h1&gt;
 
 &lt;p&gt;Analysis of neuroimaging-research data involves the sequential application of algorithms implemented in a number of heterogeneous toolkits (e.g. FSL, SPM, MRTrix, ANTs, AFNI, DiPy). This makes constructing complete workflows challenging as it requires not only the relevant scientific knowledge but also familiarity with the syntax and options of each of the tools involved.&lt;/p&gt;
 
-&lt;p&gt;The workshop will show how to wrap neuroimaging tools within consistent interfaces and link them together into robust workflows using the Nipype Python package (&lt;a href=&quot;http://nipype.readthedocs.io&quot;&gt;http://nipype.readthedocs.io&lt;/a&gt;). Participants will then be shown how common components of these analysis workflows can be consolidated within object-oriented base classes using the Abstraction of Repository Centric ANAlysis (Arcana) (&lt;a href=&quot;http://arcana.readthedocs.io&quot;&gt;http://arcana.readthedocs.io&lt;/a&gt;) framework, and how this is used in the Brain imAgiNg Analysis iN Arcana (&lt;a href=&quot;https://github.com/MonashBI/banana&quot;&gt;Banana&lt;/a&gt;) package to capture the arcana (obscure knowledge) of neuroimaging analysis workflow design.&lt;/p&gt;
+&lt;p&gt;The workshop will show how to wrap neuroimaging tools within consistent interfaces and link them together into robust workflows using the &lt;a href=&quot;https://nipy.org/packages/nipype/index.html&quot;&gt;Nipype&lt;/a&gt; Python package. Participants will then be shown how common components of these analysis workflows can be consolidated within object-oriented base classes using the Abstraction of Repository Centric ANAlysis (Arcana) (&lt;a href=&quot;http://arcana.readthedocs.io&quot;&gt;http://arcana.readthedocs.io&lt;/a&gt;) framework, and how this is used in the Brain imAgiNg Analysis iN Arcana (&lt;a href=&quot;https://github.com/MonashBI/banana&quot;&gt;Banana&lt;/a&gt;) package to capture the arcana (obscure knowledge) of neuroimaging analysis workflow design.&lt;/p&gt;
 
 &lt;p&gt;In the last part of the course, participants will learn how to extend and customise the classes in Banana to the specific needs of their own analysis, and apply these workflows to project data stored in BIDS datasets. Then finally, how workflows can be automated for data stored in XNAT repositories by encapsulating them within Docker containers and using XNAT’s “container service”.&lt;/p&gt;
 
@@ -85,7 +238,7 @@ Instructor: Thomas Close from Monash Biomedical Imaging&lt;/p&gt;
   &lt;/blockquote&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/&quot;&gt;Travel scholarships are available&lt;/a&gt;, follow the link for instructions on how to apply.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/&quot;&gt;Travel scholarships are available, apply before Oct 4th&lt;/a&gt;, follow the link for instructions on how to apply.&lt;/p&gt;
 
 &lt;h2 id=&quot;pre-requisites&quot;&gt;Pre-requisites&lt;/h2&gt;
 &lt;ul&gt;
@@ -104,7 +257,7 @@ Instructor: Thomas Close from Monash Biomedical Imaging&lt;/p&gt;
   &lt;li&gt;Location: Melbourne&lt;/li&gt;
   &lt;li&gt;Instructor: Thomas Close from MBI (Monash Biomedical Imaging)&lt;/li&gt;
   &lt;li&gt;Registration &lt;a href=&quot;https://www.eventbrite.com.au/e/automating-neuroimaging-analysis-workflows-with-nipype-arcana-and-banana-registration-69832758661?aff=eoi1&quot;&gt;link&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/&quot;&gt;Travel scholarships are available&lt;/a&gt; for those who would need to travel to Melbourne to attend.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/&quot;&gt;Travel scholarships are available, apply before Oct 4th&lt;/a&gt; for those who would need to travel to Melbourne to attend.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
@@ -549,160 +702,6 @@ in the next months. You can read more about this deployment &lt;a target=&quot;_
         
         
         <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Sign up to CVL at MASSIVE</title>
-        <description>&lt;p&gt;Characterisation Virtual Laboratory (CVL) desktop service is
-provided as a national resource by MASSIVE (&lt;a href=&quot;https://www.massive.org.au/&quot;&gt;Multi-Modal Australian Sciences Imaging and Visualisation Environment&lt;/a&gt;). MASSIVE
-provides researchers with the computing resources and tools to
-apply high-throughput parallel processing and deep learning
-techniques to solve research questions, and allows researchers
-to more effectively extract knowledge from scientific data.&lt;/p&gt;
-
-&lt;h1 id=&quot;getting-started-with-cvl-at-massive&quot;&gt;Getting started with CVL at MASSIVE&lt;/h1&gt;
-
-&lt;p&gt;The process to get an account to use the CVL at MASSIVE
-requires a few steps, starting with gaining access to
-computing resources. Keep in mind the CVL at MASSIVE desktop
-is currently the national resource and any Australian
-researcher can apply for an account.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hpc.erc.monash.edu.au/aafbootstrap&quot;&gt;Log in to HPCID&lt;/a&gt; using your institution Australia Access Federation (AAF) credentials.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hpc.erc.monash.edu.au/karaage/&quot;&gt;Password reset&lt;/a&gt;, click [Change Linux Password].&lt;/li&gt;
-  &lt;li&gt;Create or join an existing project
-    &lt;ul&gt;
-      &lt;li&gt;If you are a &lt;em&gt;principal investigator or a project manager&lt;/em&gt; please &lt;em&gt;send a project request to MASSIVE&lt;/em&gt; by filling the following &lt;a href=&quot;https://forms.gle/GUktMZPKUHLsMGNT8&quot;&gt;form&lt;/a&gt;. You will get a response in about 3 working days.&lt;/li&gt;
-      &lt;li&gt;If you are a &lt;em&gt;student or research assistant&lt;/em&gt; you need your supervisor or manager to get a project first and then give you the &lt;em&gt;project code to join&lt;/em&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Go to &lt;a href=&quot;https://desktop.cvl.org.au/strudel-web/#/system-selector&quot;&gt;strudel web&lt;/a&gt; (or strudel desktop) and select &lt;em&gt;M3 and CVL @ MASSIVE&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;If asked, please login with your institutional credentials through AAF.&lt;/li&gt;
-      &lt;li&gt;Click on &lt;em&gt;M3 standard Desktop&lt;/em&gt;, then &lt;em&gt;Launch&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;A desktop will start with state checked, click &lt;em&gt;Show Desktop&lt;/em&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;For general inquires about the CVL at MASSIVE, please contact &lt;a href=&quot;mailto:help@massive.org.au&quot;&gt;MASSIVE helpdesk&lt;/a&gt;.
-If you need more information and/or screenshots please visit the CVL documentation &lt;a href=&quot;https://www.cvl.org.au/cvl-desktop/cvl-accounts&quot;&gt;CVL accounts&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-is-massive&quot;&gt;What is MASSIVE?&lt;/h2&gt;
-&lt;p&gt;(&lt;a href=&quot;https://www.massive.org.au/&quot;&gt;Multi-Modal Australian Sciences Imaging and Visualisation Environment&lt;/a&gt;)’s impact to
-science is broad, and includes basic discoveries in the
-biological, medical, computational, engineering and
-environmental sciences.&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2ky5Ju_nVKk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Last updated on May 14, 2019.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 12 May 2019 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/CVL_Community/CVL-MASSIVE-get-account/</link>
-        <guid isPermaLink="true">http://localhost:4000/CVL_Community/CVL-MASSIVE-get-account/</guid>
-        
-        <category>external</category>
-        
-        <category>sign-in</category>
-        
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Australian Characterisation Facilities</title>
-        <description>&lt;p&gt;Characterisation refers to the general process of probing and measuring the structures and properties of materials at the micro, nano and atomic scales.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-australian-characterisation-facilities&quot;&gt;The Australian Characterisation Facilities&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;“Characterisation refers to the general process of probing and measuring the structures and properties of materials at the micro, nano and atomic scales. It is essential across natural, agricultural, physical, life and biomedical sciences and engineering. Characterisation facilities, provide researchers in Australian universities, research centres, and industries with critical infrastructure, including both instrumentation and expertise, to enable quality research outcomes in an efficient and cost-effective manner.
-These facilities are a key capability that underpin flagship Australian research collaborations including ARC Centres of Excellence which are both significant users and partners in the development of future characterisation techniques and applications. The Australian Characterisation community and our partners bring together thousands of researchers who are driving the future of Australian imaging and innovation”.
-Read more about the Collaborative Australian Characterisation Informatics Strategy &lt;a href=&quot;https://www.cvl.org.au/__data/assets/pdf_file/0003/1367085/A-Collaborative-Australian-Characterisation-Informatics-Strategy.pdf&quot;&gt;here&lt;/a&gt;.*&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The Characterisation Virtual Laboratory (CVL) is operated by MASSIVE in partnership with Monash University, Microscopy Australia, ANSTO, NIF, University of Sydney, University of Queensland, University of Western Australia, and University of Wollongong.&lt;/p&gt;
-
-&lt;h2 id=&quot;national-image-facility---nif&quot;&gt;&lt;a href=&quot;https://anif.org.au/&quot;&gt;National Image Facility - NIF&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Neuroscientists, imaging researchers and clinicians, platform engineers, and computational scientists. NIF nodes are &lt;a href=&quot;https://anif.org.au/nif-nodes/&quot;&gt;10 Universities plus ANSTO&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;New South Wales&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;University of Sydney / &lt;a href=&quot;https://sydney.edu.au/brain-mind/&quot;&gt;Brain &amp;amp; Mind Research Institute&lt;/a&gt; + ANSTO&lt;/li&gt;
-  &lt;li&gt;University of New South Wales / &lt;a href=&quot;https://www.analytical.unsw.edu.au/facilities/bril&quot;&gt;The Biological Resource Imaging Laboratory (BRIL)&lt;/a&gt; / &lt;a href=&quot;https://www.neura.edu.au/&quot;&gt;Imaging at Neuroscience Research Australia (NeuRA)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Western Sydney University / &lt;a href=&quot;https://www.westernsydney.edu.au/nanoscale/nanoscale_organisation_and_dynamics/bmrf&quot;&gt;Biomedical Magnetic Resonance Facility (BMRF) &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Queensland&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The University of Queensland / &lt;a href=&quot;https://cai.centre.uq.edu.au/&quot;&gt;Centre for Advanced Imaging&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;South Australia&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Large Animal Research &amp;amp; Imaging Facility&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Victoria&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.florey.edu.au/&quot;&gt;Florey Institute of Neuroscience &amp;amp; Mental Health&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Monash University&lt;/li&gt;
-  &lt;li&gt;Swinburne University of Technology&lt;/li&gt;
-  &lt;li&gt;University of Melbourne / &lt;a href=&quot;https://neuroscience.unimelb.edu.au/research/neuroscience-research-at-the-university-of-melbourne/mbciu&quot;&gt;The Melbourne Brain Centre Imaging Unit&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Western Australia&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;University of Western Australia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;australian-nuclear-science-and-technology-organisation-ansto&quot;&gt;Australian Nuclear Science and Technology Organisation &lt;a href=&quot;https://www.ansto.gov.au/&quot;&gt;ANSTO&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Opal Multipurpose Reactor&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Australian Centre for Neutron Scattering (ACNS)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;&quot;&gt;The Australian Synchrotron&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Centre for Accelerator Sciences&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;&quot;&gt;National Deuteration Facility&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;&quot;&gt;National Research Cyclotron (partly NIF)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;microscopy-australia&quot;&gt;&lt;a href=&quot;http://micro.org.au/&quot;&gt;Microscopy Australia&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;It used to be &lt;a href=&quot;http://ammrf.org.au/&quot;&gt;Australian Microscopy &amp;amp; Microanalysis Research Facility (ammrf)&lt;/a&gt;) &lt;a href=&quot;https://twitter.com/GoInnerSpace&quot;&gt;@GoInnerSpace&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;University of Sydney /&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;University of Queensland / &lt;a href=&quot;https://cmm.centre.uq.edu.au/&quot;&gt;Centre for Microscopy and Microanalysis (CMM)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;University of Western Australia / &lt;a href=&quot;https://www.cmca.uwa.edu.au/facilities&quot;&gt;Centre for Microscopy, Characterisation and Analysis (CMCA)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Australian National University / &lt;a href=&quot;&quot;&gt;Centre for Advanced Microscopy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;University of New South Wales / &lt;a href=&quot;&quot;&gt;Electron Microscopy Unit&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;&quot;&gt;SARF&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;University of Adelaide &lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;University of South Australia &lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Flinders University&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;others-facilities&quot;&gt;Others facilities&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.griffith.edu.au/queensland-micro-nanotechnology-centre/facilities/characterisation-facility&quot;&gt;Queensland Micro- and Nanotechnology Centre&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.csiro.au/en/Research/MRF/Areas/Advanced-characterisation-facility&quot;&gt;CSIRO Advanced Characterisation Facility&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://anff-q.org.au/services/characterisation/&quot;&gt;Australian National Fabrication Facility (ANFF) / Characterisation Service&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://ngl.org.au/our-facilities&quot;&gt;National Geosequestration Laboratory (NGL)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Last updated 10 June 2019.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 04 May 2019 16:06:12 +1000</pubDate>
-        <link>http://localhost:4000/CVL_Community/AustralianCharacterisationFacilities/</link>
-        <guid isPermaLink="true">http://localhost:4000/CVL_Community/AustralianCharacterisationFacilities/</guid>
-        
-        <category>external</category>
-        
-        
-        <category>champions</category>
         
       </item>
     
