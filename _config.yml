@@ -59,7 +59,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-  - jekyll-target-blank
+  - jekyll-target-blank  
 
 target-blank:
    noopener: false
