@@ -5,8 +5,8 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Sep 2019 16:50:25 +1000</pubDate>
-    <lastBuildDate>Fri, 27 Sep 2019 16:50:25 +1000</lastBuildDate>
+    <pubDate>Fri, 27 Sep 2019 17:14:10 +1000</pubDate>
+    <lastBuildDate>Fri, 27 Sep 2019 17:14:10 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -173,8 +173,9 @@ Selection is based on your current work or study, location, your motivation for 
       </item>
     
       <item>
-        <title>Python in Neuroscience</title>
-        <description>&lt;p&gt;Last updated 28 August 2019&lt;/p&gt;
+        <title>Python</title>
+        <description>
+&lt;p&gt;Last updated 28 August 2019&lt;/p&gt;
 
 &lt;p&gt;Hands-on workshop
 Date: , 2019
@@ -255,10 +256,6 @@ and best data management practices.&lt;/p&gt;
         <link>http://localhost:4000/CVL_Community/python/</link>
         <guid isPermaLink="true">http://localhost:4000/CVL_Community/python/</guid>
         
-        
-        <category>FAIR</category>
-        
-        <category>tutorial</category>
         
       </item>
     
