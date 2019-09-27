@@ -5,7 +5,6 @@ author: Paula
 categories: [ FAIR, tutorial ]
 tags: [ external ]
 image: assets/images/3.jpg
-featured: true
 toc: true
 ---
 
