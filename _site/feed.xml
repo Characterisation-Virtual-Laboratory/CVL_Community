@@ -5,9 +5,59 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Sep 2019 14:24:08 +1000</pubDate>
-    <lastBuildDate>Fri, 06 Sep 2019 14:24:08 +1000</lastBuildDate>
+    <pubDate>Fri, 27 Sep 2019 16:49:06 +1000</pubDate>
+    <lastBuildDate>Fri, 27 Sep 2019 16:49:06 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>UQ Showcase FAIR discussion</title>
+        <description>&lt;p&gt;The &lt;a href=&quot;https://research.uq.edu.au/research-capabilities-showcase&quot;&gt;UQ Research Showcase&lt;/a&gt; was a University event held on 20 Sept, 2019.&lt;/p&gt;
+
+&lt;p&gt;Last updated 27 Sept 2019&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;The National Image Facility’s Center for Advanced Imaging node at the University of Queensland was part of the &lt;a href=&quot;https://research.uq.edu.au/research-capabilities-showcase&quot;&gt;UQ Research Showcase&lt;/a&gt;.
+We joined the event by providing two workshops for the community to discuss about FAIR for data and software.&lt;/p&gt;
+
+&lt;h2 id=&quot;workshop-agenda&quot;&gt;Workshop agenda&lt;/h2&gt;
+
+&lt;p&gt;Each workshop went for about 1 hour.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Welcome and Intro (5min)&lt;/li&gt;
+  &lt;li&gt;Let’s explain FAIR (15min)&lt;/li&gt;
+  &lt;li&gt;Group discussion (40min)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;materials-and-resources&quot;&gt;Materials and resources&lt;/h2&gt;
+
+&lt;p&gt;Have a look at the &lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vTOFsVjY6qwowBMMbF7FEKdOI5OZcTmm33ifn1pAEpHjiA79bW8filT1juQJwtszg-Pbfr-01g3yzNp/pub?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot;&gt;slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;suggested-resources&quot;&gt;Suggested Resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Go FAIR principles &lt;a href=&quot;https://www.go-fair.org/fair-principles/&quot;&gt;https://www.go-fair.org/fair-principles/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;FAIRsharing standards &lt;a href=&quot;https://fairsharing.org/standards/&quot;&gt;https://fairsharing.org/standards/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Top 10 FAIR domain specific guides &lt;a href=&quot;https://doi.org/10.5281/zenodo.3409968&quot;&gt;https://doi.org/10.5281/zenodo.3409968&lt;/a&gt; and &lt;a href=&quot;https://librarycarpentry.org/Top-10-FAIR/&quot;&gt;website&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;How FAIR is your data checklist &lt;a href=&quot;http://doi.org/10.5281/zenodo.1065991&quot;&gt;http://doi.org/10.5281/zenodo.1065991&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zotero.org/orchid00/items&quot;&gt;List of references related to FAIR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;who-to-reach-for-questions&quot;&gt;Who to reach for questions?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Paula Andrea Martinez / Characterisation Training Coordinator - National Image Facility / p.martinez at uq.edu.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 20 Sep 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/FAIR-UQ/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/FAIR-UQ/</guid>
+        
+        
+        <category>FAIR</category>
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>FIJI intro workshop</title>
@@ -629,79 +679,6 @@ On the days, please join the Gitter/Chat Room: &lt;a href=&quot;https://gitter.i
         
         
         <category>FAIR</category>
-        
-      </item>
-    
-      <item>
-        <title>Sign up to CVL at QRISCloud</title>
-        <description>&lt;p&gt;The University of Queensland’s Research Computing Centre (RCC)
-is building the Characterisation Virtual Laboratory (CVL)
-desktop to enable UQ researchers to keep data nearby and
-leverage a local system for imaging workloads.&lt;/p&gt;
-
-&lt;h1 id=&quot;getting-started-with-cvl-at-qriscloud&quot;&gt;Getting started with CVL at QRISCloud&lt;/h1&gt;
-
-&lt;p&gt;The process to get an account to use the CVL at QRISCloud
-requires a few steps, starting with gaining access to
-computing resources. Keep in mind the CVL at QRISCloud desktop
-is currently in &lt;strong&gt;testing mode&lt;/strong&gt;. We are testing two different options to get
-access. Your feedback is welcome.&lt;/p&gt;
-
-&lt;h2 id=&quot;option-1---step-by-step&quot;&gt;Option 1 - Step by step&lt;/h2&gt;
-
-&lt;p&gt;The first two steps are required if you do not have an Awoonga account already.&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Register for a &lt;a href=&quot;https://www.qriscloud.org.au/&quot;&gt;QRIScloud Account&lt;/a&gt; using your institution Australia Access Federation (AAF) credentials.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.qriscloud.org.au/index.php/services&quot;&gt;Register to use the Awoonga cluster&lt;/a&gt; to get access to the CVL at Awoonga.&lt;/li&gt;
-  &lt;li&gt;Join the CVL project. Please include a meaningful description in the &lt;a href=&quot;https://services.qriscloud.org.au/access/336df5742362455f923d7ea9efb39133/member&quot;&gt;form&lt;/a&gt;. - It takes about one day (probably less) to set your account with the right access.&lt;/li&gt;
-  &lt;li&gt;Go to &lt;a href=&quot;https://cvl.qriscloud.org.au&quot;&gt;strudel web&lt;/a&gt; and select &lt;em&gt;uqcvl-auth&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;If asked, please login with your institutional credentials through AAF.&lt;/li&gt;
-      &lt;li&gt;Click on &lt;em&gt;Awoonga-SpecialQ&lt;/em&gt;, then &lt;em&gt;Launch&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;A desktop will start with state checked, click &lt;em&gt;Show Desktop&lt;/em&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;option-2---test-auto-provision&quot;&gt;Option 2 - Test auto-provision&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Auto provision is similar to the steps above&lt;/strong&gt; we are testing a logic process
-that should take you automatically to the next step.&lt;/p&gt;
-
-&lt;p&gt;The QRIScloud CVL auto-provisioning page is:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://services.qriscloud.org.au/services/cvl&quot;&gt;https://services.qriscloud.org.au/services/cvl&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;There are three possibilities:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;QCIF members will see a “Enable QRIScloud CVL” button (which makes them a member of the CVL-Users group and/or gives them access to Awoonga, depending on which/both they do not yet have).&lt;/li&gt;
-  &lt;li&gt;Non-members will see text telling them to try another location or submit a ticket to QRIScloud Support.&lt;/li&gt;
-  &lt;li&gt;If they already have QRIScloud CVL (i.e. access to Awoonga and is a member of CVL-Users), they will be redirected to the CVL Workbench.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;contact-details&quot;&gt;Contact details&lt;/h2&gt;
-
-&lt;p&gt;For general inquires about the CVL at QRISCloud, please
-contact &lt;a href=&quot;mailto:e.scriven@uq.edu.au&quot;&gt;CVL at QRISCloud helpdesk&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;read-more-about-the-cvl-at-qriscloud&quot;&gt;Read more about the CVL at QRISCloud&lt;/h2&gt;
-&lt;p&gt;A new deployment of the CVL in Queensland provided by
-QRISCloud is currently being tested and will become available
-in the next months. You can read more about this deployment &lt;a target=&quot;_blank&quot; href=&quot;https://rcc.uq.edu.au/article/2019/02/rcc-works-virtual-lab-imaging-research&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Last updated on June 6, 2019.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 12 May 2019 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/CVL_Community/CVL-QRISCloud-get_account/</link>
-        <guid isPermaLink="true">http://localhost:4000/CVL_Community/CVL-QRISCloud-get_account/</guid>
-        
-        <category>external</category>
-        
-        <category>sign-in</category>
-        
-        
-        <category>tutorial</category>
         
       </item>
     
