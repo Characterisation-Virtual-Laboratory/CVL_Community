@@ -11,7 +11,7 @@ toc: true
 
 Last updated 5 June 2019
 
-Thanks for attending this session hosted by the Characterisation Virtual Laboratory (CVL). Please complete the following feedback form before leaving [https://survey.zohopublic.com/zs/ueCsAo](https://survey.zohopublic.com/zs/ueCsAo)
+Thanks for attending this session hosted by the Characterisation Virtual Laboratory (CVL).
 
 Everything we do today is available online. It is your responsibility to select what is more important for you.
 Suggested resources will be listed at the end of each presentation.
@@ -57,7 +57,3 @@ At the end of this session you will be able to:
 * [The Characterisation Virtual Laboratory](https://demo.codimd.org/p/SJlh1PQAV#/)
 * [UQ RDM and HPC collections](https://demo.codimd.org/p/Bygd78qXRV#/) information relevant to only for UQ staff/Students
 * [Data Management and FAIR](https://demo.codimd.org/p/BJF9kXGRN#/)
-
-## After the workshop
-
-Please fill in the anonymous feedback form before leaving: [https://survey.zohopublic.com/zs/ueCsAo](https://survey.zohopublic.com/zs/ueCsAo)

@@ -2,7 +2,7 @@
 layout: post
 title:  "FIJI intro workshop"
 author: Paula
-categories: [ FAIR, tutorial ]
+categories: [ tutorial ]
 tags: [ external ]
 image: assets/images/electron_wide-0.jpg
 toc: true
@@ -33,7 +33,6 @@ We aim to use this space to answer your especific questions about data analysis 
 ## Materials
 
 * [FIJI manual by Cameron Nowell](https://cloudstor.aarnet.edu.au/plus/s/NzLifYbQdDb43Fq) and [images](https://cloudstor.aarnet.edu.au/plus/s/3tutoG9lAYPFC4v).
-* [Sample data](https://cloudstor.aarnet.edu.au/plus/s/lOJPMlQE3FthYnj) provided by Matthias Floetenmeyer (already available through the CVL @ awoonga) at ` /sw7/CVL/training/CMM_Sample_Training_data/`
 
 ## Characterisation Virtual Laboratory (CVL)
 
@@ -42,9 +41,5 @@ to make scientific tools for image analysis and processing, available freely and
 
 ### Using CVL at Awoonga
 
-Each Awoonga user is allocated a directory on the /30days file system. It is present on the Awoonga login nodes and the Awoonga compute nodes. The main purpose is to hold large data sets on a temporary basis while you are computing against them. It is designed to be a data staging area.
-Create a project directory in this folder for analysis, and read more about it [Awoonga user guide](https://www.qriscloud.org.au/support/qriscloud-documentation/92-awoonga-user-guide).
-
-## At the end of the workshop
-
-Please [fill in the anonymous feedback form](https://survey.zohopublic.com/zs/ueCsAo) before leaving.
+Each Awoonga user is allocated a directory on the /30days file system. The main purpose is to hold large datasets on a temporary basis while you are computing against them.
+Create a project directory in this folder for analysis, and read more about Awoonga [user guide](https://www.qriscloud.org.au/support/qriscloud-documentation/92-awoonga-user-guide).

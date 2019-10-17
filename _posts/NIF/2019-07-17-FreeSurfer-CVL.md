@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction to FreeSurfer"
 author: Paula
-categories: [ FAIR, tutorial ]
+categories: [ tutorial ]
 tags: [ external ]
 image: assets/images/3.jpg
 toc: true
