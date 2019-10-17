@@ -49,10 +49,6 @@
 <lastmod>2019-08-20T00:00:00+10:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/CVL_Community/python/</loc>
-<lastmod>2019-08-28T00:00:00+10:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/CVL_Community/scholarships/</loc>
 <lastmod>2019-08-28T12:06:12+10:00</lastmod>
 </url>
@@ -63,6 +59,10 @@
 <url>
 <loc>http://localhost:4000/CVL_Community/FAIR-UQ/</loc>
 <lastmod>2019-09-20T00:00:00+10:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/CVL_Community/MA-FAIR/</loc>
+<lastmod>2019-10-16T00:00:00+10:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/CVL_Community/about</loc>

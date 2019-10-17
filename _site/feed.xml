@@ -5,9 +5,40 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Sep 2019 17:14:10 +1000</pubDate>
-    <lastBuildDate>Fri, 27 Sep 2019 17:14:10 +1000</lastBuildDate>
+    <pubDate>Thu, 17 Oct 2019 14:44:43 +1000</pubDate>
+    <lastBuildDate>Thu, 17 Oct 2019 14:44:43 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Microscopy Australia FAIR information session</title>
+        <description>&lt;h1 id=&quot;microscopy-australia-fair-information-session&quot;&gt;Microscopy Australia FAIR information session&lt;/h1&gt;
+
+&lt;p&gt;Last updated 17 oct, 2019&lt;/p&gt;
+
+&lt;p&gt;The Microscopy Australia Annual Meeting was held between 15-17 October gathering about a 100 people from this community. At this event an information session about FAIR took place on Oct 16th.&lt;/p&gt;
+
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Presentation &lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vSHdTy8V9aZNzcARGzaJ8_e0FtHgtVVEL_90HUrf51L47RQPagrQx4ijYZXyj0FLf-DJPgVxwR1k2Zp/pub?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot; target=&quot;_blank&quot;&gt;Actionable ways to improve FAIR in our communities&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you need information about the CVL: &lt;a href=&quot;https://demo.codimd.org/p/SJlh1PQAV#/&quot; target=&quot;_blank&quot;&gt;The Characterisation Virtual Laboratory&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Last updated 17 oct, 2019&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Oct 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/MA-FAIR/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/MA-FAIR/</guid>
+        
+        <category>external</category>
+        
+        
+        <category>FAIR</category>
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>UQ Showcase FAIR discussion</title>
@@ -92,7 +123,6 @@ We joined the event by providing two workshops for the community to discuss abou
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://cloudstor.aarnet.edu.au/plus/s/NzLifYbQdDb43Fq&quot;&gt;FIJI manual by Cameron Nowell&lt;/a&gt; and &lt;a href=&quot;https://cloudstor.aarnet.edu.au/plus/s/3tutoG9lAYPFC4v&quot;&gt;images&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cloudstor.aarnet.edu.au/plus/s/lOJPMlQE3FthYnj&quot;&gt;Sample data&lt;/a&gt; provided by Matthias Floetenmeyer (already available through the CVL @ awoonga) at ` /sw7/CVL/training/CMM_Sample_Training_data/`&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
@@ -102,12 +132,8 @@ to make scientific tools for image analysis and processing, available freely and
 
 &lt;h3 id=&quot;using-cvl-at-awoonga&quot;&gt;Using CVL at Awoonga&lt;/h3&gt;
 
-&lt;p&gt;Each Awoonga user is allocated a directory on the /30days file system. It is present on the Awoonga login nodes and the Awoonga compute nodes. The main purpose is to hold large data sets on a temporary basis while you are computing against them. It is designed to be a data staging area.
-Create a project directory in this folder for analysis, and read more about it &lt;a href=&quot;https://www.qriscloud.org.au/support/qriscloud-documentation/92-awoonga-user-guide&quot;&gt;Awoonga user guide&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;at-the-end-of-the-workshop&quot;&gt;At the end of the workshop&lt;/h2&gt;
-
-&lt;p&gt;Please &lt;a href=&quot;https://survey.zohopublic.com/zs/ueCsAo&quot;&gt;fill in the anonymous feedback form&lt;/a&gt; before leaving.&lt;/p&gt;
+&lt;p&gt;Each Awoonga user is allocated a directory on the /30days file system. The main purpose is to hold large datasets on a temporary basis while you are computing against them.
+Create a project directory in this folder for analysis, and read more about Awoonga &lt;a href=&quot;https://www.qriscloud.org.au/support/qriscloud-documentation/92-awoonga-user-guide&quot;&gt;user guide&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Sep 2019 00:00:00 +1000</pubDate>
         <link>http://localhost:4000/CVL_Community/FIJIintro/</link>
@@ -115,8 +141,6 @@ Create a project directory in this folder for analysis, and read more about it &
         
         <category>external</category>
         
-        
-        <category>FAIR</category>
         
         <category>tutorial</category>
         
@@ -169,93 +193,6 @@ Selection is based on your current work or study, location, your motivation for 
         
         
         <category>champions</category>
-        
-      </item>
-    
-      <item>
-        <title>Python</title>
-        <description>
-&lt;p&gt;Last updated 28 August 2019&lt;/p&gt;
-
-&lt;p&gt;Hands-on workshop
-Date: , 2019
-Duration: 1 day (9:30 - 5:00)
-Proposed Location: TBA
-Instructor:&lt;/p&gt;
-
-&lt;p&gt;This is an invitation for a hands on workshop, &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/&quot;&gt;travel scholarships are available&lt;/a&gt;. If you would like more information about this, please &lt;a href=&quot;mailto:p.martinez@uq.edu.au&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;description&quot;&gt;Description&lt;/h1&gt;
-
-&lt;p&gt;This course is meant to be an introduction to the Python programming language using data types familiar to neuroscience students or academics. Emphasis will be on introducing concepts of visualisation, data manipulation and analysis using Python packages Numpy, Pandas, Matplotlib and Nipype.
-Day 4 https://github.com/dasaderi/python_neurobootcamp/tree/master/day-4&lt;/p&gt;
-
-&lt;h2 id=&quot;goals&quot;&gt;Goals&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Encourage interoperability and collaboration between developers of Python programs&lt;/li&gt;
-  &lt;li&gt;Expose neuroscientists to the Python-based tools now available.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;blockquote&gt;
-    &lt;p&gt;Registration &lt;a href=&quot;https://www.eventbrite.com.au/o/20185254580&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
-  &lt;/blockquote&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/&quot;&gt;Travel scholarships are available&lt;/a&gt;, follow the link for instructions on how to apply.&lt;/p&gt;
-
-&lt;h2 id=&quot;pre-requisites&quot;&gt;Pre-requisites&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;A laptop with a web browser and either of the following options:
-    &lt;ul&gt;
-      &lt;li&gt;Anaconda and Nipype pre installed &lt;a href=&quot;http://miykael.github.io/nipype-beginner-s-guide/installation.html&quot;&gt;instructions&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;NeuroDebian pre installed &lt;a href=&quot;http://miykael.github.io/nipype-beginner-s-guide/installation.html&quot;&gt;instructions&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;An account on MASSIVE/CVL &lt;a href=&quot;&quot;&gt;instructions&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;details&quot;&gt;Details&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Freely available datasets will be used for this workshop.&lt;/li&gt;
-  &lt;li&gt;Date: , 2019&lt;/li&gt;
-  &lt;li&gt;Duration: 1 day (9:30 - 5:00)&lt;/li&gt;
-  &lt;li&gt;Location:&lt;/li&gt;
-  &lt;li&gt;Instructor:&lt;/li&gt;
-  &lt;li&gt;Registration &lt;a href=&quot;&quot;&gt;link&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;why-python-for-neuroscience&quot;&gt;Why Python for Neuroscience?&lt;/h2&gt;
-
-&lt;p&gt;We invite you to read the following resources&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4396193/&quot; target=&quot;_blank&quot;&gt;Python in neuroscience&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://laderast.github.io/2018/01/17/what-we-learned-teaching-python-to-neuroscience-students/&quot; target=&quot;_blank&quot;&gt;Teaching Python to Neuroscience students&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.py4e.com/lessons/Objects&quot; target=&quot;_blank&quot;&gt;Object-Oriented Programming in Python&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://neurohackweek.github.io/docker-for-scientists/&quot; target=&quot;_blank&quot;&gt;Using containers in science&lt;/a&gt;
-https://www.frontiersin.org/articles/10.3389/fninf.2011.00013/full
-Nipype: a flexible, lightweight and extensible neuroimaging data processing framework in Python&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nipy.org/&quot;&gt;https://nipy.org/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;https://github.com/kylerbrown/python-for-neuroscience
-http://brainsuite.org/nipype-interactive-tutorial/
-https://www.frontiersin.org/articles/10.3389/fninf.2011.00013/full
-http://brainsuite.org/nipype-interactive-tutorial/&lt;/p&gt;
-
-&lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
-
-&lt;p&gt;The CVL is a nationally funded software infrastructure collaboration
-to make scientific tools for image analysis and processing, available freely
-and cloud-ready. The &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/about&quot;&gt;CVL is also a community&lt;/a&gt; who support training
-and best data management practices.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 28 Aug 2019 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/CVL_Community/python/</link>
-        <guid isPermaLink="true">http://localhost:4000/CVL_Community/python/</guid>
-        
         
       </item>
     
@@ -319,8 +256,6 @@ and best data management practices.&lt;/p&gt;
         <guid isPermaLink="true">http://localhost:4000/CVL_Community/workflows_proposal/</guid>
         
         
-        <category>FAIR</category>
-        
         <category>tutorial</category>
         
       </item>
@@ -370,8 +305,6 @@ and best data management practices.&lt;/p&gt;
         <category>external</category>
         
         
-        <category>FAIR</category>
-        
         <category>tutorial</category>
         
       </item>
@@ -419,8 +352,7 @@ or broadly in use ?&lt;/li&gt;
 &lt;h2 id=&quot;workshop-agenda&quot;&gt;Workshop agenda&lt;/h2&gt;
 
 &lt;p&gt;Thanks for attending this session hosted by the Characterisation Virtual
-Laboratory (CVL). Please complete the following feedback form before leaving
- &lt;a href=&quot;http://tiny.cc/CVL_feedback&quot;&gt;tiny.cc/CVL_feedback&lt;/a&gt;&lt;/p&gt;
+Laboratory (CVL).&lt;/p&gt;
 
 &lt;p&gt;Everything we do today is available online. You can cherry-pick what is more
 important for you. Suggested resources will be listed at the end of each
@@ -458,10 +390,6 @@ Senior HPC Consultant - Monash University&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://demo.codimd.org/p/SJlh1PQAV#/&quot;&gt;The Characterisation Virtual Laboratory&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;CVL at MASSIVE documentation &lt;a href=&quot;http://docs.massive.org.au/&quot;&gt;http://docs.massive.org.au/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&quot;after-the-workshop&quot;&gt;After the workshop&lt;/h2&gt;
-
-&lt;p&gt;Please fill in the anonymous feedback form before leaving:  &lt;a href=&quot;http://tiny.cc/CVL_feedback&quot;&gt;tiny.cc/CVL_feedback&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 18 Jun 2019 00:00:00 +1000</pubDate>
         <link>http://localhost:4000/CVL_Community/FAIR-CVL/</link>
@@ -482,7 +410,7 @@ Senior HPC Consultant - Monash University&lt;/li&gt;
 
 &lt;p&gt;Last updated 5 June 2019&lt;/p&gt;
 
-&lt;p&gt;Thanks for attending this session hosted by the Characterisation Virtual Laboratory (CVL). Please complete the following feedback form before leaving &lt;a href=&quot;https://survey.zohopublic.com/zs/ueCsAo&quot;&gt;https://survey.zohopublic.com/zs/ueCsAo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thanks for attending this session hosted by the Characterisation Virtual Laboratory (CVL).&lt;/p&gt;
 
 &lt;p&gt;Everything we do today is available online. It is your responsibility to select what is more important for you.
 Suggested resources will be listed at the end of each presentation.&lt;/p&gt;
@@ -537,10 +465,6 @@ CMM Actively supports and initiates microscopy &amp;amp; microanalysis.&lt;/p&gt
   &lt;li&gt;&lt;a href=&quot;https://demo.codimd.org/p/Bygd78qXRV#/&quot;&gt;UQ RDM and HPC collections&lt;/a&gt; information relevant to only for UQ staff/Students&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://demo.codimd.org/p/BJF9kXGRN#/&quot;&gt;Data Management and FAIR&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&quot;after-the-workshop&quot;&gt;After the workshop&lt;/h2&gt;
-
-&lt;p&gt;Please fill in the anonymous feedback form before leaving: &lt;a href=&quot;https://survey.zohopublic.com/zs/ueCsAo&quot;&gt;https://survey.zohopublic.com/zs/ueCsAo&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Jun 2019 00:00:00 +1000</pubDate>
         <link>http://localhost:4000/CVL_Community/UQRDM-FAIR/</link>
@@ -630,8 +554,7 @@ CMM Actively supports and initiates microscopy &amp;amp; microanalysis.&lt;/p&gt
 &lt;h2 id=&quot;mozilla-library-carpentry-global-sprint-may-2019&quot;&gt;Mozilla-Library Carpentry Global Sprint, May 2019&lt;/h2&gt;
 
 &lt;p&gt;The sprint has the aim to improve and develop Library Carpentry material. Under that umbrella we will work on the &lt;a href=&quot;https://librarycarpentry.org/Top-10-FAIR/&quot;&gt;Top 10 FAIR Data &amp;amp; Software Things&lt;/a&gt;.
-These are a number of brief guides created to help discipline-based communities understand the FAIR Principles.
-Register your interest on this etherpad &lt;strong&gt;&lt;a href=&quot;https://pad.carpentries.org/2019-lc-mozsprint&quot;&gt;https://pad.carpentries.org/2019-lc-mozsprint&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+These are a number of brief guides created to help discipline-based communities understand the FAIR Principles.&lt;/p&gt;
 
 &lt;h2 id=&quot;who-is-organising-&quot;&gt;Who is organising ?&lt;/h2&gt;
 
@@ -647,7 +570,7 @@ Register your interest on this etherpad &lt;strong&gt;&lt;a href=&quot;https://p
 
 &lt;p&gt;During May, but specially 30-31 May, 2019 we will be working on the &lt;strong&gt;Top 10 FAIR things for imaging.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Here is our &lt;strong&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ttr7pCGMNe0EtfgcPxDV6syDUQiopP4SZMEMGnX29E8/edit?usp=sharing&quot;&gt;work in progress document&lt;/a&gt;&lt;/strong&gt;. We welcome contributions from diverse viewpoints and skill sets. If you contribute to this document make sure your name and details are known to us. This document is licensed under &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;Creative Commons International Attribution license CC by 4.0&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We welcome contributions from diverse viewpoints and skill sets. If you contribute to this document make sure your name and details are known to us. This document is licensed under &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;Creative Commons International Attribution license CC by 4.0&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;join-the-local-hub&quot;&gt;Join the local Hub&lt;/h2&gt;
 
@@ -658,7 +581,7 @@ We will start at 9:00 am AEST on the 30th of May, and work between 9:00 - 16:00,
 &lt;h2 id=&quot;join-remotely&quot;&gt;Join remotely&lt;/h2&gt;
 
 &lt;p&gt;If you are reading this information before the day. &lt;a href=&quot;p.martinez@uq.edu.au&quot;&gt;Please contact me&lt;/a&gt; for an intro session.
-On the days, please join the Gitter/Chat Room: &lt;a href=&quot;https://gitter.im/LibraryCarpentry/Lobby&quot;&gt;https://gitter.im/LibraryCarpentry/Lobby&lt;/a&gt;. Get in &lt;a href=&quot;p.martinez@uq.edu.au&quot;&gt;contact&lt;/a&gt;, and collaborate in the &lt;a href=&quot;https://docs.google.com/document/d/1ttr7pCGMNe0EtfgcPxDV6syDUQiopP4SZMEMGnX29E8/edit?usp=sharing&quot;&gt;document&lt;/a&gt;.&lt;/p&gt;
+On the days, please join the Gitter/Chat Room: &lt;a href=&quot;https://gitter.im/LibraryCarpentry/Lobby&quot;&gt;https://gitter.im/LibraryCarpentry/Lobby&lt;/a&gt;. Get in &lt;a href=&quot;p.martinez@uq.edu.au&quot;&gt;contact&lt;/a&gt;, and collaborate in the document.&lt;/p&gt;
 
 &lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
 
