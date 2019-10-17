@@ -17,7 +17,7 @@ The Mozilla(moz://a) sprint idea is a month-long open opportunity for projects a
 
 The sprint has the aim to improve and develop Library Carpentry material. Under that umbrella we will work on the [Top 10 FAIR Data & Software Things](https://librarycarpentry.org/Top-10-FAIR/).
 These are a number of brief guides created to help discipline-based communities understand the FAIR Principles.
-Register your interest on this etherpad **[https://pad.carpentries.org/2019-lc-mozsprint](https://pad.carpentries.org/2019-lc-mozsprint)**.
+
 
 ## Who is organising ?
 
@@ -32,7 +32,7 @@ Register your interest on this etherpad **[https://pad.carpentries.org/2019-lc-m
 
 During May, but specially 30-31 May, 2019 we will be working on the **Top 10 FAIR things for imaging.**
 
-Here is our **[work in progress document](https://docs.google.com/document/d/1ttr7pCGMNe0EtfgcPxDV6syDUQiopP4SZMEMGnX29E8/edit?usp=sharing)**. We welcome contributions from diverse viewpoints and skill sets. If you contribute to this document make sure your name and details are known to us. This document is licensed under [Creative Commons International Attribution license CC by 4.0](https://creativecommons.org/licenses/by/4.0/).
+We welcome contributions from diverse viewpoints and skill sets. If you contribute to this document make sure your name and details are known to us. This document is licensed under [Creative Commons International Attribution license CC by 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Join the local Hub
 
@@ -43,7 +43,7 @@ We will start at 9:00 am AEST on the 30th of May, and work between 9:00 - 16:00,
 ## Join remotely
 
 If you are reading this information before the day. [Please contact me](p.martinez@uq.edu.au) for an intro session.
-On the days, please join the Gitter/Chat Room: [https://gitter.im/LibraryCarpentry/Lobby](https://gitter.im/LibraryCarpentry/Lobby). Get in [contact](p.martinez@uq.edu.au), and collaborate in the [document](https://docs.google.com/document/d/1ttr7pCGMNe0EtfgcPxDV6syDUQiopP4SZMEMGnX29E8/edit?usp=sharing).
+On the days, please join the Gitter/Chat Room: [https://gitter.im/LibraryCarpentry/Lobby](https://gitter.im/LibraryCarpentry/Lobby). Get in [contact](p.martinez@uq.edu.au), and collaborate in the document.
 
 ## Contact
 
