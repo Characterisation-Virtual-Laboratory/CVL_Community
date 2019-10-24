@@ -19,7 +19,7 @@ Read more about the Collaborative Australian Characterisation Informatics Strate
 
 The Characterisation Virtual Laboratory (CVL) is operated by MASSIVE in partnership with Monash University, Microscopy Australia, ANSTO, NIF, University of Sydney, University of Queensland, University of Western Australia, and University of Wollongong.
 
-## [National Image Facility - NIF](https://anif.org.au/)
+## [National Imaging Facility - NIF](https://anif.org.au/)
 Neuroscientists, imaging researchers and clinicians, platform engineers, and computational scientists. NIF nodes are [10 Universities plus ANSTO](https://anif.org.au/nif-nodes/).
 
 New South Wales
