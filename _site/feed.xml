@@ -5,9 +5,49 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Oct 2019 09:24:40 +1000</pubDate>
-    <lastBuildDate>Fri, 18 Oct 2019 09:24:40 +1000</lastBuildDate>
+    <pubDate>Fri, 25 Oct 2019 00:37:00 +1000</pubDate>
+    <lastBuildDate>Fri, 25 Oct 2019 00:37:00 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Sensitive data</title>
+        <description>&lt;p&gt;This presentation is part of the eResearch Diversity conference. Developing an Australasian XNAT Roadmap Workshop held on 25 Oct, 2019.&lt;/p&gt;
+
+&lt;p&gt;Last updated 25 October 2019&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;We joined the event by providing a presentation for the community to discuss about FAIR for sensitive data.&lt;/p&gt;
+
+&lt;h2 id=&quot;materials-and-resources&quot;&gt;Materials and resources&lt;/h2&gt;
+
+&lt;p&gt;Have a look at the &lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vRy7gujjTTv66hUsS-oOJ_JFjAgabeK0UNq1EmdC8FIdit5TtXoyFuq-ZP8BIiJoqWVw4J1DV0YfRFm/pub?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot;&gt;slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;suggested-resources&quot;&gt;Suggested Resources&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Go FAIR principles www.go-fair.org/fair-principles&lt;/li&gt;
+  &lt;li&gt;ANDS Publishing and sharing sensitive data www.ands.org.au/guides/sensitivedata&lt;/li&gt;
+  &lt;li&gt;OpenAIRE How to deal with sensitive data www.openaire.eu/sensitive-data-guide&lt;/li&gt;
+  &lt;li&gt;Top 10 FAIR for Imaging librarycarpentry.org/Top-10-FAIR/2019/06/27/imaging&lt;/li&gt;
+  &lt;li&gt;Turning FAIR into reality, EC publications.europa.eu/s/m9l4&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;who-to-reach-with-questions&quot;&gt;Who to reach with questions?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Paula Andrea Martinez / Characterisation Training Coordinator - National Imaging Facility / p.martinez at uq.edu.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 25 Oct 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/sensitivedata/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/sensitivedata/</guid>
+        
+        
+        <category>FAIR</category>
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>Microscopy Australia FAIR information session</title>
@@ -540,65 +580,6 @@ CMM Actively supports and initiates microscopy &amp;amp; microanalysis.&lt;/p&gt
         
         
         <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Global sprint </title>
-        <description>&lt;p&gt;The Mozilla(moz://a) sprint idea is a month-long open opportunity for projects and communities to collaborate, hack, and learn together anytime during the month of May.&lt;/p&gt;
-
-&lt;h1 id=&quot;global-sprint&quot;&gt;Global Sprint&lt;/h1&gt;
-
-&lt;p&gt;The Mozilla(moz://a) sprint idea is a month-long open opportunity for projects and communities to collaborate, hack, and learn together anytime during the month of May.&lt;/p&gt;
-
-&lt;h2 id=&quot;mozilla-library-carpentry-global-sprint-may-2019&quot;&gt;Mozilla-Library Carpentry Global Sprint, May 2019&lt;/h2&gt;
-
-&lt;p&gt;The sprint has the aim to improve and develop Library Carpentry material. Under that umbrella we will work on the &lt;a href=&quot;https://librarycarpentry.org/Top-10-FAIR/&quot;&gt;Top 10 FAIR Data &amp;amp; Software Things&lt;/a&gt;.
-These are a number of brief guides created to help discipline-based communities understand the FAIR Principles.&lt;/p&gt;
-
-&lt;h2 id=&quot;who-is-organising-&quot;&gt;Who is organising ?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.mozillapulse.org/entry/1100&quot;&gt;Mozilla&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://librarycarpentry.org/blog/2019/03/lc-mozilla-global-sprint/&quot;&gt;Library Carpentry&lt;/a&gt; /&lt;a href=&quot;https://carpentries.org/&quot;&gt;The Carpentries&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ardc.edu.au/&quot;&gt;The Australian Research Data Commons (ARDC)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.zbmed.de/en/&quot;&gt;German National Library of Medicine (ZB MED)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Many people are already involved. &lt;strong&gt;You are welcome&lt;/strong&gt; to take part, either join a local hub, or work remotely.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;10-fair-things-for-imaging&quot;&gt;10 FAIR things for Imaging&lt;/h1&gt;
-
-&lt;p&gt;During May, but specially 30-31 May, 2019 we will be working on the &lt;strong&gt;Top 10 FAIR things for imaging.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We welcome contributions from diverse viewpoints and skill sets. If you contribute to this document make sure your name and details are known to us. This document is licensed under &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;Creative Commons International Attribution license CC by 4.0&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;join-the-local-hub&quot;&gt;Join the local Hub&lt;/h2&gt;
-
-&lt;p&gt;We have booked a local hub. Room 501, level 5, building 2 (Duhig Tower),
-University of Queensland, Campbell Rd, St Lucia, 4067 QLD.
-We will start at 9:00 am AEST on the 30th of May, and work between 9:00 - 16:00, both days.&lt;/p&gt;
-
-&lt;h2 id=&quot;join-remotely&quot;&gt;Join remotely&lt;/h2&gt;
-
-&lt;p&gt;If you are reading this information before the day. &lt;a href=&quot;p.martinez@uq.edu.au&quot;&gt;Please contact me&lt;/a&gt; for an intro session.
-On the days, please join the Gitter/Chat Room: &lt;a href=&quot;https://gitter.im/LibraryCarpentry/Lobby&quot;&gt;https://gitter.im/LibraryCarpentry/Lobby&lt;/a&gt;. Get in &lt;a href=&quot;p.martinez@uq.edu.au&quot;&gt;contact&lt;/a&gt;, and collaborate in the document.&lt;/p&gt;
-
-&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
-
-&lt;p&gt;You can email &lt;a href=&quot;p.martinez@uq.edu.au&quot;&gt;Paula&lt;/a&gt; for any questions.&lt;/p&gt;
-
-&lt;p&gt;The simple most meaningful step you can take to collaborate is tweet (&lt;em&gt;Why? Because it takes a community to nurture resources that a community wants to use and reuse&lt;/em&gt;).&lt;/p&gt;
-
-&lt;p&gt;Here is a tweet example, you can add any of the links above. “The @LibCarpentry @ARDC_AU #mozsprint #lc2019 is coming back end of May (30-31). I will be working on #Top10FAIR for #imaging &lt;a href=&quot;https://pad.carpentries.org/2019-lc-mozsprint&quot;&gt;https://pad.carpentries.org/2019-lc-mozsprint&lt;/a&gt;.”&lt;/p&gt;
-</description>
-        <pubDate>Fri, 17 May 2019 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/CVL_Community/10FAIRthings-progress/</link>
-        <guid isPermaLink="true">http://localhost:4000/CVL_Community/10FAIRthings-progress/</guid>
-        
-        <category>external</category>
-        
-        
-        <category>FAIR</category>
         
       </item>
     
