@@ -5,9 +5,82 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Oct 2019 00:45:23 +1000</pubDate>
-    <lastBuildDate>Fri, 25 Oct 2019 00:45:23 +1000</lastBuildDate>
+    <pubDate>Tue, 19 Nov 2019 14:24:30 +1000</pubDate>
+    <lastBuildDate>Tue, 19 Nov 2019 14:24:30 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Automating neuroimaging analysis workflows with Nipype, Arcana and Banana - Materials</title>
+        <description>&lt;p&gt;Last updated 19 November 2019&lt;/p&gt;
+
+&lt;p&gt;Hands-on workshop
+Date: 15 November, 2019 (after the VBIC Annual Network Meeting)
+Duration: 1 day (9:30 - 5:00)
+Proposed Location: Melbourne, Swinburne University
+Advanced Technologies Centre
+Instructor: Thomas Close from Monash Biomedical Imaging&lt;/p&gt;
+
+&lt;h1 id=&quot;automating-neuroimaging-analysis-workflows-with-nipype-arcana-and-banana&quot;&gt;Automating neuroimaging analysis workflows with Nipype, Arcana and Banana&lt;/h1&gt;
+
+&lt;p&gt;Analysis of neuroimaging-research data uses many software tools (e.g. FSL, SPM, MRTrix, ANTs, AFNI, DiPy). This makes constructing complete workflows challenging as it requires not only the relevant scientific knowledge but also familiarity with the syntax and options of each of the tools involved.&lt;/p&gt;
+
+&lt;p&gt;This workshop shows how to wrap neuroimaging tools within consistent interfaces and link them together into robust workflows using the &lt;a href=&quot;https://nipy.org/packages/nipype/index.html&quot;&gt;Nipype&lt;/a&gt; Python package.&lt;/p&gt;
+
+&lt;p&gt;In the last part of the course, participants will learn how to extend and customise the classes in Banana to the specific needs of their own analysis, and apply these workflows to project data stored in BIDS datasets. Then finally, how workflows can be automated for data stored in XNAT repositories by encapsulating them within Docker containers and using XNAT’s “container service”.&lt;/p&gt;
+
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+
+&lt;p&gt;All the materials and instructions to run the code are provided &lt;a href=&quot;https://nbviewer.jupyter.org/github/MonashBI/nipype_arcana_workshop/blob/master/program.ipynb&quot; target=&quot;_blank&quot;&gt;https://nbviewer.jupyter.org/github/MonashBI/nipype_arcana_workshop/blob/master/program.ipynb&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;pre-requisites&quot;&gt;Pre-requisites&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Proficiency in Python programming, or programming in general and familiarity with object-oriented concepts.&lt;/li&gt;
+  &lt;li&gt;A conceptual understanding of container technology (i.e. Docker/Singularity) would be beneficial.&lt;/li&gt;
+  &lt;li&gt;Some familiarity with the function of standard neuroimaging toolkits (e.g. FSL, SPM, MRTrix, ANTs, AFNI, DiPy) would be good but not strictly necessary.&lt;/li&gt;
+  &lt;li&gt;An account on CVL@MASSIVE is the recommended.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;cvlmassive-projects&quot;&gt;CVL@MASSIVE projects&lt;/h2&gt;
+
+&lt;p&gt;If you are or want to become a new user to CVL@MASSIVE we would like to encourage you to apply for a new project
+or join an existing one to continue using the CVL.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If you are a principal investigator or a project manager please send a project request to MASSIVE by filling out the following form&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/GUktMZPKUHLsMGNT8&quot;&gt;https://forms.gle/GUktMZPKUHLsMGNT8&lt;/a&gt;. You will get a response in about 3 working days.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;If you are a student or research assistant you need your supervisor or manager to get a project first,
+they can then give you the project code to join.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For further details on how to do this, please refer to &lt;a href=&quot;https://www.cvl.org.au/cvl-desktop/cvl-accounts&quot; target=&quot;_blank&quot;&gt;https://www.cvl.org.au/cvl-desktop/cvl-accounts&lt;/a&gt;.
+This page contains account, project and password information. It is important to notice that all members of a project have
+read permission on it.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-event&quot;&gt;Next event&lt;/h2&gt;
+
+&lt;p&gt;We are planning to run this workshop in Sydney (2020), if you know of anyone who would be interested, please get in touch.&lt;/p&gt;
+
+&lt;h2 id=&quot;tweet&quot;&gt;tweet&lt;/h2&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Full room &amp;quot;automating neuroimaging analysis workflows&amp;quot; &lt;a href=&quot;https://twitter.com/Swinburne?ref_src=twsrc%5Etfw&quot;&gt;@Swinburne&lt;/a&gt; &lt;a href=&quot;https://twitter.com/Mon_Bio_Imaging?ref_src=twsrc%5Etfw&quot;&gt;@Mon_Bio_Imaging&lt;/a&gt; &lt;a href=&quot;https://twitter.com/AlfredHealth?ref_src=twsrc%5Etfw&quot;&gt;@AlfredHealth&lt;/a&gt; &lt;a href=&quot;https://twitter.com/Deakin?ref_src=twsrc%5Etfw&quot;&gt;@Deakin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/UQ_CAI?ref_src=twsrc%5Etfw&quot;&gt;@UQ_CAI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/TheFlorey?ref_src=twsrc%5Etfw&quot;&gt;@TheFlorey&lt;/a&gt; &lt;a href=&quot;https://twitter.com/MonashUni?ref_src=twsrc%5Etfw&quot;&gt;@MonashUni&lt;/a&gt; &lt;a href=&quot;https://twitter.com/VicBioImaging?ref_src=twsrc%5Etfw&quot;&gt;@VicBioImaging&lt;/a&gt; and more &lt;a href=&quot;https://t.co/C8gPQklMzh&quot;&gt;pic.twitter.com/C8gPQklMzh&lt;/a&gt;&lt;/p&gt;&amp;mdash; CharacterisationVL Communications (@Char_VirtLab) &lt;a href=&quot;https://twitter.com/Char_VirtLab/status/1195172603863826432?ref_src=twsrc%5Etfw&quot;&gt;November 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
+
+&lt;p&gt;The CVL is a nationally funded software infrastructure collaboration
+to make scientific tools for image analysis and processing, available freely
+and cloud-ready. The &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/about&quot;&gt;CVL is also a community&lt;/a&gt; who support training
+and best data management practices.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Nov 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/workflowsnov/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/workflowsnov/</guid>
+        
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>Sensitive data</title>
@@ -237,7 +310,7 @@ Selection is based on your current work or study, location, your motivation for 
       </item>
     
       <item>
-        <title>Automating neuroimaging analysis workflows with Nipype, Arcana and Banana</title>
+        <title>Automating neuroimaging analysis workflows with Nipype, Arcana and Banana - Invitation</title>
         <description>&lt;p&gt;Last updated 28 August 2019&lt;/p&gt;
 
 &lt;p&gt;Hands-on workshop
@@ -514,70 +587,6 @@ CMM Actively supports and initiates microscopy &amp;amp; microanalysis.&lt;/p&gt
         
         
         <category>FAIR</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>CRYOZ19 workshop</title>
-        <description>&lt;h1 id=&quot;day-1-starter-hands-on-cryo-em&quot;&gt;Day 1 Starter hands-on cryo-EM&lt;/h1&gt;
-
-&lt;p&gt;Monday 3 June 2019&lt;/p&gt;
-
-&lt;p&gt;Intro Lectures Sample preparation &amp;amp; cryo-TEM&lt;/p&gt;
-
-&lt;p&gt;Hands-on sessions 3 groups&lt;/p&gt;
-
-&lt;p&gt;Rotating sessions&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Negative Staining &amp;amp; TEM: Jeol 1400&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Cryo-grids &amp;amp; cryo-TEM: Tecnai 12&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;High throughput imaging: Titan &amp;amp; Talos&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;day-2-data-processing&quot;&gt;Day 2 Data Processing&lt;/h1&gt;
-
-&lt;p&gt;Tuesday 4 June 2019&lt;/p&gt;
-
-&lt;p&gt;Hands-on using Relion &amp;amp; other software*&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;hosted on CVL &amp;amp; MASSIVE&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;day-3-data-processing&quot;&gt;Day 3 Data Processing&lt;/h1&gt;
-
-&lt;p&gt;Wednesday 5 June 2019&lt;/p&gt;
-
-&lt;p&gt;Hands-on using Relion &amp;amp; other software*&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;hosted on CVL &amp;amp; MASSIVE&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;lectures-advanced-image-processing&quot;&gt;Lectures advanced image processing&lt;/h2&gt;
-&lt;p&gt;Afternoon lectures advanced image processing, these are also part of the CRYOZ19 program&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Masking&lt;/li&gt;
-  &lt;li&gt;Helical processing&lt;/li&gt;
-  &lt;li&gt;Cryo EM map fitting&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 21 May 2019 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/CVL_Community/IntroCryoEM/</link>
-        <guid isPermaLink="true">http://localhost:4000/CVL_Community/IntroCryoEM/</guid>
-        
-        <category>external</category>
-        
-        <category>CRYOZ19</category>
-        
         
         <category>tutorial</category>
         

@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Automating neuroimaging analysis workflows with Nipype, Arcana and Banana"
+title:  "Automating neuroimaging analysis workflows with Nipype, Arcana and Banana - Invitation"
 author: Paula
 categories: [ tutorial ]
 tags: [ ]
 image: assets/images/nipype.png
-featured: true
 toc: true
 ---
 

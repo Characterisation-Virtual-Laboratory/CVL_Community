@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Automating neuroimaging analysis workflows with Nipype, Arcana and Banana"
+title:  "Automating neuroimaging analysis workflows with Nipype, Arcana and Banana - Materials"
 author: Paula
 categories: [ tutorial ]
-tags: [ ]
-image: assets/images/nipype.png
+tags: [  ]
+image: assets/images/banana.jpg
 featured: true
 toc: true
 ---
@@ -53,6 +53,9 @@ read permission on it.
 ## Next event
 
 We are planning to run this workshop in Sydney (2020), if you know of anyone who would be interested, please get in touch.
+
+## tweet
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Full room &quot;automating neuroimaging analysis workflows&quot; <a href="https://twitter.com/Swinburne?ref_src=twsrc%5Etfw">@Swinburne</a> <a href="https://twitter.com/Mon_Bio_Imaging?ref_src=twsrc%5Etfw">@Mon_Bio_Imaging</a> <a href="https://twitter.com/AlfredHealth?ref_src=twsrc%5Etfw">@AlfredHealth</a> <a href="https://twitter.com/Deakin?ref_src=twsrc%5Etfw">@Deakin</a> <a href="https://twitter.com/UQ_CAI?ref_src=twsrc%5Etfw">@UQ_CAI</a> <a href="https://twitter.com/TheFlorey?ref_src=twsrc%5Etfw">@TheFlorey</a> <a href="https://twitter.com/MonashUni?ref_src=twsrc%5Etfw">@MonashUni</a> <a href="https://twitter.com/VicBioImaging?ref_src=twsrc%5Etfw">@VicBioImaging</a> and more <a href="https://t.co/C8gPQklMzh">pic.twitter.com/C8gPQklMzh</a></p>&mdash; CharacterisationVL Communications (@Char_VirtLab) <a href="https://twitter.com/Char_VirtLab/status/1195172603863826432?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## Characterisation Virtual Laboratory (CVL)
 
