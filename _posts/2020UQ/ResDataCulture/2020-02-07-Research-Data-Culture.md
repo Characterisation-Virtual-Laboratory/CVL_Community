@@ -49,7 +49,7 @@ Afternoon workshops
 
 ### Presentations
 
-All morning presentations have been made available via [OSF](https://osf.io/645vc/).
+All presentations from the morning have been made available via [OSF](https://osf.io/645vc/) look at the tab of files, you can download individual files or a zip containing all the presentations.
 
 ## Contact
 
