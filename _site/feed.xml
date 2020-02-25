@@ -5,9 +5,118 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Nov 2019 14:25:29 +1000</pubDate>
-    <lastBuildDate>Tue, 19 Nov 2019 14:25:29 +1000</lastBuildDate>
+    <pubDate>Tue, 25 Feb 2020 18:00:00 +1000</pubDate>
+    <lastBuildDate>Tue, 25 Feb 2020 18:00:00 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>UQ - Research Data Culture </title>
+        <description>&lt;p&gt;Last updated 25 February 2020&lt;/p&gt;
+
+&lt;p&gt;Presentations
+Date: 07 Feb, 2020
+Duration: 1 day (9:00 - 5:00)
+Location: Brisbane, UQ Advanced Engineering Building
+Target Audience: UQ Research Students and EMCRs&lt;/p&gt;
+
+&lt;h2 id=&quot;research-data-culture&quot;&gt;Research Data Culture&lt;/h2&gt;
+&lt;p&gt;To be data-driven requires an overarching data culture that couples several elements, including high-quality trustable data, broad and relevant access, data literacy and fit data-driven decision-making processes.&lt;/p&gt;
+
+&lt;p&gt;As a research intensive university UQ works hard on enabling high quality research. First, our infrastructure foresees and enables data collection, data management, maintenance, archiving and security. The line items add up, but none of these would be valuable if researchers like you, don’t know what is available or how to access it.&lt;/p&gt;
+
+&lt;p&gt;The purpose of this forum is to inform the UQ research community of the resources available and invite collaboration from other research institutions.&lt;/p&gt;
+
+&lt;h3 id=&quot;program&quot;&gt;Program&lt;/h3&gt;
+
+&lt;p&gt;Speakers have made their presentations available. Here you will find resources such: Training, computing and support offerings in software, research skills, publishing and research management. Not only institutional but at a national scale too.
+Remember, if done well, a thriving data-driven team can reap huge rewards, and that is what we envision.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Topics&lt;/th&gt;
+      &lt;th&gt;Presenter&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Opening&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://twitter.com/orchid00&quot;&gt;Dr Paula Andrea Martinez&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Motivation - Culture Change&lt;/td&gt;
+      &lt;td&gt;Prof Graham Galloway - &lt;a href=&quot;https://twitter.com/NIFAus&quot;&gt;NIF&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;UQRDM / &lt;a href=&quot;https://twitter.com/UQ_library&quot;&gt;Library&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Cassandra Graesser - Introduction to the UQ Research Data Manager&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Computing resources UQ/QLD, RCC/QCIF&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://twitter.com/HankelMarlies&quot;&gt;Dr Marlies Hankel&lt;/a&gt; - &lt;a href=&quot;https://twitter.com/RCCUQ&quot;&gt;Research Computing Centre&lt;/a&gt; / &lt;a href=&quot;https://twitter.com/qcifltd/&quot;&gt;Queensland Cyber Infrastructure Foundation&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Morning tea break&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Data intensive science example&lt;/td&gt;
+      &lt;td&gt;Samual MacDonald - Preserving scientific integrity in deep learning&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;National Computing resources: &lt;a href=&quot;https://twitter.com/NCInews&quot;&gt;NCI&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/PawseyCentre&quot;&gt;Pawsey&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/eResearchMonash&quot;&gt;MASSIVE&lt;/a&gt;, NCMAS&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://twitter.com/mignon1915&quot;&gt;Jane Frazier&lt;/a&gt; - National High Performance Computing Capabilities&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Responsible Research Panel&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://twitter.com/FGacenga&quot;&gt;Dr Francis Gagenga&lt;/a&gt;, Samual MacDonald, Jane Frazier, &lt;a href=&quot;https://twitter.com/dannykay68&quot;&gt;Dr Danny Kingsley&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Afternoon workshops&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Topics&lt;/th&gt;
+      &lt;th&gt;Presenter&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;UQ Research Data Manager - For questions email  &lt;a href=&quot;data@library.uq.edu.au&quot;&gt;data@library.uq.edu.au&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Fei Yu - UQ RDM workshop - for UQ researchers&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Reproducibility steps&lt;/td&gt;
+      &lt;td&gt;Paula Andrea Martinez - &lt;a href=&quot;https://gitpitch.com/orchid00/ReproducibleResearchThings/gh-pages#/1&quot;&gt;Reproducible Research Workshop&lt;/a&gt; - for everyone&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;presentations&quot;&gt;Presentations&lt;/h3&gt;
+
+&lt;p&gt;All morning presentations have been made available via &lt;a href=&quot;https://osf.io/645vc/&quot;&gt;OSF&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
+
+&lt;p&gt;You can email &lt;a href=&quot;p.martinez@uq.edu.au&quot;&gt;Paula Andrea Martinez&lt;/a&gt; for any questions.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Feb 2020 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/Research-Data-Culture/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/Research-Data-Culture/</guid>
+        
+        <category>external</category>
+        
+        
+        <category>champions</category>
+        
+        <category>FAIR</category>
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>Automating neuroimaging analysis workflows with Nipype, Arcana and Banana - Materials</title>
@@ -507,81 +616,6 @@ Senior HPC Consultant - Monash University&lt;/li&gt;
         <pubDate>Tue, 18 Jun 2019 00:00:00 +1000</pubDate>
         <link>http://localhost:4000/CVL_Community/FAIR-CVL/</link>
         <guid isPermaLink="true">http://localhost:4000/CVL_Community/FAIR-CVL/</guid>
-        
-        <category>external</category>
-        
-        
-        <category>FAIR</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Data management and FAIR</title>
-        <description>&lt;h1 id=&quot;cmm-introduction-to-data-management-fair-and-uqrdm&quot;&gt;CMM introduction to Data Management FAIR and UQRDM&lt;/h1&gt;
-
-&lt;p&gt;Last updated 5 June 2019&lt;/p&gt;
-
-&lt;p&gt;Thanks for attending this session hosted by the Characterisation Virtual Laboratory (CVL).&lt;/p&gt;
-
-&lt;p&gt;Everything we do today is available online. It is your responsibility to select what is more important for you.
-Suggested resources will be listed at the end of each presentation.&lt;/p&gt;
-
-&lt;p&gt;This is a live notepad the link is here: https://demo.codimd.org/s/SJqgnL4C4
-After the workshop, you can view and save this notepad with the important links and information as a &lt;a href=&quot;https://gitprint.com/Characterisation-Virtual-Laboratory/CVL_Community/blob/master/_posts/CMM19/2019-06-05-UQRDM-FAIR.md&quot;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
-
-&lt;p&gt;Nationally funded software infrastructure collaboration
-to make scientific tools for image analysis and processing, available freely and cloud-ready. The &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/about&quot;&gt;CVL is also a community&lt;/a&gt; of experts who support training and best practices.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-centre-for-microscopy-and-microanalysis-cmm&quot;&gt;The Centre for Microscopy and Microanalysis (CMM)&lt;/h2&gt;
-
-&lt;p&gt;Is an interdisciplinary research, teaching and service centre based at The University of Queensland (UQ).
-CMM Actively supports and initiates microscopy &amp;amp; microanalysis.&lt;/p&gt;
-
-&lt;h2 id=&quot;uq-research-data-manager-rdm&quot;&gt;UQ Research Data Manager (RDM)&lt;/h2&gt;
-
-&lt;p&gt;The RDM provides the UQ research community with a collaborative, safe and secure large-scale storage facility to practice good stewardship of research data.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-are-we-going-to-learn&quot;&gt;What are we going to learn?&lt;/h2&gt;
-
-&lt;p&gt;At the end of this session you will be able to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Create one or more UQRDM records
-    &lt;ul&gt;
-      &lt;li&gt;One of your UQRDM records will be connected to HPC collections&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Reuse a set of guidelines to use HPC collections&lt;/li&gt;
-  &lt;li&gt;Be motivated to use data management best practices&lt;/li&gt;
-  &lt;li&gt;Go back to Data management recommendations&lt;/li&gt;
-  &lt;li&gt;Describe what the concept of FAIR means&lt;/li&gt;
-  &lt;li&gt;Observe how the CVL desktop works&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;instructors&quot;&gt;Instructors&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Full name / email (optional)&lt;/li&gt;
-  &lt;li&gt;Paula Andrea Martinez / p.martinez at uq.edu.au&lt;/li&gt;
-  &lt;li&gt;Roger Wepf&lt;/li&gt;
-  &lt;li&gt;Fei Yu&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;material&quot;&gt;Material&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://demo.codimd.org/p/SJlh1PQAV#/&quot;&gt;The Characterisation Virtual Laboratory&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://demo.codimd.org/p/Bygd78qXRV#/&quot;&gt;UQ RDM and HPC collections&lt;/a&gt; information relevant to only for UQ staff/Students&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://demo.codimd.org/p/BJF9kXGRN#/&quot;&gt;Data Management and FAIR&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 05 Jun 2019 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/CVL_Community/UQRDM-FAIR/</link>
-        <guid isPermaLink="true">http://localhost:4000/CVL_Community/UQRDM-FAIR/</guid>
         
         <category>external</category>
         
