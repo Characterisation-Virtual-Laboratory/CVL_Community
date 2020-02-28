@@ -5,8 +5,8 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Feb 2020 18:23:31 +1000</pubDate>
-    <lastBuildDate>Tue, 25 Feb 2020 18:23:31 +1000</lastBuildDate>
+    <pubDate>Fri, 28 Feb 2020 11:59:04 +1000</pubDate>
+    <lastBuildDate>Fri, 28 Feb 2020 11:59:04 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -369,45 +369,36 @@ Create a project directory in this folder for analysis, and read more about Awoo
       </item>
     
       <item>
-        <title>Travel scholarships</title>
-        <description>&lt;p&gt;Travel scholarships for researchers in Australia, working with complex image analysis (characterisation).&lt;/p&gt;
+        <title>Scholarships</title>
+        <description>&lt;p&gt;Scholarships for researchers in Australia, working with complex image analysis (characterisation).&lt;/p&gt;
 
-&lt;h1 id=&quot;travel-scholarships&quot;&gt;Travel scholarships&lt;/h1&gt;
-&lt;p&gt;To help you attend a workshop the CDEVL project
- (Characterisation Data Enhanced Virtual Laboratory) is organising travel scholarships which will cover the cost of travel (airfare, train, bus,
-taxi, accommodation). These are provided up to
- specified caps as follows:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;up to A$500 for participants coming from a state other than where the workshop is being held.&lt;/li&gt;
-  &lt;li&gt;up to A$800 for participants coming from WA or NT.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h1 id=&quot;scholarships&quot;&gt;Scholarships&lt;/h1&gt;
+&lt;p&gt;To help you attend a workshop, the CDeVL project
+ (Characterisation Data Enhanced Virtual Laboratory) is organising scholarships.&lt;/p&gt;
 
 &lt;h2 id=&quot;application&quot;&gt;Application&lt;/h2&gt;
 
-&lt;p&gt;Researchers in Australia, working with complex image analysis (characterisation) may apply for a travel scholarship (at least 3 weeks before the event) by answering the following questions:&lt;/p&gt;
+&lt;p&gt;Researchers in Australia, working with complex image analysis (characterisation) may apply for a scholarship (&lt;strong&gt;at least 3 weeks before the event&lt;/strong&gt;). Applications are considered  based on motivation to attend and how people might then champion what they have learned during the workshop. Please answer the following questions:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Name and date of the workshop&lt;/li&gt;
   &lt;li&gt;Brief research domain, career level, institution&lt;/li&gt;
   &lt;li&gt;What is your motivation for attending this workshop?&lt;/li&gt;
-  &lt;li&gt;Brief reasons why your institution cannot fund your attendance&lt;/li&gt;
-  &lt;li&gt;How your attendance will make a difference to your career?&lt;/li&gt;
-  &lt;li&gt;Commit to share your experience after the workshop,
-for example, a video or short story (a month after the workshop) or instruct or facilitate a workshop (in the following 6 months).&lt;/li&gt;
+  &lt;li&gt;Brief reasons why you need to apply for a scholarhsip.&lt;/li&gt;
+  &lt;li&gt;How your attendance will make a difference to your career and research?&lt;/li&gt;
+  &lt;li&gt;How do you intent to share your experience after the workshop? for example, instruct or facilitate a workshop (in the following 6 months) or send a video or short story (a month after the workshop).&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;a href=&quot;mailto:p.martinez@uq.edu.au&quot;&gt;Please email your application&lt;/a&gt; as soon as possible.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:p.martinez@uq.edu.au&quot;&gt;Please email your application&lt;/a&gt; as soon as possible. &lt;strong&gt;For the MRtrix3 workshop applications close on March 23rd, 2020&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;selection&quot;&gt;Selection&lt;/h2&gt;
 
-&lt;p&gt;The organisers will select the recipients of all scholarhsip applicants as they come and will close to review 3 weeks before the event.
-Selection is based on your current work or study, location, your motivation for applying, the reasons for needing financial support and the impact this event will have on your career. Incomplete applications won’t be assessed.&lt;/p&gt;
+&lt;p&gt;The organisers will select the recipients of scholarhsips as applications come, and will close to review 3 weeks before the event.
+Selection is based on your current work or study, your motivation for applying, the reasons for needing financial support and the impact this event will have on your career and how you might share outcomes. Incomplete applications won’t be assessed.&lt;/p&gt;
 
 &lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
-&lt;p&gt;Results will be announced approximately 3 weeks before the event start date, however for some events this may be delayed. Selection results do not impact your admission to the workshop. You will be contacted to organise your travel, and we will pay for your travel costs in advance.&lt;/p&gt;
-
-&lt;p&gt;In the ocasion that you would like to organise your travel costs we can offer reimbursments with the cap above and you will be required to fill a reimbursement form and send original receipts from travel costs.&lt;/p&gt;
+&lt;p&gt;Results will be announced 3 weeks before the event start date, however for some events this may be delayed.
+&lt;strong&gt;Selection results do not impact your admission to the workshop.&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Aug 2019 12:06:12 +1000</pubDate>
         <link>http://localhost:4000/CVL_Community/scholarships/</link>
