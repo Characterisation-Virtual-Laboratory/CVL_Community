@@ -5,8 +5,8 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Jun 2020 18:34:40 +1000</pubDate>
-    <lastBuildDate>Wed, 10 Jun 2020 18:34:40 +1000</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2020 18:41:49 +1000</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2020 18:41:49 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -26,7 +26,17 @@ Instructors:
 &lt;p&gt;Feedback was great:&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;“The presentation was fantastic. I loved the relaxed, enthusiastic style, and the counterpoint of practical examples (Saskia) vs technical background and terminology (Steffen) was perfectly realised. I learned some features of git, history, and background that I wasn't aware of.”
+2
+3
+4
+5
+6
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;“The presentation was fantastic. I loved the relaxed, 
+enthusiastic style, and the counterpoint of practical
+examples (Saskia) vs technical background and 
+terminology (Steffen) was perfectly realised. 
+I learned some features of git, history, and 
+background that I wasn't aware of.”
 &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
@@ -39,6 +49,7 @@ Instructors:
     &lt;p&gt;&lt;a href=&quot;https://uqz.zoom.us/rec/share/yugqJo7wq29ORs_0yxDUZ_4qIY3Eaaa81igY-vEOn00gVaJSsKW5ipTf-9PlBKCq&quot;&gt;The recording is available through AARNet&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
 </description>
         <pubDate>Wed, 03 Jun 2020 00:00:00 +1000</pubDate>
         <link>http://localhost:4000/CVL_Community/CAI-Git/</link>

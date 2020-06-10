@@ -43,7 +43,7 @@ var documents = [{
     "id": 8,
     "url": "http://localhost:4000/CVL_Community/CAI-Git/",
     "title": "Introduction to Git and GitLab",
-    "body": "2020/06/03 - Last updated 10 June 2020 Online workshopDate: 03 June, 2020Duration: 1 hourCentre for Advanced Imaging (CAI)Instructors:  * Dr Steffen Bollmann, 7T National Imaging Facility Fellow  * Dr Saskia Bollmann, UQ Postdoctoral Research Fellow The workshop was targetted for the CAI community. As an introduction to Git and GitLab. Feedback was great: 1“The presentation was fantastic. I loved the relaxed, enthusiastic style, and the counterpoint of practical examples (Saskia) vs technical background and terminology (Steffen) was perfectly realised. I learned some features of git, history, and background that I wasn't aware of. ”Materials:    Slides can be downloaded as pptx.     The recording is available through AARNet  "
+    "body": "2020/06/03 - Last updated 10 June 2020 Online workshopDate: 03 June, 2020Duration: 1 hourCentre for Advanced Imaging (CAI)Instructors:  * Dr Steffen Bollmann, 7T National Imaging Facility Fellow  * Dr Saskia Bollmann, UQ Postdoctoral Research Fellow The workshop was targetted for the CAI community. As an introduction to Git and GitLab. Feedback was great: 123456“The presentation was fantastic. I loved the relaxed, enthusiastic style, and the counterpoint of practicalexamples (Saskia) vs technical background and terminology (Steffen) was perfectly realised. I learned some features of git, history, and background that I wasn't aware of. ”Materials:    Slides can be downloaded as pptx.     The recording is available through AARNet  "
     }, {
     "id": 9,
     "url": "http://localhost:4000/CVL_Community/Research-Data-Culture/",
