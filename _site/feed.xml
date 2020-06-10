@@ -5,9 +5,49 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Feb 2020 11:59:04 +1000</pubDate>
-    <lastBuildDate>Fri, 28 Feb 2020 11:59:04 +1000</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2020 18:34:40 +1000</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2020 18:34:40 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Introduction to Git and GitLab</title>
+        <description>&lt;p&gt;Last updated 10 June 2020&lt;/p&gt;
+
+&lt;p&gt;Online workshop
+Date: 03 June, 2020
+Duration: 1 hour
+Centre for Advanced Imaging (CAI)
+Instructors:
+    * Dr Steffen Bollmann, 7T National Imaging Facility Fellow
+    * Dr Saskia Bollmann, UQ Postdoctoral Research Fellow&lt;/p&gt;
+
+&lt;p&gt;The workshop was targetted for the CAI community. As an introduction to Git and GitLab.&lt;/p&gt;
+
+&lt;p&gt;Feedback was great:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;“The presentation was fantastic. I loved the relaxed, enthusiastic style, and the counterpoint of practical examples (Saskia) vs technical background and terminology (Steffen) was perfectly realised. I learned some features of git, history, and background that I wasn't aware of.”
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;_posts\2020UQ\CAIGit\CAI-gitlab.pptx&quot;&gt;Slides can be downloaded as pptx&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://uqz.zoom.us/rec/share/yugqJo7wq29ORs_0yxDUZ_4qIY3Eaaa81igY-vEOn00gVaJSsKW5ipTf-9PlBKCq&quot;&gt;The recording is available through AARNet&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 03 Jun 2020 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/CAI-Git/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/CAI-Git/</guid>
+        
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>UQ - Research Data Culture </title>
@@ -517,101 +557,6 @@ and best data management practices.&lt;/p&gt;
         
         <category>external</category>
         
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Intro to FAIR for NIF</title>
-        <description>&lt;p&gt;The NIF annual meeting is happening 18-21 June 2019. It starts with a FAIR
-training event, and on boarding participants to use the CVL desktop.&lt;/p&gt;
-
-&lt;p&gt;Last updated 17 June 2019&lt;/p&gt;
-
-&lt;h1 id=&quot;introduction-to-fair-data&quot;&gt;Introduction to FAIR data&lt;/h1&gt;
-
-&lt;p&gt;The National Imaging Facility annual meeting is happening on 18-21 June 2019 in
-Brisbane. This meeting starts with a FAIR training event, and on boarding
-participants to use the CVL desktop.&lt;/p&gt;
-
-&lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
-
-&lt;p&gt;The CVL is a nationally funded software infrastructure collaboration
-to make scientific tools for image analysis and processing, available freely
-and cloud-ready. The &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/about&quot;&gt;CVL is also a community&lt;/a&gt; of experts who support training
-and best data management practices.&lt;/p&gt;
-
-&lt;h2 id=&quot;workshop-preparation&quot;&gt;Workshop preparation&lt;/h2&gt;
-
-&lt;p&gt;In preparation for the NIF workshop introduction to FAIR, please
-think about the following questions.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;What’s the approach of handling sensitive data? Is there a procedure? Links
-are useful, or a simple description.&lt;/li&gt;
-  &lt;li&gt;Persistent identifiers, any special PIDs that are used by NIF? apart from
-DOIs or maybe RAiDs?&lt;/li&gt;
-  &lt;li&gt;Are there any special controlled vocabularies to describe metadata?&lt;/li&gt;
-  &lt;li&gt;Do you know of any recommendations from journals that you use about where to
-store data? any guidelines?&lt;/li&gt;
-  &lt;li&gt;If people would like to share data what type of file formats are suggested
-or broadly in use ?&lt;/li&gt;
-  &lt;li&gt;Any recommendations about license for work features?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Also, please take the time to read this Nature article &lt;a href=&quot;https://www.nature.com/articles/d41586-019-01720-7&quot;&gt;Make scientific data FAIR&lt;/a&gt; by Stall et al., 2019 &lt;a href=&quot;doi:10.1038/d41586-019-01720-7&quot;&gt;doi:10.1038/d41586-019-01720-7&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;workshop-agenda&quot;&gt;Workshop agenda&lt;/h2&gt;
-
-&lt;p&gt;Thanks for attending this session hosted by the Characterisation Virtual
-Laboratory (CVL).&lt;/p&gt;
-
-&lt;p&gt;Everything we do today is available online. You can cherry-pick what is more
-important for you. Suggested resources will be listed at the end of each
-presentation.&lt;/p&gt;
-
-&lt;p&gt;Find the materials for this workshop here: &lt;a href=&quot;tiny.cc/CVL_Community&quot;&gt;tiny.cc/CVL_Community&lt;/a&gt; under Intro to FAIR for NIF.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Introductions&lt;/li&gt;
-  &lt;li&gt;FAIR principles and data management&lt;/li&gt;
-  &lt;li&gt;What is the CVL?&lt;/li&gt;
-  &lt;li&gt;CVL Federation for users&lt;/li&gt;
-  &lt;li&gt;CVL instrument integration&lt;/li&gt;
-  &lt;li&gt;Q&amp;amp;A&lt;/li&gt;
-  &lt;li&gt;Demo CVL at MASSIVE - If people have accounts already they can test
-their own data sets and ask questions.&lt;/li&gt;
-  &lt;li&gt;Split into teams, to set up accounts for the CVL&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;who-to-reach-for-questions&quot;&gt;Who to reach for questions?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Paula Andrea Martinez / Characterisation Training Coordinator - National Imaging Facility / p.martinez at uq.edu.au&lt;/li&gt;
-  &lt;li&gt;Lance Wilson / Characterisation Virtual Laboratory (CVL) Coordinator &amp;amp;
-Senior HPC Consultant - Monash University&lt;/li&gt;
-  &lt;li&gt;Aswin Narayanan / Informatics Fellow - Centre for Advanced Imaging - National Imaging Facility&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;material&quot;&gt;Material&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://demo.codimd.org/p/rkCna2l1S#/&quot;&gt;FAIR Principles and Data management&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://demo.codimd.org/p/SJlh1PQAV#/&quot;&gt;The Characterisation Virtual Laboratory&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;CVL at MASSIVE documentation &lt;a href=&quot;http://docs.massive.org.au/&quot;&gt;http://docs.massive.org.au/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 18 Jun 2019 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/CVL_Community/FAIR-CVL/</link>
-        <guid isPermaLink="true">http://localhost:4000/CVL_Community/FAIR-CVL/</guid>
-        
-        <category>external</category>
-        
-        
-        <category>FAIR</category>
         
         <category>tutorial</category>
         
