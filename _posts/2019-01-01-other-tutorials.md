@@ -7,7 +7,7 @@ tags: [ external ]
 image: assets/images/11.jpg
 description: "A list of publicly accessible tutorials with a short description."
 beforetoc: "A list of publicly accessible tutorials with a short description."
-feature: true
+featured: true
 toc: true
 ---
 
@@ -46,10 +46,8 @@ Labeled for beginners in microscopy analysis.
 * [A brief introduction to machine learning for bio-imaging](https://drive.google.com/file/d/1vLYPyzsawvM807nqZuznb-gjemupmeZA/view){:target="_blank"} accessible to download from [http://bit.do/ML-Imaging-WS](http://bit.do/ML-Imaging-WS){:target="_blank"} provided by Nick Hamilton, Sep 2018 and March 2019.
 * [Using FIJI with Trainable Weka](https://imagej.net/Trainable_Weka_Segmentation){:target="_blank"} from imageJ.net.
 * Counting neurons in brain slices with [FIJI](http://snyderlab.com/2016/05/25/tracing-neurons-using-fiji-imagej/){:target="_blank"} by Delane Espinueva; or [two ways to count cells with ImageJ](https://www.unige.ch/medecine/bioimaging/files/3714/1208/5964/CellCounting.pdf){:target="_blank"} by Christine Labno.
-
-* [Introduction to Image processing](https://www.youtube.com/watch?v=5tFz5z88JzY&list=PLkGKyuSIzfzqVKs6wLnb-0_xsqisTWK8N&index=3&t=0s){target="_blank"} video from the Institute for Molecular Bioscience by Nicholas Condon.
-
-* [Fluorescence Lifetime Imaging Microscopy](https://www.youtube.com/watch?v=Sjc4H4dTCYs&list=PLkGKyuSIzfzqVKs6wLnb-0_xsqisTWK8N&index=2&t=0s){target="_blank"} video from the Institute for Molecular Bioscience by Nicholas Condon.  
+* [Introduction to Image processing](https://www.youtube.com/watch?v=5tFz5z88JzY&list=PLkGKyuSIzfzqVKs6wLnb-0_xsqisTWK8N&index=3&t=0s){:target="_blank"} video from the Institute for Molecular Bioscience by Nicholas Condon.
+* [Fluorescence Lifetime Imaging Microscopy](https://www.youtube.com/watch?v=Sjc4H4dTCYs&list=PLkGKyuSIzfzqVKs6wLnb-0_xsqisTWK8N&index=2&t=0s){:target="_blank"} video from the Institute for Molecular Bioscience by Nicholas Condon.  
 
 ## Neurosciences
 
@@ -59,7 +57,7 @@ Labeled for beginners in microscopy analysis.
 
 ### fMRI
 
-* Intro to fMRI (https://bic-berkeley.github.io/psych-214-fall-2016/topics.html#specific-to-fmri){:target="_blank"}.
+* Intro to [fMRI](https://bic-berkeley.github.io/psych-214-fall-2016/topics.html#specific-to-fmri){:target="_blank"} by Berkeley.
 
 ### MRtrix
 
@@ -78,7 +76,7 @@ Labeled for beginners in microscopy analysis.
 ### Image Data Resource
 
 * The Image Data Resource (IDR) publishes “reference image” datasets supporting conventional peer-reviewed publications and integrates them with other imaging datasets for cross-dataset querying of metadata (e.g. genes, phenotypes, small molecules) and re-analysis. [Submission of datasets to IDR](https://idr.openmicroscopy.org/about/submission.html){:target="_blank"} and an [IDR metadata example](https://github.com/IDR/idr-metadata){:target="_blank"}.
-*
+
 
 ### OMERO
 
@@ -88,7 +86,7 @@ Labeled for beginners in microscopy analysis.
 
 ### Python
 
-* [Python basics](https://bic-berkeley.github.io/psych-214-fall-2016/topics.html#python){:target="_blank"}.
+* [Python basics](https://bic-berkeley.github.io/psych-214-fall-2016/topics.html#python){:target="_blank"} by Berkeley.
 
 
 Last updated 10 June, 2020
