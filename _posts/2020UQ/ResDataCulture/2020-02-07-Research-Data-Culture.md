@@ -5,7 +5,7 @@ author: Paula
 categories: [ champions, FAIR, tutorial]
 tags: [ external ]
 image: assets/images/20200207__invitation__ResearchDataCulture.png
-featured: false
+featured: true
 toc: true
 ---
 

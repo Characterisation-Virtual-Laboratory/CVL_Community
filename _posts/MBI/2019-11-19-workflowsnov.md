@@ -5,7 +5,7 @@ author: Paula
 categories: [ tutorial ]
 tags: [  ]
 image: assets/images/banana.jpg
-featured: true
+featured: false
 toc: true
 ---
 
