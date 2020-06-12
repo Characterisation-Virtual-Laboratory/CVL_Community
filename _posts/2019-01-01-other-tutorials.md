@@ -64,6 +64,11 @@ Labeled for beginners in microscopy analysis.
 * [MRtrix documentation](https://mrtrix.readthedocs.io/en/latest/){:target="_blank"}
 * [MRtrix discussion forum](https://community.mrtrix.org/){:target="_blank"}, ask questions to the community!
 
+### Various tutorials from OHBM
+The organisation for Human Brain Mapping (OHBM) has a public library of the latests annual meeting materials, including videos of talks and courses.
+* [OHBM materials](https://www.pathlms.com/ohbm/courses){:target="_blank"}
+
+
 ## Generic Software tools
 
 ### Git

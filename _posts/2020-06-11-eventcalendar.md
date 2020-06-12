@@ -18,7 +18,7 @@ We collect data from internal and external events, relevant to the Characterisat
 
 Each event is also advertised via twitter [@Char_VirtLab](https://twitter.com/Char_VirtLab) and on this [CVL Community website](https://characterisation-virtual-laboratory.github.io/CVL_Community/)
 
-We are currently selecting events from the following National Collaborative Research Infrastructure Strategy (NCRIS) Capabilities and related projects. If you would like to add your events to our calendar, please get in touch. We also recommend you to have a look at events that might not be listed here.
+We are currently selecting events from the following National Collaborative Research Infrastructure Strategy (NCRIS) Capabilities and related projects. If you would like to add your events to our calendar, please get in touch. We also recommend you to have a look at events that might not be listed here. The calendar is currently being updated once a week.
 
 * [AARNet](https://www.aarnet.edu.au/events)
 * [Australian Biocommons](https://www.biocommons.org.au/events)
