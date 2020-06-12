@@ -6,7 +6,7 @@ categories: [ tutorial]
 tags: [ external ]
 image: assets/images/calendar-icon-blue.jpg
 featured: true
-toc: true
+toc: false
 ---
 
 
@@ -14,7 +14,7 @@ We collect data from internal and external events, relevant to the Characterisat
 
 # Google Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Australia%2FBrisbane&amp;src=OTVxdWJuM25jaTJ0M3NxamszaTBvOGRhbm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%233F51B5&amp;showPrint=0&amp;showCalendars=1" style="border:solid 1px #777" width="400" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Australia%2FBrisbane&amp;src=OTVxdWJuM25jaTJ0M3NxamszaTBvOGRhbm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%233F51B5&amp;showPrint=0&amp;showCalendars=1&amp;mode=AGENDA" style="border:solid 1px #777" width="550" height="400" frameborder="0" scrolling="no"></iframe>
 
 Each event is also advertised via twitter [@Char_VirtLab](https://twitter.com/Char_VirtLab) and on this [CVL Community website](https://characterisation-virtual-laboratory.github.io/CVL_Community/)
 

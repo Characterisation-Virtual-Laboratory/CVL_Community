@@ -5,9 +5,49 @@
     <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
     <link>http://localhost:4000/CVL_Community/</link>
     <atom:link href="http://localhost:4000/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Jun 2020 17:01:43 +1000</pubDate>
-    <lastBuildDate>Thu, 11 Jun 2020 17:01:43 +1000</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2020 14:46:07 +1000</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2020 14:46:07 +1000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Characterisation related events calendar</title>
+        <description>&lt;p&gt;We collect data from internal and external events, relevant to the Characterisation Community for the purpose of advertising.&lt;/p&gt;
+
+&lt;h1 id=&quot;google-calendar&quot;&gt;Google Calendar&lt;/h1&gt;
+
+&lt;iframe src=&quot;https://calendar.google.com/calendar/embed?height=400&amp;amp;wkst=1&amp;amp;bgcolor=%23ffffff&amp;amp;ctz=Australia%2FBrisbane&amp;amp;src=OTVxdWJuM25jaTJ0M3NxamszaTBvOGRhbm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;amp;color=%233F51B5&amp;amp;showPrint=0&amp;amp;showCalendars=1&quot; style=&quot;border:solid 1px #777&quot; width=&quot;400&quot; height=&quot;400&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Each event is also advertised via twitter &lt;a href=&quot;https://twitter.com/Char_VirtLab&quot;&gt;@Char_VirtLab&lt;/a&gt; and on this &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/&quot;&gt;CVL Community website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We are currently selecting events from the following National Collaborative Research Infrastructure Strategy (NCRIS) Capabilities and related projects. If you would like to add your events to our calendar, please get in touch. We also recommend you to have a look at events that might not be listed here.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.aarnet.edu.au/events&quot;&gt;AARNet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.biocommons.org.au/events&quot;&gt;Australian Biocommons&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ardc.edu.au/events/&quot;&gt;ARDC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://micro.org.au/news-events/events/&quot;&gt;Microscopy Australia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.monash.edu/data-fluency/events&quot;&gt;Monash Data Fluency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nesi.org.nz/community/events&quot;&gt;NeSI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pawsey.org.au/events/&quot;&gt;PAWSEY&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.qcif.edu.au/training/training-courses/&quot;&gt;QCIF&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://carpentries.org/upcoming_workshops/&quot;&gt;The Carpentries&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
+
+&lt;p&gt;You can email &lt;a href=&quot;p.martinez@uq.edu.au&quot;&gt;Paula Andrea Martinez&lt;/a&gt; for any questions.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 11 Jun 2020 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/CVL_Community/eventcalendar/</link>
+        <guid isPermaLink="true">http://localhost:4000/CVL_Community/eventcalendar/</guid>
+        
+        <category>external</category>
+        
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>Introduction to Git and GitLab</title>
@@ -518,55 +558,6 @@ and best data management practices.&lt;/p&gt;
         <pubDate>Tue, 20 Aug 2019 00:00:00 +1000</pubDate>
         <link>http://localhost:4000/CVL_Community/workflows_proposal/</link>
         <guid isPermaLink="true">http://localhost:4000/CVL_Community/workflows_proposal/</guid>
-        
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Introduction to FreeSurfer</title>
-        <description>&lt;p&gt;Last updated 22 July 2019&lt;/p&gt;
-
-&lt;p&gt;Cortical Reconstruction Process using FreeSurfer and the CVL. This workshop was
-requested by Sydney Imaging in collaboration with University of Sydney as a
-CVL partner. It took place at Charles Perkins Centre on Friday, 19 Jul 2019.&lt;/p&gt;
-
-&lt;h1 id=&quot;introduction-to-freesurfer-using-the-cvl&quot;&gt;Introduction to FreeSurfer using the CVL&lt;/h1&gt;
-
-&lt;p&gt;We use the CVL to get you acquainted with the concepts needed to perform
-various modes of analysis and processing of MRI data. The tutorial is designed
-to be followed along in a terminal window, where commands can be copy/pasted
-into the terminal window.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Materials kindly provided by Thomas Shaw MNeuroSc(Adv) BPsySc(Hons)&lt;/td&gt;
-      &lt;td&gt;PhD Candidate&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Centre for Advanced Imaging, The University of Queensland&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1c-kFrwxxzNaPcRz7mRr1WRD5cH6Fnq68/view&quot;&gt;FreeSurfer slides&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackmd.io/_OJnONm2Qj-__veluKyqFw?view&quot;&gt;Hands on&lt;/a&gt; materials to login into the CVL and run recon-all as a job. Useful references are included at the end.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
-
-&lt;p&gt;The CVL is a nationally funded software infrastructure collaboration
-to make scientific tools for image analysis and processing, available freely
-and cloud-ready. The &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/about&quot;&gt;CVL is also a community&lt;/a&gt; of experts who support training
-and best data management practices.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 17 Jul 2019 00:00:00 +1000</pubDate>
-        <link>http://localhost:4000/CVL_Community/FreeSurfer-CVL/</link>
-        <guid isPermaLink="true">http://localhost:4000/CVL_Community/FreeSurfer-CVL/</guid>
-        
-        <category>external</category>
         
         
         <category>tutorial</category>
