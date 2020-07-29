@@ -13,12 +13,8 @@ jobs:
       - uses: fabacab/jekyll-builder-for-github-pages-action@master
         with:
           pre_build_commands: |
-            #echo "Packaged bundler version: $(bundle --version)"
-            #echo "Updating bundler..."
-            #gem install bundler
-            echo "******"
-            bundle update html-pipeline
-            bundle update github-pages
+            echo "****** test updating ****"
+            bundle install --deployment
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
 
