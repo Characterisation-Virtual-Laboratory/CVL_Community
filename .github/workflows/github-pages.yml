@@ -14,10 +14,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
           GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
-      - uses: BryanSchuetz/jekyll-deploy-gh-pages@master 
-          env:
-            JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+         uses: BryanSchuetz/jekyll-deploy-gh-pages@master 
 
 
 
 # source https://jekyllrb.com/docs/continuous-integration/github-actions/
+# https://github.com/marketplace/actions/jekyll-deploy-gh-pages#example
