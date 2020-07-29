@@ -103,3 +103,6 @@ show_drafts: false
 # repository
 repository: paumart/CVL_Community.github.io
 
+# github
+github: [metadata]
+
