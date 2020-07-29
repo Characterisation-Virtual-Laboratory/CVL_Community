@@ -2,6 +2,6 @@
 	name = Paula Martinez
 	email = p.martinez@uq.edu.au
 
-git remote add origin https://github.com/Characterisation-Virtual-Laboratory/CVL_Community.git
+git remote add pautest https://github.com/paumart/CVL_Community.git
 
 git push -u origin master
