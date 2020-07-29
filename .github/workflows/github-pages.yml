@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-16.04
     steps:
       - uses: actions/checkout@v2
-      - uses: helaili/jekyll-action@2.0.1i
+      - uses: fabacab/jekyll-builder-for-github-pages-action@master
         with:
           pre_build_commands: |
             echo "Packaged bundler version: $(bundle --version)"
