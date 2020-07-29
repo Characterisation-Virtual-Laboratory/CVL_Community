@@ -13,8 +13,8 @@ jobs:
       - uses: fabacab/jekyll-builder-for-github-pages-action@master
         with:
           pre_build_commands: |
-            echo "[DEBUG] bundle install --full-index"
-            bundle install --full-index 
+            echo "[DEBUG] bundle update"
+            bundle update 
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
 
