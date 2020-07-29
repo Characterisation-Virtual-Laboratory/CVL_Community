@@ -44,3 +44,4 @@ The contents of this work is licensed under the [Creative Commons International 
 We would like to thank all contributors, especially those mentioned in the [Contributors list](CONTRIBUTORS.yaml), CVL partners and the Australian Research Data Commons (ARDC).
 
 We are reusing a style template *Mediumish for Jekyll*, 2019, designed and developed by [Sal](https://www.wowthemes.net) which is licensed under a MIT license. For how to use the theme follow [these instructions](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/).
+
