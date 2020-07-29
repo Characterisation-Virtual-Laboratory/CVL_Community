@@ -14,7 +14,7 @@ jobs:
         with:
           pre_build_commands: |
             echo "****** test updating ****"
-            bundle install --deployment
+            bundle config set deployment 'true'
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
 
