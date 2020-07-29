@@ -21,4 +21,5 @@ group :jekyll_plugins do
     gem 'rouge'
     gem 'github-pages'
     gem 'jekyll-target-blank'
+    gem 'html-pipeline'
 end
