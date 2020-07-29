@@ -11,10 +11,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: fabacab/jekyll-builder-for-github-pages-action@master
-        with:
-          pre_build_commands: |
-            echo "****** test updating ****"
-            bundle config set deployment 'true'
+        #with:
+        # pre_build_commands: |
+        #   echo "****** test updating ****"
+            #    bundle config set deployment 'true'
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
 
