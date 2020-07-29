@@ -16,6 +16,7 @@ jobs:
             echo "Packaged bundler version: $(bundle --version)"
             echo "Updating bundler..."
             gem install bundler
+            bundle update html-pipeline
             echo "Packaged bundler version: $(bundle --version)"
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
