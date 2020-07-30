@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Characterisation related events calendar"
+title:  "Events calendar internal and external"
 author: Paula
 categories: [ tutorial]
 tags: [ external ]
