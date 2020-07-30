@@ -103,7 +103,7 @@ exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, vendor]
 show_drafts: false
 
 # repository
-repository: paumart/CVL_Community.github.io
+repository: characterisation-virtual-laboratory.github.io/CVL_Community/
 
 # github
 github: [metadata]
