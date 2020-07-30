@@ -5,7 +5,7 @@ description: "Characterisation Virtual Laboratory Community, connecting
               image analysis to the Australian research cloud."
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
-baseurl: "/CVL_Community"
+url: "/CVL_Community"
 disqus: "cvl-community"
 include: ["_pages"]
 permalink: /:title/
