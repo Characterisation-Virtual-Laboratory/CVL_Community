@@ -21,3 +21,4 @@ jobs:
 
 # source https://jekyllrb.com/docs/continuous-integration/github-actions/
 # https://github.com/marketplace/actions/jekyll-deploy-gh-pages#example
+# https://github.com/BryanSchuetz/jekyll-deploy-gh-pages
