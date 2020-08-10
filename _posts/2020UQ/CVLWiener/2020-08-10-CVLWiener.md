@@ -64,7 +64,8 @@ Once your account and permissions are ready, you can log in to Wiener.
     <summary>Click to see the screenshot</summary>
     <img src="assets/images/wiener/wiener_FileSystem.png" alt="try1">
     <img src="../../../assets/images/wiener/wiener_FileSystem.png" alt="try2">
-    <img src="/assets/images/wiener/wiener_FileSystem.png" alt="try2">
+    <img src="../assets/images/wiener/wiener_FileSystem.png" alt="try3">
+    <img src="/../assets/images/wiener/wiener_FileSystem.png" alt="try4">
   </details>
   IF you can not access your collection, you need to send a request to [helpdesk QBI IT](mailto:helpdesk@qbi.uq.edu.au) stating your need to access UQRDM collections via the CVL@Wiener, your user name and collection's ID.
 - **To open FIJI**, go to top menu Applications> CVL Neuroimagig, CVL Fiji
