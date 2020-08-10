@@ -51,7 +51,7 @@ Once your account and permissions are ready, you can log in to Wiener.
    </details>
 1. A new tab will open and you might see shortly a message that says "Connecting to guacamole"
 1. Once you see the CVL on Wiener logo you are ready to use the tools.
-1. When you finish using the tools you need, you can shut down the desktop vis the top menu > System Shut Down. It will double check with a question, click on Shut down and close the tab
+1. When you finish using the tools you need, you can shut down the desktop via the top menu > System > Shut Down. It will double check with a question, click on Shut down and close the tab
    <details>
      <summary>Click to see the screenshot</summary>
      <img src="../assets/images/wiener/wiener_shutdownDesktop.png" alt="Shut Down">
@@ -65,7 +65,7 @@ Once your account and permissions are ready, you can log in to Wiener.
     <img src="../assets/images/wiener/wiener_FileSystem.png" alt="File System">
   </details>
   IF you can not access your collection, you need to send a request to [helpdesk QBI IT](mailto:helpdesk@qbi.uq.edu.au) stating your need to access UQRDM collections via the CVL@Wiener, your user name and collection's ID.
-- **To open FIJI**, go to top menu Applications> CVL Neuroimagig, CVL Fiji
+- **To open FIJI**, go to top menu Applications> CVL Neuroimaging, CVL Fiji
     <details>
       <summary>Click to see the screenshot</summary>
       <img src="../assets/images/wiener/wiener_FIJI-menu.png" alt="FIJI-menu">
