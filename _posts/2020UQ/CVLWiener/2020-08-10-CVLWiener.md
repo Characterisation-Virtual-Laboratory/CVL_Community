@@ -42,7 +42,7 @@ Once your account and permissions are ready, you can log in to Wiener.
 1. Then, to launch a new desktop, you can use the defaults, or modify memory and hours. Your desktop will close after the time has reach its limit. The maximum you can request is 24 hours. Click on *Launch* and wait. You should see a message at the bottom right "Desktop #XXX Launched Successfully". Note, ou can only run one desktop at the time.
     <details>
       <summary>Click to see the screenshot</summary>
-      ![Launch Desktop](assets/images/wiener/wiener_LaunchDesktop.png
+      ![Launch Desktop](assets/images/wiener/wiener_LaunchDesktop.png)
     </details>
 1. A desktop will start when state is checked, and the **Show Desktop** is available
    <details>
@@ -59,23 +59,24 @@ Once your account and permissions are ready, you can log in to Wiener.
 
 ### Open Software Applications on the CVL@wiener
 
-- To access data collections via Wiener go to File System and then click on afm01 and then look for your QXXX (look for the number of your project).
+- **To access data collections** via Wiener go to File System and then click on afm01 and then look for your QXXX (look for the number of your project).
   <details>
     <summary>Click to see the screenshot</summary>
-    ![File System](assets/images/wiener/wiener_FileSystem.png)
+    ![File System](/assets/images/wiener/wiener_FileSystem.png)
   </details>
   IF you can not access your collection, you need to send a request to [helpdesk QBI IT](mailto:helpdesk@qbi.uq.edu.au) stating your need to access UQRDM collections via the CVL@Wiener, your user name and collection's ID.
-- Open FIJI, go to top menu Applications> CVL Neuroimagig, CVL Fiji
+- **To open FIJI**, go to top menu Applications> CVL Neuroimagig, CVL Fiji
     <details>
       <summary>Click to see the screenshot</summary>
       ![FIJI menu](assets/images/wiener/wiener_FIJI-menu.png)
       <br/>
       ![FIJI Open](assets/images/wiener/wiener_FIJI-Open.png)
     </details>
-- Open the Terminal, go to top menu click on the black box
+- **To open the Terminal**, go to top menu click on the black box
     <details>
       <summary>Click to see the screenshot</summary>
       ![Open Terminal](assets/images/wiener/wiener_openterminal.png)
+
     </details>
 
 ## Contact details
