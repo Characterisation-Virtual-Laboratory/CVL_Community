@@ -11,7 +11,7 @@ toc: false
 
 How to login and use CVL on Wiener tutorial.
 
-Last updated 10 August 2020
+Last updated 11 August 2020
 
 Please note that desktops on Wiener are still in *Beta mode* and we appreciate your feedback to improve the system. For any enquiries or to report issues please send an email to QRISCloud helpdesk [support *at*  qriscloud.org.au](mailto:support@qriscloud.org.au).
 
@@ -39,11 +39,12 @@ Once your account and permissions are ready, you can log in to Wiener.
        <summary>Click to see the screenshot</summary>
        <img src="../assets/images/wiener/wiener_ClickWieneronStrudel.png" alt="Click Wiener on Strudel">
     </details>
-1. Then, to launch a new desktop, you can use the defaults, or modify memory and hours. Your desktop will close after the time has reach its limit. The maximum you can request is 24 hours. Click on *Launch* and wait. You should see a message at the bottom right "Desktop #XXX Launched Successfully". Note, ou can only run one desktop at the time.
+1. Then, to launch a new desktop, you can use the defaults options. Click on *Launch* and wait. You should see a message at the bottom right "Desktop #XXX Launched Successfully".
     <details>
       <summary>Click to see the screenshot</summary>
       <img src="../assets/images/wiener/wiener_LaunchDesktop.png" alt="Launch Desktop">
     </details>
+    Note, you can modify the parameters. You can request at most 16 cores and 8G of memory (because the memory request is per core, for a total of 128G). The maximum hours you can request is 24 hours, your desktop will close after the time has reach its limit. You can only run one desktop at the time.
 1. A desktop will start when state is checked, and the **Show Desktop** is available
    <details>
      <summary>Click to see the screenshot</summary>
@@ -51,10 +52,10 @@ Once your account and permissions are ready, you can log in to Wiener.
    </details>
 1. A new tab will open and you might see shortly a message that says "Connecting to guacamole"
 1. Once you see the CVL on Wiener logo you are ready to use the tools.
-1. When you finish using the tools you need, you can shut down the desktop via the top menu > System > Shut Down. It will double check with a question, click on Shut down and close the tab
-   <details>
-     <summary>Click to see the screenshot</summary>
-     <img src="../assets/images/wiener/wiener_shutdownDesktop.png" alt="Shut Down">
+1. When you finish using the tools you need, you can shut down the desktop by  closing the desktop tab and then, click "Stop desktop" from the launch tab.
+    <details>
+      <summary>Click to see the screenshot</summary>
+      <img src="../assets/images/wiener/wiener_ShowDesktop.png" alt="Stop Desktop">
     </details>
 
 ### Open Software Applications on the CVL@wiener
@@ -81,11 +82,11 @@ Once your account and permissions are ready, you can log in to Wiener.
 ## Contact details
 For any inquires, feedback, software requests and to report user experience issues about the CVL@Wiener, please send an email to [QRISCloud helpdesk](mailto:support@qriscloud.org.au).
 
-- Connection errors are a known issue. If this pop-up shows.
+- **Connection errors are a known issue**. If this pop-up shows.
     <details>
       <summary>Click to see the screenshot</summary>
       <img src="../assets/images/wiener/wiener_ConnectionError.png" alt="ConnectionError">
     </details>
-Try clicking on the logout button, sometimes the cache needs to be cleared, it won’t kill your desktop session, just reset the browser cache. If you see this multiple times in one session please send an email to helpdesk.
+Try clicking on the logout button, sometimes the cache needs to be cleared, it will not kill your desktop session, just reset the browser cache. If you see this multiple times in one session please send an email to helpdesk.
 
-Last updated 10 August 2020
+Last updated 11 August 2020
