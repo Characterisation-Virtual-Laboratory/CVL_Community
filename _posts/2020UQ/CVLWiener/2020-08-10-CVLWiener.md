@@ -55,7 +55,7 @@ Once your account and permissions are ready, you can log in to Wiener.
 1. When you finish using the tools you need, you can shut down the desktop by  closing the desktop tab and then, click "Stop desktop" from the launch tab.
     <details>
       <summary>Click to see the screenshot</summary>
-      <img src="../assets/images/wiener/wiener_ShowDesktop.png" alt="Stop Desktop">
+      <img src="../assets/images/wiener/wiener_StopDesktop.png" alt="Stop Desktop">
     </details>
 
 ### Open Software Applications on the CVL@wiener
