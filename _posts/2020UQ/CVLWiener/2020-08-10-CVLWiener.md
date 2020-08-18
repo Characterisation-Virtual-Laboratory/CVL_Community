@@ -3,7 +3,7 @@ layout: post
 title:  "CVL on Wiener"
 author: Paula
 categories: [ champions, tutorial]
-tags: [ external ]
+tags: [ wiener ]
 image: assets/images/wiener/wiener_SelectWiener.png
 featured: false
 toc: false
@@ -11,7 +11,7 @@ toc: false
 
 How to login and use CVL on Wiener tutorial.
 
-Last updated 11 August 2020
+Last updated 18 August 2020
 
 Please note that desktops on Wiener are still in *Beta mode* and we appreciate your feedback to improve the system. For any enquiries or to report issues please send an email to QRISCloud helpdesk [support *at*  qriscloud.org.au](mailto:support@qriscloud.org.au).
 
@@ -78,7 +78,7 @@ Once your account and permissions are ready, you can log in to Wiener.
       <summary>Click to see the screenshot</summary>
       <img src="../assets/images/wiener/wiener_openterminal.png" alt="open terminal">
     </details>
-
+- For a full list of Software Tools available on the CVL@Wiener please look at [CVLWienerSoftware](../CVLWienerSoftware).
 ## Contact details
 For any inquires, feedback, software requests and to report user experience issues about the CVL@Wiener, please send an email to [QRISCloud helpdesk](mailto:support@qriscloud.org.au).
 
@@ -89,4 +89,4 @@ For any inquires, feedback, software requests and to report user experience issu
     </details>
 Try clicking on the logout button, sometimes the cache needs to be cleared, it will not kill your desktop session, just reset the browser cache. If you see this multiple times in one session please send an email to helpdesk.
 
-Last updated 11 August 2020
+Last updated 18 August 2020
