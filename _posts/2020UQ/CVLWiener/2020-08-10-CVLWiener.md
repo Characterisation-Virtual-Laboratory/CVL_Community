@@ -6,14 +6,14 @@ categories: [ champions, tutorial]
 tags: [ wiener ]
 image: assets/images/wiener/wiener_SelectWiener.png
 featured: false
-toc: false
+toc: true
 ---
 
 How to login and use CVL on Wiener tutorial.
 
-Last updated 18 August 2020
+Last updated 19 August 2020
 
-Please note that desktops on Wiener are still in *Beta mode* and we appreciate your feedback to improve the system. For any enquiries or to report issues please send an email to QRISCloud helpdesk [support *at*  qriscloud.org.au](mailto:support@qriscloud.org.au).
+Please note that desktops on Wiener are in *Beta mode* and we appreciate your feedback to improve the system. For any enquiries or to report issues please send an email to QRISCloud helpdesk [support *at*  qriscloud.org.au](mailto:support@qriscloud.org.au).
 
 ## Get an account on Wiener
 If you have University of Queensland credentials and have the need to use infrastructure resources such as HPC and GPUs you can request an account on Wiener.
@@ -58,6 +58,10 @@ Once your account and permissions are ready, you can log in to Wiener.
       <img src="../assets/images/wiener/wiener_StopDesktop.png" alt="Stop Desktop">
     </details>
 
+
+## Full List of applications available
+For a full list of Software Tools available on the CVL@Wiener please look at [CVLWienerSoftware](../CVLWienerSoftware).
+
 ### Open Software Applications on the CVL@wiener
 
 - **To access data collections** via Wiener go to File System and then click on afm01 and then look for your QXXX (look for the number of your project).
@@ -78,15 +82,25 @@ Once your account and permissions are ready, you can log in to Wiener.
       <summary>Click to see the screenshot</summary>
       <img src="../assets/images/wiener/wiener_openterminal.png" alt="open terminal">
     </details>
-- For a full list of Software Tools available on the CVL@Wiener please look at [CVLWienerSoftware](../CVLWienerSoftware).
+
+
 ## Contact details
 For any inquires, feedback, software requests and to report user experience issues about the CVL@Wiener, please send an email to [QRISCloud helpdesk](mailto:support@qriscloud.org.au).
 
-- **Connection errors are a known issue**. If this pop-up shows.
+## Connection errors
+
+- **Connection errors exist and we are trying to fix them**. If this pop-up shows.
     <details>
       <summary>Click to see the screenshot</summary>
       <img src="../assets/images/wiener/wiener_ConnectionError.png" alt="ConnectionError">
     </details>
-Try clicking on the logout button, sometimes the cache needs to be cleared, it will not kill your desktop session, just reset the browser cache. If you see this multiple times in one session please send an email to helpdesk.
+    Try clicking on the logout button, sometimes the cache needs to be cleared, it will not kill your desktop session, just reset the browser cache. If you see this multiple times in one session please send an email to helpdesk.
+- If you see a blank screen with ‘No recent connections’ Please click the top right drop down menu and  select ‘log-out’. It'll take you to the Desktop.
+    <details>
+      <summary>Click to see the screenshot</summary>
+      <img src="../assets/images/wiener/wiener_norecentconnections" alt="ConnectionError">
+    </details>
 
-Last updated 18 August 2020
+
+
+Last updated 19 August 2020
