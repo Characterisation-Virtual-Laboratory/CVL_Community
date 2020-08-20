@@ -98,7 +98,7 @@ For any inquires, feedback, software requests and to report user experience issu
 - If you see a blank screen with ‘No recent connections’ Please click the top right drop down menu and  select ‘log-out’. It'll take you to the Desktop.
     <details>
       <summary>Click to see the screenshot</summary>
-      <img src="../assets/images/wiener/wiener_norecentconnections" alt="ConnectionError">
+      <img src="../assets/images/wiener/wiener_norecentconnections.png" alt="ConnectionError">
     </details>
 
 
