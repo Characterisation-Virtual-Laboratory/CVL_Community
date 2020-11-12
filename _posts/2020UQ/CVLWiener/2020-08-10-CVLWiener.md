@@ -32,8 +32,8 @@ Once your account and permissions are ready, you can log in to Wiener.
       <img src="../assets/images/wiener/wiener_SelectWiener.png" alt="Select Wiener">
    </details>
 1. Click the blue button "LOGIN".<br><br>
-1. Authorisation is required for this step. When asked, please login with your institutional credentials through AAF. You can check the box to remember your details, or it will ask you every time you login.<br>
-1. Click the blue button "I AGREE" to share your email to the system.<br>
+1. Authorisation is required for this step. When asked, please login with your institutional credentials through AAF. You can check the box to remember your details, or it will ask you every time you login.<br><br>
+1. Click the blue button "I AGREE" to share your email to the system.<br><br>
 1. Once you see a new window called "Strudel Web", click on **WIENER**
     <details>
        <summary>Click to see the screenshot</summary>
