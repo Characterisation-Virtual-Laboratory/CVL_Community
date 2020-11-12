@@ -50,6 +50,9 @@ Once your account and permissions are ready, you can log in to Wiener.
      <summary>Click to see the screenshot</summary>
      <img src="../assets/images/wiener/wiener_ShowDesktop.png" alt="Show Desktop">
    </details>
+
+1. A new tab will open and you **might** see shortly a message that says "Connecting to guacamole"  **There are known connection issues with this step and the team is working to fix this.  You may need to hit the "logout" button to start the desktop launch.  See ## Connection Errors.**
+=======
 1. A new tab will open and you **might** see shortly a message that says "Connecting to guacamole".<br><br>
     **There are known connection issues with this step and the team is working to fix this.**  
     **You may need to hit the *LOGOUT* button to *start* the desktop launch.**<br>
@@ -65,12 +68,6 @@ Once your account and permissions are ready, you can log in to Wiener.
         <img src="../assets/images/wiener/wiener_ConnectionError.png" alt="ConnectionError">
         </details>
         try clicking on the logout button, sometimes the cache needs to be cleared, it will not kill your desktop session, just reset the browser cache. If you see this multiple times in one session please send an email to helpdesk.<br>       
-1. Once you see the CVL on Wiener logo you are ready to use the tools.
-1. When you finish using the tools you need, you can shut down the desktop by  closing the desktop tab and then, click "Stop desktop" from the launch tab.
-    <details>
-      <summary>Click to see the screenshot</summary>
-      <img src="../assets/images/wiener/wiener_StopDesktop.png" alt="Stop Desktop">
-    </details>
 
 
 ## Full List of applications available
