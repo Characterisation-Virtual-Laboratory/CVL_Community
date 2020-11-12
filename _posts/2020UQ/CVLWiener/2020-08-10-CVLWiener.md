@@ -58,7 +58,7 @@ Once your account and permissions are ready, you can log in to Wiener.
         <details>
         <summary>Click to see the screenshot</summary>
         <img src="../assets/images/wiener/wiener_norecentconnections.png" alt="ConnectionError">
-           </details><br>
+           </details>
       - If this pop-up shows:
         <details>
         <summary>Click to see the screenshot</summary>
