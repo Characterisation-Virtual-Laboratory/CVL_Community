@@ -30,7 +30,7 @@ Once your account and permissions are ready, you can log in to Wiener.
    <details>
       <summary>Click to see the screenshot</summary>
       <img src="../assets/images/wiener/wiener_SelectWiener.png" alt="Select Wiener">
-   </details>
+   </details><br>
 1. Click the blue button "LOGIN".<br><br>
 1. Authorisation is required for this step. When asked, please login with your institutional credentials through AAF. You can check the box to remember your details, or it will ask you every time you login.<br><br>
 1. Click the blue button "I AGREE" to share your email to the system.<br><br>
@@ -44,7 +44,7 @@ Once your account and permissions are ready, you can log in to Wiener.
       <summary>Click to see the screenshot</summary>
       <img src="../assets/images/wiener/wiener_LaunchDesktop.png" alt="Launch Desktop">
     </details><br>
-    Note: you can modify the parameters. You can request at most 16 cores and 8G of memory (because the memory request is per core, for a total of 128G). The maximum hours you can request is 24 hours, your desktop will close after the time has reach its limit. You can only run one desktop at the time.<br><br>
+    Note: you can modify the parameters. You can request at most 16 cores and 8G of memory (because the memory request is per core, for a total of 128G). The maximum hours you can request is 24 hours, your desktop will close after the time has reach its limit. You can only run one desktop at the time.<br>
 1. A desktop will start when state is checked, and the **Show Desktop** is available
    <details>
      <summary>Click to see the screenshot</summary>
@@ -65,7 +65,7 @@ Once your account and permissions are ready, you can log in to Wiener.
         <img src="../assets/images/wiener/wiener_ConnectionError.png" alt="ConnectionError">
         </details>
         try clicking on the logout button, sometimes the cache needs to be cleared, it will not kill your desktop session, just reset the browser cache. If you see this multiple times in one session please send an email to helpdesk.<br><br>       
-1. Once you see the "CVL on Wiener" logo you are ready to use the tools.<br>
+1. Once you see the "CVL on Wiener" logo you are ready to use the tools.<br><br>
 1. When you finish using the tools you need, you can shut down the desktop by closing the desktop tab and then, click "Stop desktop" from the launch tab.
     <details>
       <summary>Click to see the screenshot</summary>
