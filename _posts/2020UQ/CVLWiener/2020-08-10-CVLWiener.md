@@ -53,7 +53,7 @@ Once your account and permissions are ready, you can log in to Wiener.
 1. A new tab will open and you **might** see shortly a message that says "Connecting to guacamole".<br><br>
     **There are known connection issues with this step and the team is working to fix this.**  
     **You may need to hit the *LOGOUT* button to *start* the desktop launch.**<br>
-    ### Connection errors
+    <br>
       - If this pop-up shows:
             <details>
             <summary>Click to see the screenshot</summary>
