@@ -11,7 +11,7 @@ toc: true
 
 How to login and use CVL on Wiener tutorial.
 
-Last updated 19 August 2020
+Last updated 12 November 2020
 
 Please note that desktops on Wiener are in *Beta mode* and we appreciate your feedback to improve the system. For any enquiries or to report issues please send an email to QRISCloud helpdesk [support *at*  qriscloud.org.au](mailto:support@qriscloud.org.au).
 
@@ -50,13 +50,24 @@ Once your account and permissions are ready, you can log in to Wiener.
      <summary>Click to see the screenshot</summary>
      <img src="../assets/images/wiener/wiener_ShowDesktop.png" alt="Show Desktop">
    </details>
+
 1. A new tab will open and you **might** see shortly a message that says "Connecting to guacamole"  **There are known connection issues with this step and the team is working to fix this.  You may need to hit the "logout" button to start the desktop launch.  See ## Connection Errors.**
-1. Once you see the CVL on Wiener logo you are ready to use the tools.
-1. When you finish using the tools you need, you can shut down the desktop by  closing the desktop tab and then, click "Stop desktop" from the launch tab.
-    <details>
-      <summary>Click to see the screenshot</summary>
-      <img src="../assets/images/wiener/wiener_StopDesktop.png" alt="Stop Desktop">
-    </details>
+=======
+1. A new tab will open and you **might** see shortly a message that says "Connecting to guacamole".<br><br>
+    **There are known connection issues with this step and the team is working to fix this.**  
+    **You may need to hit the *LOGOUT* button to *start* the desktop launch.**<br>
+    <br>
+      - If you see a blank screen with ‘No recent connections’, please click the top right drop down menu and  select ‘log-out’. It'll take you to the Desktop.
+        <details>
+        <summary>Click to see the screenshot</summary>
+        <img src="../assets/images/wiener/wiener_norecentconnections.png" alt="ConnectionError">
+           </details>
+      - If this pop-up shows:
+        <details>
+        <summary>Click to see the screenshot</summary>
+        <img src="../assets/images/wiener/wiener_ConnectionError.png" alt="ConnectionError">
+        </details>
+        try clicking on the logout button, sometimes the cache needs to be cleared, it will not kill your desktop session, just reset the browser cache. If you see this multiple times in one session please send an email to helpdesk.<br>       
 
 
 ## Full List of applications available
@@ -87,20 +98,6 @@ For a full list of Software Tools available on the CVL@Wiener please look at [CV
 ## Contact details
 For any inquires, feedback, software requests and to report user experience issues about the CVL@Wiener, please send an email to [QRISCloud helpdesk](mailto:support@qriscloud.org.au).
 
-## Connection errors
-
-- **Connection errors exist and we are trying to fix them**. If this pop-up shows.
-    <details>
-      <summary>Click to see the screenshot</summary>
-      <img src="../assets/images/wiener/wiener_ConnectionError.png" alt="ConnectionError">
-    </details>
-    Try clicking on the logout button, sometimes the cache needs to be cleared, it will not kill your desktop session, just reset the browser cache. If you see this multiple times in one session please send an email to helpdesk.
-- If you see a blank screen with ‘No recent connections’ Please click the top right drop down menu and  select ‘log-out’. It'll take you to the Desktop.
-    <details>
-      <summary>Click to see the screenshot</summary>
-      <img src="../assets/images/wiener/wiener_norecentconnections.png" alt="ConnectionError">
-    </details>
 
 
-
-Last updated 19 August 2020
+Last updated 12 November 2020
