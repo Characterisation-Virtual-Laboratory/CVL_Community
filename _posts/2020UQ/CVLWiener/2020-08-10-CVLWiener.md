@@ -44,7 +44,7 @@ Once your account and permissions are ready, you can log in to Wiener.
       <summary>Click to see the screenshot</summary>
       <img src="../assets/images/wiener/wiener_LaunchDesktop.png" alt="Launch Desktop">
     </details><br>
-    Note: you can modify the parameters. You can request at most 16 cores and 8G of memory (because the memory request is per core, for a total of 128G). The maximum hours you can request is 24 hours, your desktop will close after the time has reach its limit. You can only run one desktop at the time.<br>
+    Note: you can modify the parameters. You can request at most 16 cores and 8G of memory (because the memory request is per core, for a total of 128G). The maximum hours you can request is 24 hours, your desktop will close after the time has reach its limit. You can only run one desktop at the time.<br><br>
 1. A desktop will start when state is checked, and the **Show Desktop** is available
    <details>
      <summary>Click to see the screenshot</summary>
