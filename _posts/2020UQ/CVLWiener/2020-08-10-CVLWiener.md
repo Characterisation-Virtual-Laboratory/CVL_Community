@@ -59,12 +59,12 @@ Once your account and permissions are ready, you can log in to Wiener.
         <summary>Click to see the screenshot</summary>
         <img src="../assets/images/wiener/wiener_norecentconnections.png" alt="ConnectionError">
            </details><br>
-       - If this pop-up shows:
-         <details>
-         <summary>Click to see the screenshot</summary>
-         <img src="../assets/images/wiener/wiener_ConnectionError.png" alt="ConnectionError">
-         </details>
-         try clicking on the logout button, sometimes the cache needs to be cleared, it will not kill your desktop session, just reset the browser cache. If you see this multiple times in one session please send an email to helpdesk.<br>       
+      - If this pop-up shows:
+        <details>
+        <summary>Click to see the screenshot</summary>
+        <img src="../assets/images/wiener/wiener_ConnectionError.png" alt="ConnectionError">
+        </details>
+        try clicking on the logout button, sometimes the cache needs to be cleared, it will not kill your desktop session, just reset the browser cache. If you see this multiple times in one session please send an email to helpdesk.<br>       
 1. Once you see the CVL on Wiener logo you are ready to use the tools.
 1. When you finish using the tools you need, you can shut down the desktop by  closing the desktop tab and then, click "Stop desktop" from the launch tab.
     <details>
