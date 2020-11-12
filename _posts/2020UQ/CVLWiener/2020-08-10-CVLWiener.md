@@ -53,14 +53,14 @@ Once your account and permissions are ready, you can log in to Wiener.
 1. A new tab will open and you **might** see shortly a message that says "Connecting to guacamole".<br><br>
     **There are known connection issues with this step and the team is working to fix this.**  
     **You may need to hit the *LOGOUT* button to *start* the desktop launch.**<br>
-    # Connection errors
-      - **Connection errors exist and we are trying to fix them**. If this pop-up shows.
+    ## Connection errors
+      - If this pop-up shows:
             <details>
             <summary>Click to see the screenshot</summary>
             <img src="../assets/images/wiener/wiener_ConnectionError.png" alt="ConnectionError">
             </details>
-            Try clicking on the logout button, sometimes the cache needs to be cleared, it will not kill your desktop session, just reset the browser cache. If you see this multiple times in one session please send an email to helpdesk.
-        - If you see a blank screen with ‘No recent connections’ Please click the top right drop down menu and  select ‘log-out’. It'll take you to the Desktop.
+            try clicking on the logout button, sometimes the cache needs to be cleared, it will not kill your desktop session, just reset the browser cache. If you see this multiple times in one session please send an email to helpdesk.
+       - If you see a blank screen with ‘No recent connections’, please click the top right drop down menu and  select ‘log-out’. It'll take you to the Desktop.
         <details>
         <summary>Click to see the screenshot</summary>
         <img src="../assets/images/wiener/wiener_norecentconnections.png" alt="ConnectionError">
