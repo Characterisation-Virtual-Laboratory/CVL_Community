@@ -50,7 +50,10 @@ Once your account and permissions are ready, you can log in to Wiener.
      <summary>Click to see the screenshot</summary>
      <img src="../assets/images/wiener/wiener_ShowDesktop.png" alt="Show Desktop">
    </details>
-1. A new tab will open and you might see shortly a message that says "Connecting to guacamole"
+1. A new tab will open and you **might** see shortly a message that says "Connecting to guacamole"
+
+**There are known connection issues with this step and the team is working to fix this.  You may need to hit the "logout" button to start the desktop launch.**
+
 1. Once you see the CVL on Wiener logo you are ready to use the tools.
 1. When you finish using the tools you need, you can shut down the desktop by  closing the desktop tab and then, click "Stop desktop" from the launch tab.
     <details>
