@@ -54,7 +54,7 @@ Once your account and permissions are ready, you can log in to Wiener.
     **There are known connection issues with this step and the team is working to fix this.**  
     **You may need to hit the *LOGOUT* button to *start* the desktop launch.**<br>
     <br>
-      - If you see a blank screen with ‘No recent connections’, please click the top right drop down menu and  select ‘log-out’. It'll take you to the Desktop.
+      - If you see a blank screen with ‘No recent connections’, please click the top right dropdown menu and select ‘log-out’. This will take you to the desktop.
         <details>
         <summary>Click to see the screenshot</summary>
         <img src="../assets/images/wiener/wiener_norecentconnections.png" alt="ConnectionError">
