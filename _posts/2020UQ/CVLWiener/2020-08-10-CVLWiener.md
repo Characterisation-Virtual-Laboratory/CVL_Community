@@ -26,13 +26,13 @@ If you have University of Queensland credentials and have the need to use infras
 
 Once your account and permissions are ready, you can log in to Wiener.
 
-1. We recommend using Chrome, and navegate to [https://desktop.cvl.org.au](https://desktop.cvl.org.au){:target="_blank"}. From the drowpdown "Select remote system", select *CVL@Wiener (BETA)*.
+1. We recommend using Chrome, and navigate to [https://desktop.cvl.org.au](https://desktop.cvl.org.au){:target="_blank"}. From the drowpdown "Select remote system", select *CVL@Wiener (BETA)*.
    <details>
       <summary>Click to see the screenshot</summary>
       <img src="../assets/images/wiener/wiener_SelectWiener.png" alt="Select Wiener">
-   </details><br>
-1. Click the blue button "LOGIN"<br>
-1. Authorisation required for this step. When asked, please login with your institutional credentials through AAF. You can check the box to remember your details, or it will ask you every time you login.<br>
+   </details>
+1. Click the blue button "LOGIN".<br>
+1. Authorisation is required for this step. When asked, please login with your institutional credentials through AAF. You can check the box to remember your details, or it will ask you every time you login.<br>
 1. Click the blue button "I AGREE" to share your email to the system.<br>
 1. Once you see a new window called "Strudel Web", click on **WIENER**
     <details>
